@@ -1,0 +1,978 @@
+,index,Brand,model,price,rating,5G,NFC,IR Blaster,Processor Brand,Processor Name,Processor Core,Processor Speed,Ram(in Gb),Rom(in Gb),Battery Capacity(in mAh),Fast Charging Available,Fast Charging Capacity(Wat),Display Size,Refresh Rate(in Hz),Number of Camera,Primary Rear Camera,Primary Front Camera,Memory Card Support,Extended Memory Capacity(in Gb),os
+0,0,oneplus,OnePlus 11 5G,54999,89.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,12,256,5000,True,100.0,6.7,120,3,50.0,16.0,False,,android
+1,1,oneplus,OnePlus Nord CE 2 Lite 5G,19989,81.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,33.0,6.59,120,3,64.0,16.0,True,1000.0,android
+2,2,samsung,Samsung Galaxy A14 5G,16499,75.0,True,False,False,exynos,Exynos 1330,8.0,2.4,4,64,5000,True,15.0,6.6,90,3,50.0,13.0,True,1000.0,android
+3,3,motorola,Motorola Moto G62 5G,14999,81.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,6,128,5000,True,,6.55,120,3,50.0,16.0,True,1000.0,android
+4,4,realme,Realme 10 Pro Plus,24999,82.0,True,False,False,dimensity,Dimensity 1080,8.0,2.6,6,128,5000,True,67.0,6.7,120,3,108.0,16.0,False,,android
+5,5,samsung,Samsung Galaxy F23 5G (6GB RAM + 128GB),16999,80.0,True,True,False,snapdragon,Snapdragon  750G,8.0,2.2,6,128,5000,True,25.0,6.6,120,3,50.0,8.0,True,1000.0,android
+6,6,apple,Apple iPhone 14,65999,81.0,True,True,False,apple,Bionic A15,6.0,3.22,6,128,3279,True,,6.1,60,2,12.0,12.0,False,,ios
+7,7,xiaomi,Xiaomi Redmi Note 12 Pro Plus,29999,86.0,True,False,True,dimensity,Dimensity 1080,8.0,2.6,8,256,4980,True,120.0,6.67,120,3,200.0,16.0,False,,android
+8,8,nothing,Nothing Phone 1,26749,85.0,True,True,False,snapdragon,Snapdragon 778G Plus,8.0,2.5,8,128,4500,True,33.0,6.55,120,2,50.0,16.0,,,android
+9,9,oneplus,OnePlus Nord 2T 5G,28999,84.0,True,True,False,dimensity,Dimensity  1300,8.0,3.0,8,128,4500,True,80.0,6.43,90,3,50.0,32.0,,,android
+10,10,realme,Realme 10 Pro,18999,82.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,33.0,6.72,120,2,108.0,16.0,True,1000.0,android
+11,11,oppo,Oppo A78,18999,79.0,True,True,False,dimensity,Dimensity 700 5G,8.0,2.2,8,128,5000,True,33.0,6.56,90,2,50.0,8.0,True,,android
+12,12,xiaomi,Xiaomi Redmi Note 12 Pro 5G,24762,79.0,True,False,True,dimensity,Dimensity 1080,8.0,2.6,6,128,5000,True,67.0,6.67,120,3,50.0,16.0,,,android
+13,13,vivo,Vivo T1 5G (6GB RAM + 128GB),16990,80.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,6,128,5000,True,18.0,6.58,120,3,50.0,16.0,True,1000.0,android
+14,14,samsung,Samsung Galaxy S23 Ultra 5G,114990,,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,256,5000,True,45.0,6.8,120,4,200.0,12.0,False,,android
+15,15,apple,Apple iPhone 13,62999,79.0,True,True,False,apple,Bionic A15,6.0,3.22,4,128,3240,True,,6.1,60,2,12.0,12.0,False,,ios
+16,16,vivo,Vivo Y16,9999,65.0,False,False,False,dimensity,Helio P35,8.0,2.3,3,32,5000,True,10.0,6.51,60,2,13.0,5.0,True,,android
+17,17,oppo,OPPO Reno 9 Pro Plus,45999,86.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,16,256,4700,True,80.0,6.7,120,3,50.0,32.0,,,android
+18,18,oneplus,OnePlus 10R 5G,32999,86.0,True,True,False,dimensity,Dimensity 8100 Max,8.0,2.85,8,128,5000,True,80.0,6.7,120,3,50.0,16.0,,,android
+19,19,vivo,Vivo Y22,14499,72.0,False,False,False,dimensity,Helio G70,8.0,2.0,4,64,5000,True,18.0,6.55,60,2,50.0,8.0,True,1000.0,android
+20,20,oneplus,OnePlus 11R,39999,85.0,True,True,False,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,8,128,5000,True,100.0,6.7,120,3,50.0,16.0,,,android
+21,21,vivo,Vivo V25 Pro 5G,35999,85.0,True,False,False,dimensity,Dimensity 1300,8.0,3.0,8,128,4830,True,66.0,6.56,120,3,64.0,32.0,,,android
+22,22,poco,Poco X4 Pro 5G,14999,80.0,True,False,True,snapdragon,Snapdragon 695 ,8.0,2.2,6,64,5000,True,67.0,6.67,120,3,64.0,16.0,True,1000.0,android
+23,23,xiaomi,Xiaomi Redmi Note 12,17859,76.0,True,False,True,snapdragon,Snapdragon 4 Gen 1,8.0,2.0,4,128,5000,True,33.0,6.67,120,3,48.0,13.0,True,1000.0,android
+24,24,vivo,Vivo V26 Pro,42990,87.0,True,True,False,dimensity,Dimensity 9000 Plus,8.0,3.2,12,256,4800,True,100.0,6.7,120,3,64.0,32.0,,,android
+25,25,samsung,Samsung Galaxy S20 FE 5G,31239,88.0,True,True,False,snapdragon,Snapdragon 865,8.0,2.84,8,128,4500,True,,6.5,120,3,12.0,32.0,True,,android
+26,26,oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB),21995,84.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,8,128,5000,True,33.0,6.59,120,3,64.0,16.0,True,1000.0,android
+27,27,apple,Apple iPhone 14 Pro Max,129990,76.0,True,True,False,apple,Bionic  A16,6.0,,6,128,4323,True,,6.7,120,3,48.0,12.0,False,,ios
+28,28,vivo,Vivo V25 5G,27999,83.0,True,False,False,dimensity,Dimensity  900,8.0,2.0,8,128,4500,True,44.0,6.44,90,3,64.0,50.0,True,1000.0,android
+29,29,oneplus,OnePlus 11 Pro,69999,,True,True,False,snapdragon,Snapdragon  8 Gen2,8.0,3.2,8,128,4500,True,100.0,6.7,120,3,50.0,16.0,,,android
+30,30,realme,Realme 10 Pro (8GB RAM + 128GB),19999,84.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,8,128,5000,True,33.0,6.72,120,2,108.0,16.0,True,1000.0,android
+31,31,poco,Poco X5 Pro,20999,81.0,True,True,True,snapdragon,Snapdragon 778G,8.0,2.4,6,128,5000,True,67.0,6.67,120,3,108.0,16.0,False,,android
+32,32,vivo,Vivo V27,27990,83.0,True,False,False,dimensity,Dimensity  930,8.0,2.2,8,256,4700,True,67.0,6.56,120,3,64.0,50.0,True,,android
+33,33,apple,Apple iPhone 11,38999,73.0,False,True,False,apple,A13 Bionic,6.0,2.65,4,64,3110,False,,6.1,60,2,12.0,12.0,False,,ios
+34,34,samsung,Samsung Galaxy M53 5G,23790,85.0,True,False,False,dimensity,Dimensity  900 5G,8.0,2.4,6,128,5000,True,25.0,6.7,120,4,108.0,32.0,True,1000.0,android
+35,35,samsung,Samsung Galaxy S21 FE 5G,39999,87.0,True,True,False,exynos,Exynos  2100,8.0,2.9,8,128,4500,True,25.0,6.4,120,3,12.0,32.0,False,,android
+36,36,oppo,Oppo Reno 8T,29990,87.0,True,True,False,snapdragon,Snapdragon  695,8.0,2.2,8,256,5000,True,66.0,6.67,120,3,108.0,16.0,True,1000.0,android
+37,37,samsung,Samsung Galaxy S22 Ultra 5G,91999,,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,12,256,5000,True,45.0,6.8,120,4,108.0,40.0,,,android
+38,38,xiaomi,Xiaomi Redmi Note 12 Pro Max 5G,32999,83.0,True,False,True,snapdragon,Snapdragon  7 Gen1,8.0,2.36,6,128,5200,True,210.0,6.67,120,4,108.0,32.0,True,512.0,android
+39,39,oppo,OPPO Reno 9 5G,28499,83.0,True,True,False,snapdragon,Snapdragon 778G,8.0,2.4,8,256,4500,True,67.0,6.7,120,2,64.0,32.0,,,android
+40,40,oneplus,OnePlus Nord CE 3 5G,21999,83.0,True,True,False,snapdragon,Snapdragon  695,8.0,2.2,6,128,5000,True,67.0,6.7,120,3,108.0,16.0,True,1000.0,android
+41,41,xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,19999,83.0,True,False,True,snapdragon,Snapdragon  695,8.0,2.2,6,128,5000,True,67.0,6.67,120,3,108.0,16.0,True,1000.0,android
+42,42,motorola,Motorola Edge 20 Fusion 5G,18999,87.0,True,True,False,dimensity,Dimensity 800U,8.0,2.4,6,128,5000,True,30.0,6.67,90,3,108.0,32.0,True,1000.0,android
+43,43,realme,Realme 10 Pro Plus (8GB RAM + 256GB),27999,85.0,True,False,False,dimensity,Dimensity 1080,8.0,2.6,8,256,5000,True,67.0,6.7,120,3,108.0,16.0,False,,android
+44,44,vivo,Vivo Y35,18499,80.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,8,128,5000,True,44.0,6.58,90,3,50.0,16.0,True,1000.0,android
+45,45,samsung,Samsung Galaxy M33 5G,17478,81.0,True,True,False,exynos,Exynos  1280,8.0,2.4,6,128,6000,True,25.0,6.6,120,4,50.0,8.0,True,1000.0,android
+46,46,xiaomi,Xiaomi Redmi Note 11,11936,76.0,False,False,True,snapdragon,Snapdragon  680,8.0,2.4,4,64,5000,True,33.0,6.43,90,4,50.0,13.0,True,512.0,android
+47,47,realme,Realme C33,8950,64.0,False,False,False,unisoc,Unisoc T612,8.0,1.8,3,32,5000,False,,6.5,60,2,50.0,5.0,True,1000.0,android
+48,48,vivo,Vivo Y16 (4GB RAM + 64GB),12489,68.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,64,5000,True,10.0,6.51,60,2,13.0,5.0,True,,android
+49,49,samsung,Samsung Galaxy A74 5G,42999,,True,True,False,snapdragon,Snapdragon 7 Gen1,8.0,2.36,8,128,5000,True,33.0,6.7,120,4,108.0,32.0,True,1000.0,android
+50,50,samsung,Samsung Galaxy A14 5G (6GB RAM + 128GB),18999,79.0,True,False,False,exynos,Exynos 1330,8.0,2.4,6,128,5000,True,15.0,6.6,90,3,50.0,13.0,True,1000.0,android
+51,51,iqoo,iQOO Neo 7 5G,29999,82.0,True,True,True,dimensity,Dimensity 8200,8.0,3.1,8,128,5000,True,120.0,6.78,120,3,64.0,16.0,,,android
+52,52,jio,Jio JioPhone 5G,11990,64.0,True,False,False,snapdragon,Snapdragon 480+,8.0,2.2,4,32,5000,True,18.0,6.5,90,1,13.0,8.0,True,512.0,android
+53,53,motorola,Motorola Moto G82 5G,18999,83.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,30.0,6.6,120,3,50.0,16.0,True,1000.0,android
+54,54,realme,Realme 10,13999,74.0,False,False,False,dimensity,Helio G99,8.0,2.2,4,64,5000,True,33.0,6.4,90,2,50.0,16.0,True,1000.0,android
+55,55,realme,Realme 9i 5G,14965,75.0,True,False,False,dimensity,Dimensity 810 5G,8.0,2.4,4,64,5000,True,18.0,6.6,90,3,50.0,8.0,True,1000.0,android
+56,56,apple,Apple iPhone 14 Plus,74999,82.0,True,True,False,apple,Bionic A15,6.0,3.22,6,128,4325,True,,6.7,60,2,12.0,12.0,False,,ios
+57,57,xiaomi,Xiaomi Redmi Note 10S,10999,78.0,False,False,True,dimensity,Helio G95,8.0,2.05,6,64,5000,True,33.0,6.43,60,4,64.0,13.0,True,512.0,android
+58,58,samsung,Samsung Galaxy S23 Plus,84990,89.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,256,4700,True,45.0,6.6,120,3,50.0,12.0,,,android
+59,59,motorola,Motorola Moto G32,10499,75.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,4,64,5000,True,33.0,6.55,90,3,50.0,16.0,True,1000.0,android
+60,60,xiaomi,Xiaomi Redmi Note 13 Pro 5G,17990,78.0,True,True,True,dimensity,Dimensity 720,8.0,2.0,6,128,5000,True,67.0,6.67,120,3,108.0,16.0,,,android
+61,61,vivo,Vivo S16,29990,85.0,True,True,False,snapdragon,Snapdragon 870,8.0,3.2,8,128,4600,True,66.0,6.78,120,3,64.0,50.0,,,android
+62,62,samsung,Samsung Galaxy A23,18499,79.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,6,128,5000,True,25.0,6.6,60,4,50.0,8.0,True,1000.0,android
+63,63,vivo,Vivo Y22 (6GB RAM + 128GB),16499,75.0,False,False,False,dimensity,Helio G70,8.0,2.0,6,128,5000,True,18.0,6.55,60,2,50.0,8.0,True,1000.0,android
+64,64,poco,Poco M4 Pro 5G (6GB RAM + 128GB),14999,81.0,True,False,True,dimensity,Dimensity  810 5G,8.0,2.4,6,128,5000,True,33.0,6.6,90,2,50.0,16.0,True,1000.0,android
+65,65,vivo,Vivo S16 Pro,35499,86.0,True,True,False,dimensity,Dimensity 8200,8.0,3.1,8,256,4600,True,66.0,6.78,120,3,50.0,50.0,,,android
+66,66,oneplus,OnePlus 10 Pro 5G,60999,89.0,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,8,128,5000,True,80.0,6.7,120,3,50.0,32.0,,,android
+67,67,xiaomi,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),32999,87.0,True,False,True,dimensity,Dimensity 1080,8.0,2.6,12,256,4980,True,120.0,6.67,120,3,200.0,16.0,False,,android
+68,68,samsung,Samsung Galaxy F23 5G,15999,78.0,True,True,False,snapdragon,Snapdragon  750G,8.0,2.2,4,128,5000,True,25.0,6.6,120,3,50.0,8.0,True,1000.0,android
+69,69,oppo,Oppo Find N Fold,99990,,True,True,False,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,8,256,5000,True,67.0,7.1,120,3,64.0,32.0,,,android
+70,70,oppo,OPPO A17K,9499,62.0,False,False,False,dimensity,Helio G35,8.0,2.3,3,64,5000,False,,6.56,60,1,8.0,5.0,True,1000.0,android
+71,71,vivo,Vivo V23 5G (12GB RAM + 256GB),27994,86.0,True,False,False,dimensity,Dimensity  920 5G,8.0,2.5,12,256,4200,True,44.0,6.44,90,3,64.0,50.0,True,,android
+72,72,iqoo,iQOO Z6 Lite 5G,13989,75.0,True,False,False,snapdragon,Snapdragon  4 Gen 1,8.0,2.0,4,64,5000,True,18.0,6.58,120,2,50.0,8.0,True,1000.0,android
+73,73,oneplus,OnePlus 10T,44999,85.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,4800,True,150.0,6.7,120,3,50.0,16.0,,,android
+74,74,xiaomi,Xiaomi Redmi Note 10T 5G (6GB RAM +128GB),13999,79.0,True,False,True,dimensity,Dimensity 700 ,8.0,2.2,6,128,5000,True,18.0,6.5,90,3,48.0,8.0,True,1000.0,android
+75,75,gionee,Gionee G13 Pro,6190,,False,False,False,tiger,Tiger  T310,4.0,2.0,4,32,3500,False,,6.26,60,2,13.0,5.0,True,,other
+76,76,apple,Apple iPhone 13 Pro,119900,83.0,True,True,False,apple,Bionic A15,6.0,3.22,6,128,3095,True,,6.1,120,3,12.0,12.0,False,,ios
+77,77,oppo,OPPO F22 Pro,27660,83.0,True,False,False,snapdragon,Snapdragon 6 Gen 1,8.0,2.2,8,128,4800,True,67.0,6.58,120,3,64.0,32.0,True,1000.0,android
+78,78,samsung,Samsung Galaxy A34 5G,24999,75.0,True,True,False,exynos,Exynos 1280,8.0,,6,128,5000,True,33.0,6.5,90,4,48.0,13.0,True,1000.0,android
+79,79,xiaomi,Xiaomi Redmi 10A (4GB RAM + 64GB),8388,66.0,False,False,False,dimensity,Helio  G25,8.0,2.0,4,64,5000,False,,6.53,60,1,13.0,5.0,True,512.0,android
+80,80,motorola,Motorola Moto G72 4G,15999,83.0,False,True,False,dimensity,Helio  G99,8.0,2.2,6,128,5000,True,33.0,6.55,120,3,108.0,16.0,True,,android
+81,81,samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),20999,82.0,True,False,False,exynos,Exynos 1330,8.0,2.4,8,128,5000,True,15.0,6.6,90,3,50.0,13.0,True,1000.0,android
+82,82,realme,Realme 9 5G,13999,75.0,True,False,False,dimensity,Dimensity  810 5G,8.0,2.4,4,64,5000,True,18.0,6.5,90,3,48.0,16.0,True,1000.0,android
+83,83,vivo,Vivo T1 5G (8GB RAM + 128GB),19990,83.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,8,128,5000,True,18.0,6.58,120,3,50.0,16.0,True,1000.0,android
+84,84,samsung,Samsung Galaxy M13 5G,13999,75.0,True,False,False,dimensity,Dimensity 700,8.0,2.2,6,128,5000,True,15.0,6.5,90,2,50.0,5.0,True,1000.0,android
+85,85,motorola,Motorola Edge 30 5G,22999,83.0,True,True,False,snapdragon,Snapdragon 778G+,8.0,2.5,6,128,4020,True,33.0,6.5,144,3,50.0,32.0,,,android
+86,86,samsung,Samsung Galaxy A23 5G,22999,79.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,25.0,6.6,120,4,50.0,8.0,True,1000.0,android
+87,87,oppo,OPPO K10 5G,16999,79.0,True,False,False,dimensity,Dimensity  810 5G,8.0,2.4,8,128,5000,True,33.0,6.56,90,2,48.0,8.0,True,1000.0,android
+88,88,xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 128GB),14290,80.0,False,False,True,snapdragon,Snapdragon  680,8.0,2.4,6,128,5000,True,33.0,6.43,90,4,50.0,13.0,True,512.0,android
+89,89,samsung,Samsung Galaxy A73 5G,41999,,True,True,False,snapdragon,Snapdragon 778G,8.0,2.4,8,128,5000,True,25.0,6.7,120,4,108.0,32.0,True,1000.0,android
+90,90,vivo,Vivo Y21 2021,13489,69.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,64,5000,True,18.0,6.51,60,2,13.0,8.0,True,1000.0,android
+91,91,oneplus,OnePlus Ace Racing Edition 5G,22990,83.0,True,True,False,dimensity,Dimensity 8100 Max,8.0,2.85,8,128,5000,True,,6.59,120,3,64.0,16.0,,,android
+92,92,motorola,Motorola Moto G62 (8GB RAM + 128GB),16499,84.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,8,128,5000,True,,6.55,120,3,50.0,16.0,True,1000.0,android
+93,93,vivo,Vivo X90 Pro Plus 5G,73999,,True,True,True,snapdragon,Snapdragon 8 Gen2,8.0,3.2,12,256,4700,True,80.0,6.78,120,4,50.3,32.0,,,android
+94,94,realme,Realme C33 (4GB RAM + 64GB),9999,67.0,False,False,False,unisoc,Unisoc T612,8.0,1.8,4,64,5000,False,,6.5,60,2,50.0,5.0,True,1000.0,android
+95,95,realme,Realme 9i,12499,75.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,4,64,5000,True,33.0,6.6,90,3,50.0,16.0,True,1000.0,android
+96,96,oppo,OPPO A17,12499,72.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,True,,6.56,60,2,50.0,5.0,True,1000.0,android
+97,97,iqoo,iQOO 11 5G,59999,88.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,256,5000,True,120.0,6.78,144,3,50.0,16.0,,,android
+98,98,vivo,Vivo X Fold 5G,106990,,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,12,256,4600,True,66.0,8.03,120,4,50.0,16.0,,,android
+99,99,vivo,Vivo T1 5G,15990,78.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,4,128,5000,True,18.0,6.58,120,3,50.0,16.0,True,1000.0,android
+100,100,apple,Apple iPhone 14 Pro,119990,75.0,True,True,False,apple,Bionic  A16,6.0,,6,128,3200,True,,6.1,120,3,48.0,12.0,False,,ios
+101,101,xiaomi,Xiaomi Redmi Note 11 Pro Max 5G,19999,83.0,True,False,True,snapdragon,Snapdragon 778G,8.0,2.4,6,128,5200,True,33.0,6.67,120,4,108.0,32.0,True,512.0,android
+102,102,motorola,Motorola Moto S30 Pro,23990,83.0,True,False,False,snapdragon,Snapdragon 888+,8.0,2.9,8,128,4400,True,68.0,6.55,144,3,50.0,32.0,,,android
+103,103,realme,Realme 10s,12999,80.0,True,False,False,dimensity,Dimensity 810 5G,8.0,2.4,8,128,5000,True,33.0,6.6,90,2,50.0,8.0,True,1000.0,android
+104,104,oppo,OPPO F19 Pro Plus 5G,19990,82.0,True,False,False,dimensity,Dimensity 800U ,8.0,2.4,8,128,4310,True,50.0,6.43,60,4,48.0,16.0,True,256.0,android
+105,105,xiaomi,Xiaomi 13 Pro 5G,58990,,True,True,True,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,128,4820,True,120.0,6.73,120,3,50.3,32.0,False,,android
+106,106,vivo,Vivo V27 Pro,43999,87.0,True,False,False,dimensity,Dimensity 9000 Plus,8.0,3.2,12,256,5000,True,120.0,6.73,144,3,108.0,32.0,,,android
+107,107,samsung,Samsung Galaxy S22 5G,49999,86.0,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,8,128,3700,True,25.0,6.1,120,3,50.0,10.0,,,android
+108,108,vivo,Vivo T1 44W (6GB RAM + 128GB),15999,79.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,6,128,5000,True,44.0,6.44,60,3,50.0,16.0,True,1000.0,android
+109,109,oneplus,OnePlus 10R 5G (12GB RAM + 256GB),36999,87.0,True,True,False,dimensity,Dimensity 8100 Max,8.0,2.85,12,256,5000,True,80.0,6.7,120,3,50.0,16.0,,,android
+110,110,tecno,Tecno Phantom X2,39999,85.0,True,True,False,dimensity,Dimensity 9000,8.0,3.05,8,256,5160,True,45.0,6.8,120,3,64.0,32.0,,,android
+111,111,apple,Apple iPhone 12,51999,74.0,True,True,False,apple,Bionic A14,6.0,3.1,4,64,,False,,6.1,60,2,12.0,12.0,False,,ios
+112,112,xiaomi,Xiaomi Redmi K50i 5G,22999,82.0,True,False,True,dimensity,Dimensity  8100,8.0,2.85,6,128,5080,True,67.0,6.6,144,3,64.0,16.0,,,android
+113,113,samsung,Samsung Galaxy A53 5G,31999,87.0,True,True,False,exynos,Exynos 1280,8.0,2.4,6,128,5000,True,25.0,6.5,120,4,64.0,32.0,True,1000.0,android
+114,114,xiaomi,Xiaomi Redmi A1,6171,,False,False,False,dimensity,Helio A22,4.0,2.0,2,32,5000,True,10.0,6.52,60,2,8.0,5.0,True,512.0,android
+115,115,oppo,OPPO Reno8 5G,29340,83.0,True,True,False,dimensity,Dimensity 1300,8.0,3.0,8,128,4500,True,80.0,6.43,90,3,50.0,32.0,,,android
+116,116,samsung,Samsung Galaxy M53 5G (8GB RAM + 128GB),25289,87.0,True,False,False,dimensity,Dimensity  900 5G,8.0,2.4,8,128,5000,True,25.0,6.7,120,4,108.0,32.0,True,1000.0,android
+117,117,iqoo,iQOO Z6 Pro 5G,21788,78.0,True,False,False,snapdragon,Snapdragon  778G,8.0,2.4,6,128,4700,True,66.0,6.44,90,3,64.0,16.0,False,,android
+118,118,tesla,Tesla Pi Phone,69999,83.0,True,True,False,,,8.0,,16,512,5000,True,120.0,6.73,165,3,50.0,32.0,False,,android
+119,119,samsung,Samsung Galaxy S23,70990,88.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,128,3900,True,25.0,6.1,120,3,50.0,12.0,,,android
+120,120,motorola,Motorola Edge 30 Pro 5G,34999,89.0,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,128,4800,True,68.0,6.7,144,3,50.0,60.0,,,android
+121,121,oneplus,OnePlus Nord 2T (12GB RAM + 256GB),33900,85.0,True,True,False,dimensity,Dimensity  1300,8.0,3.0,12,256,4500,True,80.0,6.43,90,3,50.0,32.0,,,android
+122,122,google,Google Pixel 6A,29999,71.0,True,True,False,google,Google  Tensor,8.0,,6,128,4410,True,,6.14,60,2,12.2,8.0,False,,android
+123,123,infinix,Infinix Note 12 Pro 5G,18999,84.0,True,False,False,dimensity,Dimensity 810 5G,8.0,2.4,8,128,5000,True,33.0,6.7,60,3,108.0,16.0,True,1000.0,android
+124,124,samsung,Samsung Galaxy M33 5G (8GB RAM + 128GB),19499,84.0,True,True,False,exynos,Exynos  1280,8.0,2.4,8,128,6000,True,25.0,6.6,120,4,50.0,8.0,True,1000.0,android
+125,125,vivo,Vivo V23 5G,24994,83.0,True,False,False,dimensity,Dimensity  920 5G,8.0,2.5,8,128,4200,True,44.0,6.44,90,3,64.0,50.0,False,,android
+126,126,motorola,Motorola Moto G42,10999,78.0,False,True,False,snapdragon,Snapdragon 680,8.0,2.4,4,64,5000,True,20.0,6.47,60,3,50.0,16.0,True,1000.0,android
+127,127,oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),24999,85.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,8,256,5000,True,33.0,6.59,120,3,64.0,16.0,True,1000.0,android
+128,128,samsung,Samsung Galaxy A33 5G,25999,82.0,True,True,False,exynos,Exynos  1280,8.0,2.4,6,128,5000,True,25.0,6.4,90,4,48.0,13.0,True,1000.0,android
+129,129,google,Google Pixel 7A,34990,69.0,True,True,False,google,Google  Tensor,8.0,,6,128,4410,True,,6.1,90,2,12.2,8.0,False,,android
+130,130,xiaomi,Xiaomi Redmi 11 Prime 5G,13466,74.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,4,64,5000,True,18.0,6.58,90,2,50.0,5.0,True,512.0,android
+131,131,xiaomi,Xiaomi Redmi Note 10 Lite,9999,76.0,False,False,True,snapdragon,Snapdragon 720G,8.0,2.3,4,64,5020,True,18.0,6.67,60,4,48.0,16.0,True,512.0,android
+132,132,motorola,Motorola Moto E40,7999,71.0,False,False,False,tiger,Tiger T700,8.0,1.8,4,64,5000,False,,6.5,90,3,48.0,8.0,True,1000.0,android
+133,133,nothing,Nothing Phone 1 (8GB RAM + 256GB),28249,86.0,True,True,False,snapdragon,Snapdragon 778G Plus,8.0,2.5,8,256,4500,True,33.0,6.55,120,2,50.0,16.0,,,android
+134,134,poco,Poco X4 Pro 5G (6GB RAM + 128GB),16499,82.0,True,False,True,snapdragon,Snapdragon 695 ,8.0,2.2,6,128,5000,True,67.0,6.67,120,3,64.0,16.0,True,1000.0,android
+135,135,xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB),22999,87.0,True,False,True,snapdragon,Snapdragon  695,8.0,2.2,8,256,5000,True,67.0,6.67,120,3,108.0,16.0,True,1000.0,android
+136,136,apple,Apple iPhone 11 (128GB),46999,75.0,False,True,False,apple,A13 Bionic,6.0,2.65,4,128,3110,False,,6.1,60,2,12.0,12.0,False,,ios
+137,137,realme,Realme C35 (6GB RAM + 128GB),13999,74.0,False,False,False,tiger,Tiger  T616,8.0,1.8,6,128,5000,True,18.0,6.6,90,3,50.0,8.0,True,1000.0,android
+138,138,oppo,OPPO K10,13490,78.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,6,128,5000,True,33.0,6.59,90,3,50.0,16.0,True,1000.0,android
+139,139,iqoo,iQOO Neo 6 5G,28999,82.0,True,False,True,snapdragon,Snapdragon 870,8.0,3.2,8,128,4700,True,80.0,6.62,120,3,64.0,16.0,,,android
+140,140,iqoo,iQOO Z6 5G,15499,78.0,True,False,False,snapdragon,Snapdragon  695 ,8.0,2.2,4,128,5000,True,18.0,6.58,120,3,50.0,16.0,True,1000.0,android
+141,141,oppo,OPPO Reno 9 Pro 5G,39999,86.0,True,True,False,dimensity,Dimensity 8100 Max,8.0,2.85,16,256,4500,True,67.0,6.7,120,2,50.0,32.0,,,android
+142,142,poco,Poco M4 Pro 5G,12999,76.0,True,False,True,dimensity,Dimensity  810 5G,8.0,2.4,4,64,5000,True,33.0,6.6,90,2,50.0,16.0,True,1000.0,android
+143,143,jio,Jio Phone 3,4499,,False,False,False,,,4.0,1.4,2,64,2800,False,,5.0,60,1,5.0,2.0,True,128.0,android
+144,144,oneplus,OnePlus Clover,14999,69.0,False,False,False,snapdragon,Snapdragon 460 ,8.0,1.8,4,64,6000,True,18.0,6.52,60,3,13.0,8.0,True,,android
+145,145,samsung,Samsung Galaxy F04,8499,68.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,64,5000,True,15.0,6.5,60,2,13.0,5.0,True,1000.0,android
+146,146,iqoo,iQOO 7,24990,83.0,True,True,False,snapdragon,Snapdragon 870,8.0,3.2,8,128,4400,True,66.0,6.62,120,3,48.0,16.0,,,android
+147,147,samsung,Samsung Galaxy M34 5G,16999,84.0,True,True,False,exynos,Exynos 1200,8.0,2.4,6,128,6000,True,25.0,6.5,120,4,64.0,32.0,True,,android
+148,148,xiaomi,Xiaomi Redmi 10,9589,71.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,4,64,6000,True,18.0,6.7,60,2,50.0,5.0,True,512.0,android
+149,149,apple,Apple iPhone 12 Mini,40999,74.0,True,True,False,apple,Bionic A14,6.0,3.1,4,64,,False,,5.4,60,2,12.0,12.0,False,,ios
+150,150,xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),19988,79.0,True,False,True,snapdragon,Snapdragon 4 Gen 1,8.0,2.0,6,128,5000,True,33.0,6.67,120,3,48.0,13.0,True,1000.0,android
+151,151,motorola,Motorola Moto G52,11999,75.0,False,True,False,snapdragon,Snapdragon 680,8.0,2.4,4,64,5000,True,33.0,6.6,90,3,50.0,16.0,True,,android
+152,152,apple,Apple iPhone 15 Pro Max,142990,79.0,True,True,False,apple,Bionic  A16,,,8,256,4352,True,25.0,6.68,120,3,50.0,12.0,False,,ios
+153,153,oppo,Oppo A98,30990,87.0,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,128,5000,True,67.0,6.7,120,2,108.0,16.0,True,1000.0,android
+154,154,infinix,Infinix Zero 5G 2023,19499,85.0,True,False,False,dimensity,Dimensity 1080,8.0,2.6,8,256,5000,True,33.0,6.78,120,3,50.0,16.0,True,256.0,android
+155,155,realme,Realme C30,5299,,False,False,False,tiger,Tiger T612,8.0,1.82,2,32,5000,False,,6.5,60,1,8.0,5.0,True,1000.0,android
+156,156,oppo,OPPO F21 Pro 5G,25969,82.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,8,128,4500,True,33.0,6.43,60,3,64.0,16.0,True,1000.0,android
+157,157,realme,Realme 11 Pro,28999,82.0,True,False,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,6,128,5000,True,65.0,6.4,120,3,64.0,32.0,True,256.0,android
+158,158,oppo,Oppo Find N2 5G,94990,,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,12,256,4520,True,67.0,7.1,120,3,50.0,32.0,False,,other
+159,159,realme,Realme 9 4G,14999,81.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,6,128,5000,True,33.0,6.4,90,3,108.0,16.0,True,256.0,android
+160,160,cola,Cola Phone,14999,74.0,False,False,False,dimensity,Helio G99,8.0,2.2,4,64,5000,True,33.0,6.4,90,2,50.0,16.0,True,1000.0,android
+161,161,apple,Apple iPhone 13 Pro Max,129900,84.0,True,True,False,apple,Bionic A15,6.0,3.22,6,128,4352,True,,6.7,120,3,12.0,12.0,False,,ios
+162,162,oppo,Oppo Reno 10 Pro Plus,58990,88.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,12,256,4700,True,80.0,6.73,120,4,64.0,32.0,,,android
+163,163,vivo,Vivo X90 5G,41990,88.0,True,True,True,dimensity,Dimensity 9200,8.0,3.05,8,128,4810,True,120.0,6.78,120,3,50.0,32.0,False,,android
+164,164,samsung,Samsung Galaxy F13,10999,74.0,False,True,False,exynos,Exynos 850,8.0,2.0,4,64,6000,True,15.0,6.6,60,3,50.0,8.0,True,1000.0,android
+165,165,xiaomi,Xiaomi Redmi Note 10S (6GB RAM + 128GB),11999,79.0,False,False,True,dimensity,Helio G95,8.0,2.05,6,128,5000,True,33.0,6.43,60,4,64.0,13.0,True,512.0,android
+166,166,realme,Realme 10 (8GB RAM + 128GB),16999,79.0,False,False,False,dimensity,Helio G99,8.0,2.2,8,128,5000,True,33.0,6.4,90,2,50.0,16.0,True,1000.0,android
+167,167,iqoo,iQOO 9 SE 5G,30990,83.0,True,True,False,snapdragon,Snapdragon  888 ,8.0,2.84,8,128,4500,True,66.0,6.62,120,3,48.0,16.0,,,android
+168,168,infinix,Infinix Hot 20,17999,75.0,True,False,False,dimensity,Dimensity 810,8.0,2.4,4,64,5000,True,18.0,6.6,120,2,50.0,8.0,True,1000.0,android
+169,169,letv,Letv Y1 Pro,5499,,False,False,False,tiger,Tiger T310,4.0,2.0,4,32,4000,False,,6.54,60,2,8.0,5.0,,,android
+170,170,xiaomi,Xiaomi Redmi Note 13 Pro Max 5G,20499,83.0,True,False,True,snapdragon,Snapdragon  7 Gen1,8.0,2.36,6,128,5200,True,67.0,6.67,120,4,108.0,32.0,True,512.0,android
+171,171,realme,Realme Narzo 50 Pro 5G,20490,81.0,True,False,False,dimensity,Dimensity  920 5G,8.0,2.5,6,128,5000,True,33.0,6.4,90,3,48.0,16.0,True,256.0,android
+172,172,oppo,OPPO A74 5G,15490,77.0,True,False,False,snapdragon,Snapdragon  480 ,8.0,2.0,6,128,5000,True,18.0,6.5,90,3,48.0,8.0,True,,android
+173,173,apple,Apple iPhone 9,29990,61.0,False,True,False,apple,A13 Bionic,6.0,2.65,3,64,2050,True,,4.7,60,1,12.0,7.0,False,,ios
+174,174,iqoo,iQOO Z6 Lite (6GB RAM + 128GB),15499,79.0,True,False,False,snapdragon,Snapdragon  4 Gen 1,8.0,2.0,6,128,5000,True,18.0,6.58,120,2,50.0,8.0,True,1000.0,android
+175,175,xiaomi,Xiaomi Redmi Note 11SE,11999,80.0,False,False,True,dimensity,Helio G95,8.0,2.05,6,64,5000,True,33.0,6.43,60,4,64.0,13.0,True,512.0,android
+176,176,realme,Realme Narzo 50,10999,74.0,False,False,False,dimensity,Helio G96,8.0,2.0,4,64,5000,True,33.0,6.6,120,3,50.0,16.0,True,256.0,android
+177,177,vivo,Vivo Y75 5G,21990,82.0,True,False,False,dimensity,Dimensity  700 5G,8.0,2.2,8,128,5000,True,18.0,6.58,60,3,50.0,16.0,True,,android
+178,178,vivo,Vivo V25 (12GB RAM + 256GB),31999,85.0,True,False,False,dimensity,Dimensity  900,8.0,2.0,12,256,4500,True,44.0,6.44,90,3,64.0,50.0,True,1000.0,android
+179,179,poco,POCO M4 Pro 4G,11999,77.0,False,False,True,dimensity,Helio G96,8.0,2.05,6,64,5000,True,33.0,6.43,90,3,64.0,16.0,True,1000.0,android
+180,180,infinix,Infinix Zero Ultra,36999,89.0,True,False,False,dimensity,Dimensity 920 5G,8.0,2.5,8,256,4500,True,180.0,6.8,120,3,200.0,32.0,True,,android
+181,181,tecno,Tecno Spark Go 2023,6999,62.0,False,False,False,dimensity,Helio A22,4.0,2.0,3,32,5000,True,10.0,6.56,60,2,13.0,5.0,True,256.0,android
+182,182,motorola,Motorola Moto X40,39999,89.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,128,4600,True,125.0,6.7,165,3,50.0,60.0,,,android
+183,183,samsung,Samsung Galaxy F24 5G,14999,78.0,True,True,False,snapdragon,Snapdragon  695,8.0,2.2,4,128,5000,True,25.0,6.6,120,3,50.0,8.0,True,1000.0,android
+184,184,realme,Realme 10 5G,14499,79.0,True,False,False,dimensity,Dimensity  700 5G,8.0,2.2,8,128,5000,True,33.0,6.6,90,3,50.0,8.0,True,1000.0,android
+185,185,oneplus,OnePlus Nord 3 5G,27999,84.0,True,True,False,dimensity,Dimensity  8200,8.0,3.1,8,128,4200,True,120.0,6.43,90,3,50.0,32.0,,,android
+186,186,motorola,Motorola Moto G82 (8GB RAM + 128GB),20499,86.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,8,128,5000,True,30.0,6.6,120,3,50.0,16.0,True,1000.0,android
+187,187,ikall,iKall Z19 Pro,8099,60.0,False,False,False,,,4.0,1.6,4,64,5000,False,,6.5,60,1,13.0,8.0,True,128.0,android
+188,188,leeco,LeEco S1 Pro,10999,65.0,False,False,False,tiger,Tiger T7150,4.0,1.8,8,128,5000,True,10.0,6.5,60,2,13.0,5.0,,,android
+189,189,realme,Realme C2s,3499,63.0,False,False,False,dimensity,Helio  P22 ,8.0,2.0,3,32,4000,False,,6.1,60,2,13.0,5.0,True,128.0,android
+190,190,duoqin,Duoqin F22 Pro,9990,,False,False,False,dimensity,Helio  G85,8.0,2.0,4,64,2150,False,,3.54,60,1,8.0,2.0,True,,android
+191,191,samsung,Samsung Galaxy M54 5G,34999,85.0,True,False,False,snapdragon,Snapdragon 888,8.0,2.84,6,128,6000,True,25.0,6.67,90,3,64.0,32.0,True,1000.0,android
+192,192,nokia,Nokia N73 5G,46999,,True,False,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,12,256,6000,True,65.0,6.9,120,1,200.0,32.0,True,,android
+193,193,motorola,Motorola Edge 30 Fusion 5G,39999,88.0,True,True,False,snapdragon,Snapdragon 888+,8.0,2.9,8,128,4400,True,68.0,6.55,144,3,50.0,32.0,False,,android
+194,194,realme,Realme C35,11828,70.0,False,False,False,tiger,Tiger  T616,8.0,1.8,4,64,5000,True,18.0,6.6,60,3,50.0,8.0,True,1000.0,android
+195,195,oppo,OPPO Reno 8 Pro House of Dragon Edition,45999,86.0,True,True,False,dimensity,Dimensity 8100-Max,8.0,2.85,12,256,4500,True,80.0,6.7,120,3,50.0,32.0,,,android
+196,196,oneplus,OnePlus Nord CE 3 Lite 5G,18999,81.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,33.0,6.59,120,3,50.0,16.0,True,1000.0,android
+197,197,poco,Poco X4 Pro 5G (8GB RAM + 128GB),17999,84.0,True,False,True,snapdragon,Snapdragon 695 ,8.0,2.2,8,128,5000,True,67.0,6.67,120,3,64.0,16.0,True,1000.0,android
+198,198,samsung,Samsung Galaxy M04,8499,66.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,64,5000,True,15.0,6.5,60,2,13.0,5.0,True,1000.0,android
+199,199,oppo,OPPO A77s,17999,76.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,8,128,5000,True,33.0,6.56,90,2,50.0,8.0,True,,android
+200,200,samsung,Samsung Galaxy A13,14450,75.0,False,False,False,,,8.0,2.0,4,64,5000,True,25.0,6.6,60,4,50.0,8.0,True,1000.0,android
+201,201,motorola,Motorola Edge 30 Ultra,54999,,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,4610,True,125.0,6.67,144,3,200.0,60.0,,,android
+202,202,xiaomi,Xiaomi 13 Ultra 5G,71999,,True,True,True,snapdragon,Snapdragon 8 Gen2,8.0,3.2,12,256,5000,True,120.0,6.6,120,4,108.0,32.0,,,android
+203,203,motorola,Motorola Moto G52 (6GB RAM + 128GB),12999,79.0,False,True,False,snapdragon,Snapdragon 680,8.0,2.4,6,128,5000,True,33.0,6.6,90,3,50.0,16.0,True,,android
+204,204,poco,Poco M4 5G,11499,75.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,4,64,5000,True,18.0,6.58,90,2,50.0,8.0,True,512.0,android
+205,205,nothing,Nothing Phone 1 (12GB RAM + 256GB),35999,87.0,True,True,False,snapdragon,Snapdragon 778G Plus,8.0,2.5,12,256,4500,True,33.0,6.55,120,2,50.0,16.0,,,android
+206,206,samsung,Samsung Galaxy A54 5G,34999,76.0,True,True,False,exynos,Exynos 1380,8.0,,6,128,5000,True,25.0,6.4,120,3,50.0,32.0,True,1000.0,android
+207,207,tecno,Tecno Pova 4,11999,73.0,False,False,False,dimensity,Helio G99,8.0,2.2,8,128,6000,True,18.0,6.82,90,2,50.0,8.0,True,512.0,android
+208,208,xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),27994,82.0,True,False,True,dimensity,Dimensity 1080,8.0,2.6,8,256,5000,True,67.0,6.67,120,3,50.0,16.0,,,android
+209,209,apple,Apple iPhone 14 Pro Max (256GB),139990,77.0,True,True,False,apple,Bionic  A16,6.0,,6,256,4323,True,,6.7,120,3,48.0,12.0,False,,ios
+210,210,vivo,Vivo V25 Pro (12GB RAM + 256GB),39999,86.0,True,False,False,dimensity,Dimensity 1300,8.0,3.0,12,256,4830,True,66.0,6.56,120,3,64.0,32.0,,,android
+211,211,realme,Realme 9 5G (6GB RAM + 128GB),15499,79.0,True,False,False,dimensity,Dimensity  810 5G,8.0,2.4,6,128,5000,True,18.0,6.5,90,3,48.0,16.0,True,1000.0,android
+212,212,realme,Realme 9 Pro 5G,18999,80.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,6,128,5000,True,33.0,6.6,120,3,64.0,16.0,True,256.0,android
+213,213,lava,Lava Blaze 5G,10999,73.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,False,,6.5,90,3,50.0,8.0,True,1000.0,android
+214,214,honor,Honor X9a,27999,81.0,True,True,True,snapdragon,Snapdragon 695,8.0,2.2,8,256,5100,True,40.0,6.67,120,3,64.0,16.0,,,android
+215,215,google,Google Pixel 7 Pro 5G,81999,,True,True,False,google,Google  Tensor G2,8.0,2.85,12,128,5000,True,30.0,6.7,120,3,50.0,10.8,,,android
+216,216,tecno,Tecno Pova 3,9999,74.0,False,False,False,dimensity,Helio G88,8.0,2.0,4,64,7000,True,33.0,6.95,90,3,50.0,8.0,True,256.0,android
+217,217,vivo,Vivo V23 Pro 5G,31994,85.0,True,False,False,dimensity,Dimensity 1200,8.0,3.0,8,128,4300,True,44.0,6.56,90,3,108.0,50.0,False,,android
+218,218,samsung,Samsung Galaxy A04e,9299,65.0,False,False,False,dimensity,Helio P35,8.0,2.3,3,32,5000,False,,6.5,60,2,13.0,5.0,True,1000.0,android
+219,219,xiaomi,Xiaomi Redmi K60,29990,84.0,True,True,True,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,8,128,5500,True,67.0,6.67,120,3,64.0,16.0,,,android
+220,220,realme,Realme 9 Pro Plus 5G,25900,78.0,True,False,False,dimensity,Dimensity  920 5G,8.0,2.5,6,128,4500,True,60.0,6.4,90,3,50.0,16.0,False,,android
+221,221,realme,Realme 9i 5G (6GB RAM + 128GB),16999,78.0,True,False,False,dimensity,Dimensity 810 5G,8.0,2.4,6,128,5000,True,18.0,6.6,90,3,50.0,8.0,True,1000.0,android
+222,222,motorola,Motorola Edge 30 5G (8GB RAM + 128GB),24999,85.0,True,True,False,snapdragon,Snapdragon 778G+,8.0,2.5,8,128,4020,True,33.0,6.5,144,3,50.0,32.0,,,android
+223,223,vivo,Vivo Y02,8999,,False,False,False,dimensity,Helio,8.0,,3,32,5000,True,10.0,6.51,60,1,8.0,5.0,True,1000.0,android
+224,224,poco,POCO C31 (4GB RAM + 64GB),7499,68.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,False,,6.53,60,3,13.0,5.0,True,512.0,android
+225,225,realme,Realme Narzo 50 5G,17999,79.0,True,False,False,dimensity,Dimensity 810 5G,8.0,2.4,6,128,5000,True,33.0,6.6,90,3,48.0,16.0,True,1000.0,android
+226,226,realme,Realme GT Neo 3T,24999,79.0,True,False,False,snapdragon,Snapdragon 870,8.0,3.2,6,128,5000,True,80.0,6.62,120,3,64.0,16.0,,,android
+227,227,oppo,OPPO Reno 8 Pro 5G,45999,86.0,True,True,False,dimensity,Dimensity 8100-Max,8.0,2.85,12,256,4500,True,80.0,6.7,120,3,50.0,32.0,,,android
+228,228,oneplus,OnePlus 10 Pro 5G (12GB RAM + 256GB),65499,,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,12,256,5000,True,80.0,6.7,120,3,50.0,32.0,,,android
+229,229,iqoo,iQOO 11 Pro 5G,58990,89.0,True,True,True,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,256,4700,True,200.0,6.78,144,3,50.0,16.0,,,android
+230,230,vivo,Vivo T1x 4G,11999,74.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,4,64,5000,True,18.0,6.58,90,2,50.0,8.0,True,,android
+231,231,xiaomi,Xiaomi Redmi 10 Power,11999,77.0,False,False,True,snapdragon,Snapdragon 680,8.0,2.4,8,128,6000,True,18.0,6.7,60,2,50.0,5.0,True,,android
+232,232,oppo,OPPO A58,18990,76.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,True,33.0,6.56,90,2,50.0,8.0,True,1000.0,android
+233,233,vivo,Vivo T1 44W,14499,77.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,4,128,5000,True,44.0,6.44,60,3,50.0,16.0,True,1000.0,android
+234,234,xiaomi,Xiaomi Mix Fold 2 5G,106990,,True,True,True,snapdragon,Snapdragon  8+ Gen1 ,8.0,3.2,12,256,4500,True,67.0,8.02,120,3,50.0,20.0,,,android
+235,235,vivo,Vivo Y16 (3GB RAM + 64GB),10499,66.0,False,False,False,dimensity,Helio P35,8.0,2.3,3,64,5000,True,10.0,6.51,60,2,13.0,5.0,True,,android
+236,236,oppo,OPPO Reno 8 Z,26990,86.0,True,True,False,snapdragon,Snapdragon  695,8.0,2.2,8,256,4500,True,33.0,6.43,60,3,64.0,16.0,True,1000.0,android
+237,237,vivo,Vivo Y75 4G,19990,82.0,False,False,False,dimensity,Helio G96,8.0,2.05,8,128,4050,True,44.0,6.44,60,3,50.0,44.0,True,1000.0,android
+238,238,xiaomi,Xiaomi Redmi Note 12 Explorer,24999,89.0,True,True,True,dimensity,Dimensity 1080,8.0,2.6,8,256,4300,True,120.0,6.67,120,3,200.0,16.0,True,512.0,android
+239,239,oppo,OPPO A57 4G (4GB RAM + 64 GB),13969,69.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,True,33.0,6.56,60,2,13.0,8.0,True,,android
+240,240,samsung,Samsung Galaxy A75 5G,44999,83.0,True,True,False,snapdragon,Snapdragon 778G+,8.0,,8,128,5000,True,67.0,6.7,120,4,108.0,32.0,True,1000.0,android
+241,241,vivo,Vivo T1 Pro 5G (8GB RAM + 128GB),24999,84.0,True,False,False,snapdragon,Snapdragon 778G,8.0,2.4,8,128,4700,True,66.0,6.44,90,3,64.0,16.0,True,1000.0,android
+242,242,google,Google Pixel 7 5G,53100,86.0,True,True,False,google,Google Tensor G2,8.0,2.85,8,128,4355,True,30.0,6.3,90,2,50.0,10.8,,,android
+243,243,xiaomi,Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),16999,81.0,True,False,True,dimensity,Dimensity  810 5G,8.0,2.4,6,128,5000,True,33.0,6.6,90,2,50.0,16.0,True,1000.0,android
+244,244,oppo,OPPO F21s Pro 4G,21899,82.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,8,128,4500,True,33.0,6.43,90,3,64.0,32.0,True,512.0,android
+245,245,apple,Apple iPhone 14 (256GB),75999,82.0,True,True,False,apple,Bionic A15,6.0,3.22,6,256,3279,True,,6.1,60,2,12.0,12.0,False,,ios
+246,246,motorola,Motorola Moto G73,25999,85.0,True,True,False,dimensity,Dimensity 930,8.0,2.2,8,256,5000,True,30.0,6.5,120,2,50.0,16.0,True,,android
+247,247,nubia,Nubia Red Magic 8 Pro 5G,46990,84.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,128,6000,True,80.0,6.8,120,3,50.0,16.0,,,android
+248,248,motorola,Motorola Moto G31,9999,75.0,False,False,False,dimensity,Helio  G85,8.0,2.0,4,64,5000,True,20.0,6.47,60,3,50.0,13.0,True,1000.0,android
+249,249,tecno,Tecno Phantom X2 Pro,49999,89.0,True,True,False,dimensity,Dimensity 9000,8.0,3.05,12,256,5160,True,45.0,6.8,120,3,50.0,32.0,,,android
+250,250,infinix,Infinix Zero 20,17999,87.0,False,True,False,dimensity,Helio G99,8.0,2.2,8,128,4500,True,45.0,6.7,90,3,108.0,60.0,True,1000.0,android
+251,251,iqoo,iQOO Z6 5G (6GB RAM + 128GB),16940,80.0,True,False,False,snapdragon,Snapdragon  695 ,8.0,2.2,6,128,5000,True,18.0,6.58,120,3,50.0,16.0,True,1000.0,android
+252,252,xiaomi,Xiaomi Redmi Note 11 Pro 5G,17990,81.0,True,False,True,snapdragon,Snapdragon 695,8.0,2.2,6,64,5000,True,67.0,6.67,120,3,108.0,16.0,True,,android
+253,253,oppo,OPPO A1 Pro,20990,84.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,8,128,4800,True,67.0,6.7,120,2,108.0,16.0,True,1000.0,android
+254,254,samsung,Samsung Galaxy S22 FE 5G,51999,79.0,True,True,False,exynos,Exynos  2300,8.0,,8,128,4200,True,33.0,6.4,120,3,12.0,32.0,False,,android
+255,255,samsung,Samsung Galaxy S22 Plus 5G,64449,87.0,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,8,128,4500,True,45.0,6.6,120,3,50.0,10.0,,,android
+256,256,vivo,Vivo U3x,8990,71.0,True,False,False,snapdragon,Snapdragon  480 ,8.0,2.0,6,64,5000,True,18.0,6.58,90,2,13.0,8.0,,,android
+257,257,motorola,Motorola Moto G23,19999,77.0,False,True,False,dimensity,Helio  G85,8.0,2.0,4,128,5000,True,30.0,6.5,90,3,50.0,16.0,True,512.0,android
+258,258,poco,Poco M4 5G (6GB RAM + 128GB),13499,79.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,True,18.0,6.58,90,2,50.0,8.0,True,512.0,android
+259,259,tecno,Tecno Pova 5G,15499,78.0,True,False,False,dimensity,Dimensity 900,8.0,2.4,8,128,6000,True,18.0,6.9,120,3,50.0,16.0,True,512.0,android
+260,260,poco,POCO C31,6499,65.0,False,False,False,dimensity,Helio G35,8.0,2.3,3,32,5000,False,,6.53,60,3,13.0,5.0,True,512.0,android
+261,261,apple,Apple iPhone XR2,71999,60.0,False,True,False,apple,Apple  A13,,,4,64,3060,True,,6.1,60,2,12.0,7.0,False,,ios
+262,262,samsung,Samsung Galaxy A53 (8GB RAM + 256GB),36499,89.0,True,True,False,exynos,Exynos 1280,8.0,2.4,8,256,5000,True,25.0,6.5,120,4,64.0,32.0,True,1000.0,android
+263,263,infinix,Infinix Note 12 5G,15999,78.0,True,False,False,dimensity,Dimensity 810 5G,8.0,2.4,6,64,5000,True,33.0,6.7,60,3,50.0,16.0,True,1000.0,android
+264,264,oppo,OPPO Reno7 Pro 5G,31994,87.0,True,True,False,dimensity,Dimensity  1200 Max,8.0,3.0,12,256,4500,True,65.0,6.55,90,3,50.0,32.0,True,,android
+265,265,oneplus,OnePlus Ace 2,34999,84.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,5000,True,100.0,6.7,120,3,50.0,16.0,,,android
+266,266,redmi,Redmi Note 11 Pro 2023,18999,81.0,False,False,True,snapdragon,Snapdragon 712,8.0,2.3,6,128,5000,True,67.0,6.67,120,4,108.0,16.0,True,1000.0,android
+267,267,nothing,Nothing Phone 2,39990,88.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,4700,True,66.0,6.67,120,3,50.0,32.0,,,android
+268,268,samsung,Samsung Galaxy A32 (8GB RAM + 128GB),16499,82.0,False,False,False,dimensity,Helio G80,8.0,2.0,8,128,5000,True,15.0,6.4,90,4,64.0,20.0,True,1000.0,android
+269,269,google,Google Pixel 6 Pro,54300,89.0,True,True,False,google,Google  Tensor,8.0,2.8,12,128,5003,True,30.0,6.71,120,3,50.0,11.1,,,android
+270,270,infinix,Infinix Note 12i (2022),9999,73.0,False,False,False,dimensity,Helio G85,8.0,2.0,4,64,5000,True,33.0,6.7,60,3,50.0,8.0,True,512.0,android
+271,271,xiaomi,Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),15990,77.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,True,18.0,6.58,90,2,50.0,5.0,True,512.0,android
+272,272,xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB),22700,86.0,True,False,True,snapdragon,Snapdragon  695,8.0,2.2,8,128,5000,True,67.0,6.67,120,3,108.0,16.0,True,1000.0,android
+273,273,xiaomi,Xiaomi 12 Pro 5G,50990,89.0,True,True,True,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,256,4600,True,120.0,6.73,120,3,50.0,32.0,,,android
+274,274,apple,Apple iPhone 13 Mini,64900,79.0,True,True,False,apple,Bionic A15,6.0,3.22,4,128,2438,True,,5.4,60,2,12.0,12.0,False,,ios
+275,275,tecno,Tecno Pova 3 (6GB RAM + 128GB),13799,77.0,False,False,False,dimensity,Helio G88,8.0,2.0,6,128,7000,True,33.0,6.9,90,3,50.0,8.0,True,256.0,android
+276,276,realme,Realme C31 (4GB RAM + 64GB),8999,65.0,False,False,False,tiger,Tiger T612,8.0,1.82,4,64,5000,False,,6.52,60,3,13.0,5.0,True,1000.0,android
+277,277,asus,Asus ROG Phone 6 Pro 5G,89999,88.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,18,512,6000,True,65.0,6.78,165,3,50.0,12.0,False,,android
+278,278,vivo,Vivo V23e 5G,21994,84.0,True,False,False,dimensity,Dimensity  810 5G,8.0,2.4,8,128,4050,True,44.0,6.44,60,3,50.0,44.0,True,,android
+279,279,apple,Apple iPhone 14 Mini,69990,70.0,False,True,False,apple,Bionic A16,,,6,128,3500,True,,5.42,60,2,12.0,12.0,False,,ios
+280,280,xiaomi,Xiaomi Redmi Note 10T 5G,12999,75.0,True,False,True,dimensity,Dimensity 700 ,8.0,2.2,4,64,5000,True,18.0,6.5,90,3,48.0,8.0,True,1000.0,android
+281,281,iqoo,iQOO Neo 7 SE 5G,24990,83.0,True,True,False,dimensity,Dimensity 8200,8.0,3.1,8,128,5000,True,120.0,6.78,120,3,64.0,16.0,False,,android
+282,282,samsung,Samsung Galaxy A23 (8GB RAM + 128GB),19990,82.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,8,128,5000,True,25.0,6.6,60,4,50.0,8.0,True,1000.0,android
+283,283,xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),26999,82.0,True,False,True,dimensity,Dimensity 1080,8.0,2.6,8,128,5000,True,67.0,6.67,120,3,50.0,16.0,,,android
+284,284,xiaomi,Xiaomi Redmi Note 12 Turbo,19999,81.0,True,True,True,snapdragon,Snapdragon 778G,8.0,2.4,8,128,5000,True,67.0,6.67,120,3,50.0,16.0,False,,android
+285,285,infinix,Infinix Note 12 Pro,16900,83.0,False,False,False,dimensity,Helio  G99,8.0,2.2,8,256,5000,True,33.0,6.7,60,3,108.0,16.0,True,1000.0,android
+286,286,infinix,Infinix Hot 20 (6GB RAM+ 128GB),19999,78.0,True,False,False,dimensity,Dimensity 810,8.0,2.4,6,128,5000,True,18.0,6.6,120,2,50.0,8.0,True,1000.0,android
+287,287,apple,Apple iPhone 14 Pro Max (1TB),182999,78.0,True,True,False,apple,Bionic  A16,6.0,,6,1024,4323,True,,6.7,120,3,48.0,12.0,False,,ios
+288,288,samsung,Samsung Galaxy M13,12999,75.0,False,False,False,exynos,Exynos  850,8.0,2.0,6,128,6000,True,15.0,6.6,60,3,50.0,8.0,True,1000.0,android
+289,289,poco,Poco M4 Pro 5G (8GB RAM + 128GB),15999,82.0,True,False,True,dimensity,Dimensity  810 5G,8.0,2.4,8,128,5000,True,33.0,6.6,90,2,50.0,16.0,True,1000.0,android
+290,290,xiaomi,Xiaomi Redmi Note 10S (8GB RAM + 128GB),13999,82.0,False,False,True,dimensity,Helio G95,8.0,2.05,8,128,5000,True,33.0,6.43,60,4,64.0,13.0,True,512.0,android
+291,291,realme,Realme C11 2021 (4GB RAM + 64GB),7749,61.0,False,False,False,sc9863a,SC9863A,8.0,1.6,4,64,5000,False,,6.52,60,1,8.0,5.0,True,,android
+292,292,samsung,Samsung Galaxy A23 5G (8GB RAM + 128GB),24999,81.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,8,128,5000,True,25.0,6.6,120,4,50.0,8.0,True,1000.0,android
+293,293,motorola,Motorola Edge 30 Ultra (12GB RAM + 256GB),59999,,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,12,256,4610,True,125.0,6.67,144,3,200.0,60.0,,,android
+294,294,oppo,OPPO F21s Pro,25895,82.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,8,128,4500,True,33.0,6.43,60,3,64.0,16.0,True,512.0,android
+295,295,xiaomi,Xiaomi 13 5G,46990,89.0,True,True,True,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,128,4500,True,67.0,6.36,120,3,50.0,32.0,,,android
+296,296,xiaomi,Xiaomi Redmi 10A,7499,64.0,False,False,False,dimensity,Helio  G25,8.0,2.0,3,32,5000,False,,6.53,60,1,13.0,5.0,True,512.0,android
+297,297,vivo,Vivo Y01A,7790,60.0,False,False,False,dimensity,Helio P35,8.0,2.3,2,32,5000,True,10.0,6.51,60,1,8.0,5.0,True,,android
+298,298,xiaomi,Xiaomi Redmi K50i (8GB RAM + 256GB),25999,85.0,True,False,True,dimensity,Dimensity  8100,8.0,2.85,8,256,5080,True,67.0,6.6,144,3,64.0,16.0,,,android
+299,299,realme,Realme C30 (3GB RAM + 32GB),6299,60.0,False,False,False,tiger,Tiger T612,8.0,1.82,3,32,5000,False,,6.5,60,1,8.0,5.0,True,1000.0,android
+300,300,motorola,Motorola Moto G51 5G,12999,77.0,True,True,False,snapdragon,Snapdragon  480+,8.0,2.2,4,64,5000,False,,6.8,120,3,50.0,13.0,True,512.0,android
+301,301,xiaomi,Xiaomi Redmi 10 (6GB RAM + 128GB),11999,75.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,6,128,6000,True,18.0,6.7,60,2,50.0,5.0,True,512.0,android
+302,302,xiaomi,Xiaomi Mi 11 Lite NE 5G,21890,83.0,True,True,True,snapdragon,Snapdragon  778G ,8.0,2.4,6,128,4250,True,33.0,6.55,90,3,64.0,20.0,True,,android
+303,303,samsung,Samsung Galaxy Z Flip 3,69999,84.0,True,True,False,snapdragon,Snapdragon 888,8.0,2.84,8,128,3300,True,15.0,6.7,120,2,12.0,10.0,False,,other
+304,304,apple,Apple iPhone 12 (128GB),55999,75.0,True,True,False,apple,Bionic A14,6.0,3.1,4,128,,False,,6.1,60,2,12.0,12.0,False,,ios
+305,305,oneplus,OnePlus 10T (16GB RAM + 256GB),55999,87.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,16,256,4800,True,150.0,6.7,120,3,50.0,16.0,,,android
+306,306,samsung,Samsung Galaxy A13 (4GB RAM + 128GB),14999,75.0,False,False,False,,,8.0,2.0,4,128,5000,True,25.0,6.6,60,4,50.0,8.0,True,1000.0,android
+307,307,oppo,OPPO Reno7 5G,25994,85.0,True,True,False,dimensity,Dimensity 900,8.0,2.0,8,256,4500,True,65.0,6.43,90,3,64.0,32.0,True,1000.0,android
+308,308,oneplus,OnePlus 9RT 5G,42999,85.0,True,True,False,snapdragon,Snapdragon  888 ,8.0,2.84,8,128,4500,True,,6.62,120,3,50.0,16.0,,,android
+309,309,samsung,Samsung Galaxy A53 5G (8GB RAM + 128GB),33499,89.0,True,True,False,exynos,Exynos 1280,8.0,2.4,8,128,5000,True,25.0,6.5,120,4,64.0,32.0,True,1000.0,android
+310,310,samsung,Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),118999,,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,12,512,5000,True,45.0,6.8,120,4,108.0,40.0,,,android
+311,311,motorola,Motorola Moto G71 5G,16999,80.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,33.0,6.4,60,3,50.0,16.0,False,,android
+312,312,itel,itel S16 Pro,6990,,False,False,False,,,4.0,1.3,2,32,4000,False,,6.6,60,3,8.0,8.0,True,32.0,android
+313,313,vivo,Vivo Y100,29990,82.0,True,False,False,dimensity,Dimensity  900,8.0,2.4,8,128,5000,True,66.0,6.0,120,3,50.0,50.0,False,,android
+314,314,samsung,Samsung Galaxy M13 5G (4GB RAM + 64GB),12944,71.0,True,False,False,dimensity,Dimensity 700,8.0,2.2,4,64,5000,True,15.0,6.5,90,2,50.0,5.0,True,1000.0,android
+315,315,poco,POCO X5 GT,29990,84.0,True,True,True,dimensity,Dimensity 9000 Plus,8.0,3.2,8,128,5000,True,80.0,6.7,144,3,64.0,32.0,False,,android
+316,316,honor,Honor X9 5G,16999,80.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,8,128,4800,True,66.0,6.81,60,3,48.0,16.0,,,android
+317,317,iqoo,iQOO 11 (16GB RAM + 256GB),64999,89.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,16,256,5000,True,120.0,6.78,144,3,50.0,16.0,,,android
+318,318,samsung,Samsung Galaxy Z Fold 4,154998,,True,True,False,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,12,256,4400,True,25.0,7.6,120,3,50.0,10.0,,,android
+319,319,royole,Royole FlexPai 2,109999,87.0,True,False,False,snapdragon,Snapdragon 865,8.0,2.84,8,128,4450,False,,7.8,60,3,64.0,32.0,True,256.0,other
+320,320,apple,Apple iPhone 14 Plus (256GB),84999,83.0,True,True,False,apple,Bionic A15,6.0,3.22,6,256,4325,True,,6.7,60,2,12.0,12.0,False,,ios
+321,321,samsung,Samsung Galaxy A33 5G (8GB RAM + 128GB),27499,85.0,True,True,False,exynos,Exynos  1280,8.0,2.4,8,128,5000,True,25.0,6.4,90,4,48.0,13.0,True,1000.0,android
+322,322,tecno,Tecno Spark 9,8999,69.0,False,False,False,dimensity,Helio G37,8.0,2.3,6,128,5000,False,,6.6,90,2,13.0,8.0,True,256.0,android
+323,323,google,Google Pixel 6,40480,84.0,True,True,False,google,Google Tensor,8.0,2.8,8,128,4614,True,30.0,6.4,90,2,50.0,8.0,,,android
+324,324,xiaomi,Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),17999,81.0,False,False,True,snapdragon,Snapdragon 732G ,8.0,2.3,6,128,5020,True,33.0,6.67,120,4,64.0,16.0,True,512.0,android
+325,325,samsung,Samsung Galaxy S21 Ultra,105999,,True,True,False,exynos,Exynos  2100,8.0,2.9,12,256,5000,True,25.0,6.8,120,4,108.0,40.0,,,android
+326,326,infinix,Infinix Hot 20 Play,8999,67.0,False,False,False,dimensity,Helio G37,8.0,2.3,4,64,6000,True,18.0,6.82,90,2,13.0,8.0,True,256.0,android
+327,327,vivo,Vivo T1x (6GB RAM + 128GB),14999,77.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,6,128,5000,True,18.0,6.58,90,2,50.0,8.0,True,,android
+328,328,oppo,OPPO F23 Pro,19990,82.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,8,128,4500,True,33.0,6.5,90,3,64.0,32.0,True,256.0,android
+329,329,iqoo,iQOO Z6 Pro 5G (8GB RAM + 128GB),23399,80.0,True,False,False,snapdragon,Snapdragon  778G,8.0,2.4,8,128,4700,True,66.0,6.44,90,3,64.0,16.0,False,,android
+330,330,samsung,Samsung Galaxy A73 5G (8GB RAM + 256GB),41990,,True,True,False,snapdragon,Snapdragon 778G,8.0,2.4,8,256,5000,True,25.0,6.7,120,4,108.0,32.0,True,1000.0,android
+331,331,realme,Realme 9 5G SE (8GB RAM + 128GB),22998,82.0,True,False,False,snapdragon,Snapdragon  778G,8.0,2.4,8,128,5000,True,30.0,6.6,144,3,48.0,16.0,True,1000.0,android
+332,332,poco,Poco F4 5G,25999,82.0,True,True,False,snapdragon,Snapdragon  870,8.0,3.2,6,128,4500,True,67.0,6.67,120,3,64.0,20.0,,,android
+333,333,infinix,Infinix Note 12,11700,74.0,False,False,False,dimensity,Helio G88,8.0,2.0,4,64,5000,True,33.0,6.7,60,3,50.0,16.0,True,512.0,android
+334,334,samsung,Samsung Galaxy A03 Core,6499,,False,False,False,unisoc,Unisoc  SC9836A,4.0,1.6,2,32,5000,False,,6.5,60,1,8.0,5.0,True,1000.0,android
+335,335,motorola,Motorola Moto G60,15999,84.0,False,True,False,snapdragon,Snapdragon  732G,8.0,2.3,6,128,6000,True,20.0,6.78,120,3,108.0,32.0,True,1000.0,android
+336,336,oneplus,OnePlus 9 Pro,64800,89.0,True,True,False,snapdragon,Snapdragon 888,8.0,2.84,8,128,4500,True,65.0,6.7,120,4,48.0,16.0,False,,android
+337,337,xiaomi,Xiaomi Redmi Note 11S,14590,80.0,False,False,True,dimensity,Helio  G96,8.0,2.05,6,64,5000,True,33.0,6.43,90,4,108.0,16.0,True,512.0,android
+338,338,xiaomi,Xiaomi Redmi 9 Activ,7499,68.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,False,,6.53,60,2,13.0,5.0,True,512.0,android
+339,339,tecno,Tecno Camon 19 Pro 5G,21999,82.0,True,True,False,dimensity,Dimensity 810 5G,8.0,2.4,8,128,5000,True,33.0,6.8,120,3,64.0,16.0,,,android
+340,340,samsung,Samsung Galaxy A04,11999,71.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,64,5000,True,,6.5,60,2,50.0,5.0,True,1000.0,android
+341,341,poco,POCO M4 Pro 4G (6GB RAM + 128GB),12999,79.0,False,False,True,dimensity,Helio G96,8.0,2.05,6,128,5000,True,33.0,6.43,90,3,64.0,16.0,True,1000.0,android
+342,342,oneplus,OnePlus Nord N20 5G,20990,81.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,4500,True,33.0,6.43,60,3,64.0,16.0,True,,android
+343,343,apple,Apple iPhone 13 (256GB),72999,79.0,True,True,False,apple,Bionic A15,6.0,3.22,4,256,3240,True,,6.1,60,2,12.0,12.0,False,,ios
+344,344,oppo,Oppo Find X6 Pro,77990,,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,12,256,4700,True,120.0,6.78,120,3,50.0,32.0,,,android
+345,345,vivo,Vivo X90 Pro 5G,56999,,True,True,True,dimensity,Dimensity 9200,8.0,3.05,8,256,4870,True,120.0,6.78,120,3,50.3,32.0,False,,android
+346,346,motorola,Motorola Moto G53,21999,79.0,True,True,False,snapdragon,Snapdragon 480+,8.0,2.2,4,128,5000,True,10.0,6.5,120,2,50.0,16.0,True,1000.0,android
+347,347,motorola,Motorola Moto G22,9499,75.0,False,False,False,dimensity,Helio  G37,8.0,2.3,4,64,5000,True,20.0,6.53,90,4,50.0,16.0,True,1000.0,android
+348,348,xiaomi,Xiaomi Redmi 9i Sport,7499,66.0,False,False,False,dimensity,Helio G25,8.0,2.0,4,64,5000,True,10.0,6.53,60,1,13.0,5.0,True,512.0,android
+349,349,jio,Jio JioPhone Next,4649,,False,False,False,snapdragon,Qualcomm 215,4.0,1.3,2,32,3500,False,,5.45,60,1,13.0,8.0,True,512.0,android
+350,350,vivo,Vivo Y93,18000,62.0,False,False,False,dimensity,Helio P22,8.0,2.0,4,32,4030,False,,6.2,60,2,13.0,8.0,True,256.0,android
+351,351,xiaomi,Xiaomi Redmi K60 Pro,38999,85.0,True,True,True,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,128,5000,True,120.0,6.67,120,3,54.0,16.0,,,android
+352,352,realme,Realme C30s,7145,,False,False,False,unisoc,Unisoc SC9863A,8.0,1.6,2,32,5000,True,10.0,6.5,60,1,8.0,5.0,True,1000.0,android
+353,353,vivo,Vivo Y22s,14990,77.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,8,128,5000,True,18.0,6.55,90,2,50.0,8.0,True,1000.0,android
+354,354,oppo,OPPO A77,15499,70.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,True,33.0,6.56,60,2,50.0,8.0,True,,android
+355,355,xiaomi,Xiaomi Redmi 10A Sport,9999,69.0,False,False,True,dimensity,Helio G25,8.0,2.0,6,128,5000,False,,6.53,60,1,13.0,5.0,True,512.0,android
+356,356,poco,Poco F4 (12GB RAM + 256GB),29999,86.0,True,True,False,snapdragon,Snapdragon  870,8.0,3.2,12,256,4500,True,67.0,6.67,120,3,64.0,20.0,,,android
+357,357,realme,Realme 9 4G (8GB RAM + 128GB),15999,84.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,8,128,5000,True,33.0,6.4,90,3,108.0,16.0,True,256.0,android
+358,358,xiaomi,Xiaomi 12T Pro 5G,59990,89.0,True,True,True,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,8,128,5000,True,120.0,6.67,120,3,200.0,20.0,,,android
+359,359,iqoo,iQOO 9 5G,34990,84.0,True,False,False,snapdragon,Snapdragon  888+,8.0,2.9,8,128,4350,True,120.0,6.56,120,3,48.0,16.0,,,android
+360,360,apple,Apple iPhone 12 Mini (128GB),45999,75.0,True,True,False,apple,Bionic A14,6.0,3.1,4,128,,False,,5.4,60,2,12.0,12.0,False,,ios
+361,361,samsung,Samsung Galaxy S24 Ultra,119990,85.0,True,False,False,snapdragon,Snapdragon 8+ Gen 2,8.0,,12,256,5100,True,45.0,6.83,144,4,200.0,60.0,False,,android
+362,362,oppo,OPPO Find N Flip,89990,88.0,True,True,False,dimensity,Dimensity 9000,8.0,3.05,8,128,4300,True,44.0,6.8,120,2,50.0,32.0,False,,other
+363,363,oneplus,OnePlus 10T (12GB RAM + 256GB),50999,87.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,12,256,4800,True,150.0,6.7,120,3,50.0,16.0,,,android
+364,364,tecno,Tecno Spark 9 (4GB RAM + 64GB),7999,65.0,False,False,False,dimensity,Helio G37,8.0,2.3,4,64,5000,False,,6.6,90,2,13.0,8.0,True,256.0,android
+365,365,samsung,Samsung Galaxy S21 FE 5G (8GB RAM + 256GB),43999,88.0,True,True,False,exynos,Exynos  2100,8.0,2.9,8,256,4500,True,25.0,6.4,120,3,12.0,32.0,False,,android
+366,366,xiaomi,Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),18499,83.0,True,False,True,dimensity,Dimensity  810 5G,8.0,2.4,8,128,5000,True,33.0,6.6,90,2,50.0,16.0,True,1000.0,android
+367,367,sony,Sony Xperia Pro-I,134999,,True,True,False,snapdragon,Snapdragon 888,8.0,2.84,12,512,4500,True,30.0,6.5,120,3,12.0,8.0,True,1000.0,android
+368,368,vivo,Vivo V21 Pro,32999,85.0,True,False,False,snapdragon,Snapdragon 765G ,8.0,2.4,8,128,4300,True,33.0,6.44,60,4,64.0,44.0,,,android
+369,369,poco,Poco X3,13499,80.0,False,False,True,snapdragon,Snapdragon  732G,8.0,2.3,6,64,6000,True,33.0,6.67,120,4,64.0,20.0,True,512.0,android
+370,370,samsung,Samsung Galaxy S20 FE,35489,86.0,False,True,False,exynos,Exynos 990,8.0,2.73,8,128,4500,True,25.0,6.5,120,3,12.0,32.0,True,1000.0,android
+371,371,google,Google Pixel 4,20120,78.0,False,True,False,snapdragon,Snapdragon 855,8.0,2.8,6,64,2800,True,,5.7,60,2,16.0,8.0,False,,android
+372,372,samsung,Samsung Galaxy S10 Plus,42999,81.0,False,True,False,exynos,Exynos 9820,8.0,2.7,8,128,4100,True,15.0,6.4,60,3,16.0,10.0,True,512.0,android
+373,373,realme,Realme 11 Pro Plus,24999,78.0,True,False,False,dimensity,Dimensity  930,8.0,2.2,6,128,4200,True,66.0,6.4,90,3,50.0,16.0,False,,android
+374,374,oppo,OPPO F21 Pro 4G,20999,82.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,8,128,4500,True,33.0,6.5,90,3,64.0,32.0,True,256.0,android
+375,375,realme,Realme GT 2 5G,28994,84.0,True,True,False,snapdragon,Snapdragon  888 ,8.0,2.84,8,128,5000,True,65.0,6.62,120,3,50.0,16.0,,,android
+376,376,samsung,Samsung Galaxy S21,48900,88.0,True,True,False,exynos,Exynos  2100,8.0,2.9,8,128,4000,True,25.0,6.2,120,3,64.0,10.0,,,android
+377,377,samsung,Samsung Galaxy A71,22494,86.0,False,False,False,snapdragon,Snapdragon 730,8.0,2.2,8,128,4500,True,25.0,6.7,60,4,64.0,32.0,True,1000.0,android
+378,378,vivo,Vivo Y02s,8990,61.0,False,False,False,dimensity,Helio P35,8.0,2.3,3,32,5000,True,10.0,6.51,60,1,8.0,5.0,True,,android
+379,379,letv,Letv Y2 Pro,6999,,False,False,False,unisoc,Unisoc,8.0,,4,32,4000,False,,6.5,60,3,13.0,8.0,,,android
+380,380,tecno,Tecno Spark 8C (4GB RAM + 64GB),8890,63.0,False,False,False,unisoc,Unisoc  T606,8.0,2.0,4,64,5000,False,,6.6,90,2,13.0,8.0,True,256.0,android
+381,381,iqoo,iQOO Z6 5G (8GB RAM + 128GB),18498,82.0,True,False,False,snapdragon,Snapdragon  695 ,8.0,2.2,8,128,5000,True,18.0,6.58,120,3,50.0,16.0,True,1000.0,android
+382,382,vivo,Vivo T1 Pro,23999,81.0,True,False,False,snapdragon,Snapdragon 778G,8.0,2.4,6,128,4700,True,66.0,6.44,90,3,64.0,16.0,True,1000.0,android
+383,383,realme,Realme 9 Pro Plus 5G (8GB RAM + 128GB),22994,81.0,True,False,False,dimensity,Dimensity  920 5G,8.0,2.5,8,128,4500,True,60.0,6.4,90,3,50.0,16.0,False,,android
+384,384,samsung,Samsung Galaxy A04s,12990,71.0,False,False,False,exynos,Exynos 850,8.0,2.0,4,64,5000,True,15.0,6.5,90,3,50.0,5.0,True,1000.0,android
+385,385,realme,Realme 9i (6GB RAM + 128GB),14999,78.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,6,128,5000,True,33.0,6.6,90,3,50.0,16.0,True,1000.0,android
+386,386,realme,Realme 8 5G (8GB RAM + 128GB),18499,80.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,8,128,5000,True,18.0,6.5,90,3,48.0,16.0,True,1000.0,android
+387,387,oppo,OPPO F19,14990,78.0,False,False,False,snapdragon,Snapdragon 662 ,8.0,2.0,6,128,5000,True,33.0,6.4,60,3,48.0,16.0,True,256.0,android
+388,388,oppo,OPPO Find N2 Flip,70990,88.0,True,True,False,dimensity,Dimensity 9000 Plus,8.0,3.2,8,256,4300,True,44.0,6.8,120,2,50.0,32.0,False,,other
+389,389,samsung,Samsung Galaxy M32 Prime Edition,12120,75.0,False,False,False,dimensity,Helio G80,8.0,2.0,4,64,6000,True,15.0,6.4,90,4,64.0,20.0,True,1000.0,android
+390,390,oukitel,Oukitel WP19,29990,84.0,False,True,False,dimensity,Helio G95,8.0,2.0,8,256,21000,True,33.0,6.78,60,3,64.0,16.0,True,,android
+391,391,realme,Realme 9 Pro 5G (8GB RAM + 128GB),20999,82.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,8,128,5000,True,33.0,6.6,120,3,64.0,16.0,True,256.0,android
+392,392,xiaomi,Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),11999,80.0,False,False,True,snapdragon,Snapdragon 720G,8.0,2.3,6,128,5020,True,18.0,6.67,60,4,48.0,16.0,True,512.0,android
+393,393,samsung,Samsung Galaxy A13 5G,17990,73.0,True,True,False,dimensity,Dimensity 700 5G,8.0,2.2,4,64,5000,True,15.0,6.5,90,3,50.0,5.0,True,,android
+394,394,xiaomi,Xiaomi Redmi Note 11 5G,14990,77.0,True,False,True,dimensity,Dimensity  810 5G,8.0,2.4,4,128,5000,True,33.0,6.6,90,2,50.0,16.0,True,512.0,android
+395,395,itel,itel P36,6490,,False,False,False,spreadtrum,Spreadtrum  SC7731E,4.0,1.3,1,16,5000,False,,6.5,60,2,8.0,8.0,,,android
+396,396,realme,Realme GT Neo 5,34999,83.0,True,True,False,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,8,128,4600,True,240.0,6.7,120,3,50.0,16.0,,,android
+397,397,apple,Apple iPhone 15 Ultra,149900,79.0,True,True,False,apple,Bionic  A17,8.0,,8,128,4700,True,,6.73,120,3,48.0,12.0,False,,ios
+398,398,poco,Poco C50,6499,,False,False,False,dimensity,Helio A22,4.0,2.0,2,32,5000,True,10.0,6.52,60,2,8.0,5.0,True,512.0,android
+399,399,samsung,Samsung Galaxy Note 30 Ultra 5G,104999,,True,True,False,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,12,256,4500,True,67.0,6.71,120,3,200.0,10.0,True,1000.0,android
+400,400,realme,Realme 9i (4GB RAM + 128GB),13999,75.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,4,128,5000,True,33.0,6.6,90,3,50.0,16.0,True,1000.0,android
+401,401,xiaomi,Xiaomi Redmi Note 11T 5G,16999,79.0,True,False,True,dimensity,Dimensity  810 5G,8.0,2.4,6,64,5000,True,33.0,6.6,90,2,50.0,16.0,True,1000.0,android
+402,402,vivo,Vivo X80 Pro 5G,79999,,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,12,256,4700,True,80.0,6.78,120,4,50.0,32.0,False,,android
+403,403,oppo,OPPO Reno 6 Pro 5G,36760,87.0,True,True,False,dimensity,Dimensity 1200,8.0,3.0,12,256,4500,True,65.0,6.55,90,4,64.0,32.0,False,,android
+404,404,xiaomi,Xiaomi Mi 11i 5G,23499,81.0,True,False,True,dimensity,Dimensity  920 5G,8.0,2.5,6,128,5160,True,67.0,6.67,120,3,108.0,16.0,True,1000.0,android
+405,405,asus,Asus ROG Phone 7,75990,87.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,18,256,6000,True,120.0,6.8,165,3,64.0,32.0,False,,android
+406,406,oppo,Oppo A77 5G,21990,76.0,True,False,False,snapdragon,Snapdragon  810,8.0,2.4,6,128,5000,True,33.0,6.56,90,2,48.0,8.0,True,,android
+407,407,realme,Realme 9 5G SE,18999,80.0,True,False,False,snapdragon,Snapdragon  778G,8.0,2.4,6,128,5000,True,30.0,6.6,144,3,48.0,16.0,True,1000.0,android
+408,408,samsung,Samsung Galaxy A03,7249,66.0,False,False,False,unisoc,Unisoc  T606,8.0,1.6,3,32,5000,True,15.0,6.5,60,2,48.0,5.0,True,1000.0,android
+409,409,oneplus,OnePlus Nord N200,16990,75.0,True,True,False,snapdragon,Snapdragon  480 ,8.0,2.0,4,64,5000,True,18.0,6.49,90,3,13.0,16.0,True,,android
+410,410,xiaomi,Xiaomi Mi 11X,23890,80.0,True,False,True,snapdragon,Snapdragon 870,8.0,3.2,6,128,4520,True,33.0,6.67,120,3,48.0,20.0,,,android
+411,411,oppo,OPPO Reno 6,26380,83.0,True,True,False,dimensity,Dimensity 900,8.0,2.0,8,128,4300,True,65.0,6.43,90,3,64.0,32.0,False,,android
+412,412,realme,Realme X50 Pro 5G (12GB RAM + 256GB),27999,87.0,True,True,False,snapdragon,Snapdragon 865,8.0,2.84,12,256,4200,True,65.0,6.44,90,4,64.0,32.0,False,,android
+413,413,xiaomi,Xiaomi Redmi 10A (6GB RAM + 128GB),10850,70.0,False,False,False,dimensity,Helio  G25,8.0,2.0,6,128,5000,False,,6.53,60,1,13.0,5.0,True,512.0,android
+414,414,redmi,Redmi Note 12 Pro Speed Edition,19999,81.0,True,True,True,snapdragon,Snapdragon 778G,8.0,2.4,6,128,5000,True,67.0,6.67,120,3,108.0,16.0,False,,android
+415,415,apple,Apple iPhone 14 Pro (256GB),129990,76.0,True,True,False,apple,Bionic  A16,6.0,,6,256,3200,True,,6.1,120,3,48.0,12.0,False,,ios
+416,416,motorola,Motorola Moto G72,19990,81.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,33.0,6.5,120,3,108.0,16.0,False,,android
+417,417,motorola,Motorola Moto X30 Pro,41990,,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,4450,True,125.0,6.67,144,3,200.0,60.0,,,android
+418,418,xiaomi,Xiaomi 12S Ultra,69990,,True,True,True,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,256,4860,True,67.0,6.73,120,3,50.0,32.0,,,android
+419,419,honor,Honor 70 5G,39990,88.0,True,True,False,snapdragon,Snapdragon  778G Plus,8.0,2.5,12,512,4800,True,66.0,6.67,120,3,54.0,32.0,,,android
+420,420,oneplus,OnePlus 10 Pro 5G (12GB RAM + 512GB),74999,,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,12,512,5000,True,80.0,6.7,120,3,50.0,32.0,,,android
+421,421,vivo,Vivo V23 Pro 5G (12GB RAM + 256GB),36994,87.0,True,False,False,dimensity,Dimensity 1200,8.0,3.0,12,256,4300,True,44.0,6.56,90,3,108.0,50.0,False,,android
+422,422,oppo,OPPO A55 4G (6GB RAM + 128GB),14700,76.0,False,False,False,dimensity,Helio G35,8.0,2.3,6,128,5000,True,18.0,6.51,60,3,50.0,16.0,True,256.0,android
+423,423,xiaomi,Xiaomi Mi 11T Pro 5G,34990,86.0,True,True,True,snapdragon,Snapdragon  888 ,8.0,2.84,8,128,5000,True,120.0,6.67,120,3,108.0,16.0,,,android
+424,424,nokia,Nokia X50 5G,34999,76.0,True,False,False,snapdragon,Snapdragon 775,,,6,64,6000,True,33.0,6.81,60,4,108.0,32.0,True,,android
+425,425,xiaomi,Xiaomi Redmi Note 10,13990,75.0,False,False,True,snapdragon,Snapdragon 678,8.0,2.2,4,64,5000,True,33.0,6.43,60,4,48.0,13.0,True,512.0,android
+426,426,vertu,Vertu Signature Touch,650000,62.0,False,True,False,snapdragon,Snapdragon 801,8.0,1.5,2,64,2275,False,,4.7,60,1,13.0,2.1,False,,android
+427,427,samsung,Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB),14859,79.0,False,False,False,dimensity,Helio G80,8.0,2.0,6,128,6000,True,15.0,6.4,90,4,64.0,20.0,True,1000.0,android
+428,428,tecno,Tecno Camon 19 Pro Mondrian Edition,17999,84.0,False,True,False,dimensity,Helio G96,8.0,2.05,8,128,5000,True,33.0,6.8,120,3,64.0,32.0,True,512.0,android
+429,429,poco,Poco F5,34990,85.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,4700,True,67.0,6.7,120,3,64.0,32.0,,,android
+430,430,blu,BLU F91 5G,14990,85.0,True,True,False,dimensity,Dimensity  810 5G,8.0,2.4,8,128,5000,True,,6.8,60,4,48.0,16.0,True,,android
+431,431,oppo,OPPO A16e,8999,65.0,False,False,False,dimensity,Helio P22,8.0,2.0,3,32,4230,False,,6.52,60,1,13.0,5.0,True,1000.0,android
+432,432,motorola,Motorola Moto E32,8999,71.0,False,False,False,dimensity,Helio G37,8.0,2.3,4,64,5000,True,10.0,6.5,90,2,50.0,8.0,True,1000.0,android
+433,433,xiaomi,Xiaomi Redmi Note 11S (8GB RAM + 128GB),15824,84.0,False,False,True,dimensity,Helio  G96,8.0,2.05,8,128,5000,True,33.0,6.43,90,4,108.0,16.0,True,512.0,android
+434,434,apple,Apple iPhone SE 3 2022,43900,,True,True,False,apple,Bionic  A15,6.0,3.22,4,0,,False,,4.7,60,1,12.0,7.0,False,,ios
+435,435,samsung,Samsung Galaxy A52 (8GB RAM + 128GB),22494,86.0,False,False,False,snapdragon,Snapdragon  720G,8.0,2.3,8,128,4500,True,25.0,6.5,90,4,64.0,32.0,True,1000.0,android
+436,436,poco,Poco X3 Pro,19650,82.0,False,False,True,snapdragon,Snapdragon 860,8.0,2.96,6,128,5160,True,33.0,6.67,120,4,48.0,20.0,True,,android
+437,437,xiaomi,Xiaomi Redmi 9A,6999,61.0,False,False,False,dimensity,Helio G25,8.0,2.0,2,32,5000,False,,6.53,60,1,13.0,5.0,True,512.0,android
+438,438,samsung,Samsung Galaxy A32,16499,80.0,False,False,False,dimensity,Helio G80,8.0,2.0,6,128,5000,True,15.0,6.4,90,4,64.0,20.0,True,1000.0,android
+439,439,motorola,Motorola Moto G13,15999,75.0,False,True,False,dimensity,Helio G85,8.0,2.0,4,128,5000,True,10.0,6.5,90,3,50.0,8.0,True,512.0,android
+440,440,asus,Asus ROG Phone 6 Batman Edition,72999,88.0,True,True,False,dimensity,Dimensity 9000 Plus,8.0,3.2,16,256,6000,True,65.0,6.78,165,3,50.0,12.0,False,,android
+441,441,xiaomi,Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB),26999,84.0,True,False,True,dimensity,Dimensity 1080,8.0,2.6,6,128,4980,True,120.0,6.67,120,3,200.0,16.0,False,,android
+442,442,infinix,Infinix Smart 6 HD,6999,,False,False,False,dimensity,Helio A22,4.0,2.0,2,32,5000,False,,6.6,60,2,8.0,5.0,True,512.0,android
+443,443,apple,Apple iPhone 15 Pro,130990,75.0,True,True,False,apple,Bionic  A16,,,8,128,,False,,6.06,120,3,50.0,12.0,False,,ios
+444,444,realme,Realme C35 (4GB RAM + 128GB),12787,71.0,False,False,False,tiger,Tiger  T616,8.0,1.8,4,128,5000,True,18.0,6.6,90,3,50.0,8.0,True,1000.0,android
+445,445,infinix,Infinix Hot 12,9999,72.0,False,False,False,dimensity,Helio G37,8.0,2.3,4,64,6000,True,18.0,6.82,90,3,50.0,8.0,True,512.0,android
+446,446,vivo,Vivo X80 5G,54999,86.0,True,False,False,dimensity,Dimensity  9000,8.0,3.05,8,128,4500,True,80.0,6.78,120,3,50.0,32.0,False,,android
+447,447,vivo,Vivo Y53s,15490,79.0,False,False,False,dimensity,Helio G80,8.0,2.0,8,128,5000,True,19.0,6.58,60,3,64.0,16.0,True,1000.0,android
+448,448,tecno,Tecno Phantom X,25999,84.0,False,False,False,dimensity,Helio G95,8.0,2.05,8,256,4700,True,33.0,6.7,90,3,50.0,48.0,,,android
+449,449,samsung,Samsung Galaxy M04 (4GB RAM + 128GB),9499,68.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,128,5000,True,15.0,6.5,60,2,13.0,5.0,True,1000.0,android
+450,450,redmi,Redmi 12C,7999,70.0,False,False,False,dimensity,Helio  G85,8.0,2.0,4,64,5000,False,,6.71,60,2,50.0,5.0,True,512.0,android
+451,451,asus,Asus ZenFone 9,63990,86.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,4300,True,30.0,5.9,120,2,50.0,12.0,,,android
+452,452,sony,Sony Xperia L5 5G,15990,73.0,False,True,False,dimensity,Helio  P35,8.0,2.3,4,64,4000,True,,6.2,60,3,13.0,8.0,True,512.0,android
+453,453,iqoo,iQOO 9 SE 5G (12GB RAM + 256GB),34949,85.0,True,True,False,snapdragon,Snapdragon  888 ,8.0,2.84,12,256,4500,True,66.0,6.62,120,3,48.0,16.0,,,android
+454,454,tecno,Tecno Spark 8 Pro,8799,72.0,False,False,False,dimensity,Helio G85 ,8.0,2.0,4,64,5000,True,33.0,6.8,60,3,48.0,8.0,True,,android
+455,455,xiaomi,Xiaomi Redmi 10 Prime,12390,74.0,False,False,True,dimensity,Helio G88,8.0,2.0,4,64,6000,True,18.0,6.5,90,4,50.0,8.0,True,512.0,android
+456,456,samsung,Samsung Galaxy F22,11499,73.0,False,False,False,dimensity,Helio G80,8.0,2.0,4,64,6000,False,,6.4,90,4,48.0,13.0,True,1000.0,android
+457,457,xiaomi,Xiaomi Mi Mix Alpha,199990,,True,False,False,snapdragon,Snapdragon 855+,8.0,2.96,12,512,4050,True,40.0,7.92,60,3,108.0,,False,,android
+458,458,oppo,OPPO Reno 10 Pro,42990,86.0,True,True,False,dimensity,Dimensity 9000,8.0,3.05,16,256,5000,True,120.0,6.73,120,2,50.0,32.0,,,android
+459,459,nubia,Nubia Z50,34999,82.0,True,True,False,snapdragon,Snapdragon  8 Gen2,8.0,3.2,8,128,5000,True,80.0,6.67,144,3,64.0,16.0,,,android
+460,460,samsung,Samsung Galaxy F13 (4GB RAM + 128GB),11999,75.0,False,True,False,exynos,Exynos 850,8.0,2.0,4,128,6000,True,15.0,6.6,60,3,50.0,8.0,True,1000.0,android
+461,461,nokia,Nokia G11 Plus,10499,70.0,False,False,False,unisoc,Unisoc T606,8.0,1.6,4,64,5000,True,10.0,6.52,90,2,50.0,8.0,True,512.0,android
+462,462,infinix,Infinix Hot 12 Play,8910,66.0,False,False,False,tiger,Tiger T610,8.0,1.82,4,64,6000,True,18.0,6.82,90,2,13.0,8.0,True,256.0,android
+463,463,vivo,Vivo T2 5G,24990,85.0,True,False,False,snapdragon,Snapdragon  870,8.0,3.2,8,128,4700,True,80.0,6.62,120,3,64.0,16.0,True,1000.0,android
+464,464,oppo,OPPO Reno7 Z 5G,17999,84.0,True,True,False,snapdragon,Snapdragon  695 ,8.0,2.2,8,128,4500,True,33.0,6.43,60,3,64.0,16.0,True,,android
+465,465,xiaomi,Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),22999,86.0,True,True,True,snapdragon,Snapdragon  778G ,8.0,2.4,8,128,4250,True,33.0,6.55,90,3,64.0,20.0,True,,android
+466,466,realme,Realme Narzo 50i,6490,,False,False,False,unisoc,Unisoc  SC9863A,8.0,1.6,2,32,5000,False,,6.5,60,1,8.0,5.0,True,256.0,android
+467,467,infinix,Infinix Zero X Pro,21990,85.0,True,False,False,dimensity,Helio  G95,8.0,2.05,8,128,4500,True,45.0,6.67,120,3,108.0,16.0,True,512.0,android
+468,468,samsung,Samsung Galaxy M32,12364,76.0,False,False,False,dimensity,Helio G80,8.0,2.0,4,64,6000,True,15.0,6.4,90,4,64.0,20.0,True,1000.0,android
+469,469,samsung,Samsung Galaxy A82 5G,39990,86.0,True,True,False,snapdragon,Snapdragon 855+,8.0,2.96,6,128,4500,True,25.0,6.71,120,3,64.0,10.0,True,1000.0,android
+470,470,xiaomi,Xiaomi Poco F1,11999,77.0,False,False,False,snapdragon,Snapdragon 845,8.0,2.8,6,64,4000,True,,6.18,60,2,12.0,20.0,True,256.0,android
+471,471,vivo,Vivo Y25,7499,,False,False,False,dimensity,Helio MT6580,4.0,1.3,1,16,1900,False,,4.5,60,1,5.0,2.0,True,128.0,android
+472,472,lyf,Lyf Earth 1,3990,60.0,False,False,False,snapdragon,Snapdragon 615,8.0,1.5,3,32,3500,False,,5.5,60,2,13.0,5.0,True,64.0,android
+473,473,motorola,Motorola Moto E13,10499,65.0,False,False,False,tiger,Tiger T606,8.0,2.0,2,64,5000,True,10.0,6.5,60,1,13.0,5.0,True,1000.0,android
+474,474,tecno,Tecno Pop 6 Pro,6299,,False,False,False,dimensity,Helio A22,4.0,2.0,2,32,5000,False,,6.56,60,2,8.0,5.0,True,1000.0,android
+475,475,itel,Itel A24 Pro,5990,,False,False,False,unisoc,Unisoc  SC9832E,4.0,1.4,2,32,3020,False,,5.0,60,1,2.0,0.3,True,,android
+476,476,vivo,Vivo X Fold Plus,113990,,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,12,256,4730,True,80.0,8.03,120,4,50.0,16.0,,,android
+477,477,samsung,Samsung Galaxy F63,21999,84.0,True,True,False,dimensity,Dimensity 900,8.0,2.0,6,128,7000,True,33.0,6.7,60,4,64.0,32.0,True,1000.0,android
+478,478,iqoo,iQOO Z6 4G (6GB RAM + 128GB),15999,80.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,6,128,5000,True,44.0,6.44,120,3,50.0,16.0,True,1000.0,android
+480,480,sony,Sony Xperia 5 II,69990,86.0,True,True,False,snapdragon,Snapdragon 865 ,8.0,2.84,8,128,4000,True,21.0,6.1,120,3,12.0,8.0,True,,android
+481,481,vivo,Vivo Y3 (4GB RAM + 128GB),12990,71.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,128,5000,True,,6.35,60,3,13.0,16.0,True,256.0,android
+482,482,sony,Sony Xperia 1 IV (12GB RAM + 512GB),92980,,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,12,512,5000,True,30.0,6.5,120,4,12.0,12.0,True,,android
+483,483,tecno,Tecno Pova 4 Pro,15999,74.0,False,False,False,dimensity,Helio G99,8.0,2.2,8,256,6000,True,45.0,6.66,90,2,50.0,8.0,True,1000.0,android
+484,484,huawei,Huawei Nova 10 SE,23999,84.0,False,True,False,snapdragon,Sanpdragon 680,8.0,2.4,8,256,4500,True,66.0,6.67,90,3,108.0,16.0,True,,android
+485,485,vivo,Vivo T1x (4GB RAM + 128GB),12999,75.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,4,128,5000,True,18.0,6.58,90,2,50.0,8.0,True,,android
+486,486,nubia,Nubia Red Magic 7S Pro,60990,86.0,True,True,False,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,12,256,5000,True,135.0,6.8,120,3,64.0,8.0,,,android
+487,487,motorola,Motorola Moto E32s (4GB RAM + 64GB),8859,67.0,False,False,False,dimensity,Helio G37,8.0,1.8,4,64,5000,True,18.0,6.5,90,3,16.0,8.0,True,,android
+488,488,iqoo,iQOO Neo 6 5G (12GB RAM + 256GB),33749,84.0,True,False,True,snapdragon,Snapdragon 870,8.0,3.2,12,256,4700,True,80.0,6.62,120,3,64.0,16.0,,,android
+489,489,samsung,Samsung Galaxy A15,15990,63.0,False,False,False,,,8.0,,6,64,5000,True,,6.5,60,3,48.0,8.0,True,1000.0,android
+490,490,poco,POCO X4 GT 5G,24990,84.0,True,True,True,dimensity,Dimensity 8100,8.0,2.85,8,128,5080,True,67.0,6.6,144,3,64.0,16.0,False,,android
+491,491,realme,Realme Narzo 50 5G (4GB RAM + 128GB),14999,76.0,True,False,False,dimensity,Dimensity 810 5G,8.0,2.4,4,128,5000,True,33.0,6.6,90,3,48.0,16.0,True,1000.0,android
+492,492,vivo,Vivo Y77 5G,17990,76.0,True,False,False,dimensity,Dimensity  930,8.0,2.2,6,128,4500,True,80.0,6.64,120,2,50.0,8.0,True,1000.0,android
+493,493,honor,Honor 60 SE 5G,24990,75.0,True,False,False,dimensity,Dimensity 900,8.0,2.0,8,128,4300,True,66.0,6.67,120,3,64.0,16.0,,,android
+494,494,xiaomi,Xiaomi Redmi 11 Prime,11600,74.0,False,False,True,dimensity,Helio G99,8.0,2.2,4,64,5000,True,18.0,6.58,90,3,50.0,8.0,True,512.0,android
+495,495,realme,Realme C31,8299,62.0,False,False,False,tiger,Tiger T612,8.0,1.82,3,32,5000,False,,6.52,60,3,13.0,5.0,True,1000.0,android
+496,496,motorola,Motorola Moto G31 (6GB RAM+ 128GB),11999,78.0,False,False,False,dimensity,Helio  G85,8.0,2.0,6,128,5000,True,20.0,6.47,60,3,50.0,13.0,True,1000.0,android
+497,497,samsung,Samsung Galaxy Z Flip 4 5G,89999,88.0,True,True,False,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,8,128,3700,True,25.0,6.7,120,2,12.0,10.0,False,,other
+498,498,oneplus,OnePlus 6 (8GB RAM + 128GB),27999,77.0,False,True,False,snapdragon,Snapdragon 845,8.0,2.8,8,128,3300,False,,6.28,60,2,20.0,16.0,False,,android
+499,499,google,Google Pixel 2 XL,15990,69.0,False,True,False,snapdragon,Snapdragon 835,8.0,2.35,4,128,3520,True,,6.0,60,1,12.2,8.0,False,,android
+500,500,xiaomi,Xiaomi Redmi A1 Plus,7289,60.0,False,False,False,dimensity,Helio A22,4.0,2.0,2,32,5000,True,10.0,6.52,60,2,8.0,5.0,True,512.0,android
+501,501,honor,Honor 70 5G (8GB RAM + 256GB),30990,86.0,True,True,False,snapdragon,Snapdragon  778G Plus,8.0,2.5,8,256,4800,True,66.0,6.67,120,3,54.0,32.0,,,android
+502,502,realme,Realme Narzo 50 (6GB RAM + 128GB),15499,77.0,False,False,False,dimensity,Helio G96,8.0,2.0,6,128,5000,True,33.0,6.6,120,3,50.0,16.0,True,256.0,android
+503,503,vivo,Vivo Y15s,8499,66.0,False,False,False,dimensity,Helio P35 ,8.0,2.3,3,32,5000,False,,6.51,60,2,13.0,8.0,True,1000.0,android
+504,504,samsung,Samsung Galaxy M32 (6GB RAM + 128GB),14490,80.0,False,False,False,dimensity,Helio G80,8.0,2.0,6,128,6000,True,15.0,6.4,90,4,64.0,20.0,True,1000.0,android
+505,505,samsung,Samsung Galaxy F42 5G,15490,80.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,True,15.0,6.6,90,3,64.0,8.0,True,1000.0,android
+506,506,realme,Realme Q5 5G,14990,78.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,60.0,6.6,120,3,50.0,16.0,True,,android
+507,507,poco,POCO M3 Pro 5G,15999,75.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,4,64,5000,True,18.0,6.5,90,3,48.0,8.0,True,1000.0,android
+508,508,google,Google Pixel 5,36000,82.0,True,True,False,snapdragon,Snapdragon 765G ,8.0,2.4,8,128,4080,True,18.0,6.0,90,2,16.0,8.0,,,android
+509,509,oneplus,OnePlus 12 Pro,69999,,True,True,False,snapdragon,Snapdragon  8 Gen2,8.0,3.2,12,256,4800,True,150.0,6.73,144,3,108.0,32.0,,,android
+510,510,xiaomi,Xiaomi Redmi Note 12 Discovery Edition,26990,86.0,True,True,True,dimensity,Dimensity 1080,8.0,2.6,8,256,4300,True,210.0,6.67,120,3,200.0,16.0,False,,android
+511,511,samsung,Samsung Galaxy M13 (4GB RAM + 64GB),10630,71.0,False,False,False,exynos,Exynos  850,8.0,2.0,4,64,6000,True,15.0,6.6,60,3,50.0,8.0,True,1000.0,android
+512,512,oppo,Oppo Reno 8 Pro (8GB RAM + 256GB),42990,85.0,True,True,False,dimensity,Dimensity 8100-Max,8.0,2.85,8,256,4500,True,80.0,6.7,120,3,50.0,32.0,,,android
+513,513,vivo,Vivo Y78 5G,24990,77.0,True,False,False,dimensity,Dimensity 1300,8.0,3.0,8,128,4500,True,,6.58,90,3,50.0,16.0,False,,android
+514,514,iqoo,iQOO Z6 4G,14489,77.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,4,128,5000,True,44.0,6.44,120,3,50.0,16.0,True,1000.0,android
+515,515,oppo,OPPO A76,16490,73.0,False,False,False,snapdragon,Snapdragon  680 ,8.0,2.4,6,128,5000,True,33.0,6.56,90,2,13.0,8.0,True,,android
+516,516,realme,Realme 9 Pro Plus 5G (8GB RAM + 256GB),24494,82.0,True,False,False,dimensity,Dimensity  920 5G,8.0,2.5,8,256,4500,True,60.0,6.4,90,3,50.0,16.0,False,,android
+517,517,vivo,Vivo Y01,7999,61.0,False,False,False,dimensity,Helio P35,8.0,2.3,2,32,5000,False,,6.51,60,1,8.0,5.0,True,1000.0,android
+518,518,motorola,Motorola Moto Edge S30 5G,23990,85.0,True,False,False,snapdragon,Snapdragon 888+ ,8.0,2.9,6,128,5000,True,33.0,6.8,144,3,108.0,16.0,,,android
+519,519,realme,Realme GT 2 Pro 5G,49959,89.0,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,128,5000,True,65.0,6.7,120,3,50.0,32.0,,,android
+520,520,apple,Apple iPhone 13 Pro (256GB),129900,83.0,True,True,False,apple,Bionic A15,6.0,3.22,6,256,3095,True,,6.1,120,3,12.0,12.0,False,,ios
+521,521,vivo,Vivo Y73 2021,19990,80.0,False,False,False,dimensity,Helio G95,8.0,2.05,8,128,4000,True,33.0,6.44,60,3,64.0,16.0,True,,android
+522,522,samsung,Samsung Galaxy F14,14990,67.0,False,True,False,,,8.0,,4,64,5000,True,25.0,6.62,60,3,50.0,16.0,True,1000.0,android
+523,523,vivo,Vivo V20,23269,85.0,False,False,False,snapdragon,Snapdragon  720G ,8.0,2.3,8,128,4000,True,33.0,6.44,60,3,64.0,44.0,True,1000.0,android
+524,524,xiaomi,Xiaomi Redmi Note 9 Pro,13999,75.0,False,False,True,snapdragon,Snapdragon 720G,8.0,2.3,4,64,5020,True,18.0,6.67,60,4,48.0,16.0,True,512.0,android
+525,525,oneplus,OnePlus 10R Prime Edition,35389,85.0,True,True,False,dimensity,Dimensity 8100 Max,8.0,2.85,8,128,5000,True,80.0,6.7,120,3,50.0,16.0,,,android
+526,526,google,Google Pixel 6 Pro (12GB RAM + 256GB),79700,,True,True,False,google,Google  Tensor,8.0,2.8,12,256,5003,True,30.0,6.71,120,3,50.0,11.1,,,android
+527,527,nokia,Nokia C31,9499,62.0,False,False,False,unisoc,Unisoc  SC9863A,8.0,1.6,3,32,5050,True,10.0,6.74,60,3,13.0,5.0,True,256.0,android
+528,528,infinix,Infinix Hot 12 Pro (8GB RAM+ 128GB),12340,76.0,False,False,False,tiger,Tiger T616,8.0,2.0,8,128,5000,True,18.0,6.6,90,2,50.0,8.0,True,256.0,android
+529,529,poco,Poco M5,10799,74.0,False,False,True,dimensity,Helio G99,8.0,2.2,4,64,5000,True,18.0,6.58,90,3,50.0,8.0,True,512.0,android
+530,530,xiaomi,Xiaomi Redmi 10C (4GB RAM + 128GB),14990,73.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,4,128,6000,True,18.0,6.7,60,2,50.0,5.0,True,512.0,android
+531,531,zte,ZTE Axon 40 Ultra 5G,61990,89.0,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,128,5000,True,65.0,6.8,120,3,64.0,16.0,,,android
+532,532,xiaomi,Xiaomi 12 Pro 5G (12GB RAM + 256GB),51880,,True,True,True,snapdragon,Snapdragon 8 Gen1,8.0,3.0,12,256,4600,True,120.0,6.73,120,3,50.0,32.0,,,android
+533,533,oppo,OPPO K10 (8GB RAM + 128GB),16990,80.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,8,128,5000,True,33.0,6.59,90,3,50.0,16.0,True,1000.0,android
+534,534,huawei,Huawei Nova 9 SE,19990,84.0,False,True,False,snapdragon,Snapdragon  680,8.0,2.4,8,128,4000,True,66.0,6.78,90,4,108.0,16.0,True,,android
+535,535,samsung,Samsung Galaxy S22 5G (8GB RAM + 256GB),57999,87.0,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,8,256,3700,True,25.0,6.1,120,3,50.0,10.0,,,android
+536,536,lenovo,Lenovo Legion Y90,46990,87.0,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,12,256,5600,True,68.0,6.92,144,2,64.0,16.0,,,android
+537,537,vivo,Vivo Y55 5G,20990,77.0,True,True,False,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,18.0,6.58,60,3,50.0,8.0,True,,android
+538,538,nokia,Nokia X100 5G,17990,82.0,True,True,False,snapdragon,Snapdragon  480 ,8.0,2.0,6,128,4470,True,18.0,6.67,60,4,48.0,16.0,True,1000.0,android
+539,539,realme,Realme 8s 5G (8GB RAM + 128GB),17499,82.0,True,False,False,dimensity,Dimensity  810 5G,8.0,2.4,8,128,5000,True,33.0,6.5,90,3,64.0,16.0,True,1000.0,android
+540,540,realme,Realme 8s 5G,17999,80.0,True,False,False,dimensity,Dimensity  810 5G,8.0,2.4,6,128,5000,True,33.0,6.5,90,3,64.0,16.0,True,1000.0,android
+541,541,nokia,Nokia X60 Pro 5G,49990,,True,False,False,snapdragon,Snapdragon  870,8.0,3.2,8,128,6000,True,44.0,6.51,144,4,200.0,32.0,True,,android
+542,542,poco,Poco X5,14999,74.0,True,False,True,snapdragon,Snapdragon 695,8.0,2.2,4,128,5000,True,33.0,6.67,120,3,48.0,8.0,False,,android
+543,543,xiaomi,Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),19980,82.0,False,False,True,snapdragon,Snapdragon  732G,8.0,2.3,6,128,5020,True,33.0,6.67,120,4,108.0,16.0,True,512.0,android
+544,544,iqoo,iQOO 7 (12GB RAM + 256GB),35990,85.0,True,True,False,snapdragon,Snapdragon 870,8.0,3.2,12,256,4400,True,66.0,6.62,120,3,48.0,16.0,,,android
+545,545,realme,Realme 8,15999,78.0,False,False,False,dimensity,Helio G95,8.0,2.0,4,128,5000,True,30.0,6.4,60,4,64.0,16.0,True,256.0,android
+546,546,samsung,Samsung Galaxy S20,41999,88.0,False,True,False,exynos,Exynos  990,8.0,2.73,8,128,4000,True,25.0,6.2,120,3,64.0,10.0,True,1000.0,android
+547,547,xiaomi,Xiaomi Redmi K60E,25999,83.0,True,True,True,dimensity,Dimensity 8200,8.0,3.1,8,128,5500,True,67.0,6.67,120,3,48.0,20.0,,,android
+548,548,motorola,Motorola Moto E32s,7990,65.0,False,False,False,dimensity,Helio G37,8.0,1.8,3,32,5000,True,18.0,6.5,90,3,16.0,8.0,True,1000.0,android
+549,549,oneplus,OnePlus Nord 3T 5G,29990,84.0,True,True,False,dimensity,Dimensity  1300,8.0,3.0,8,128,4500,True,80.0,6.43,90,3,50.0,32.0,,,android
+550,550,oppo,OPPO F23 Pro Plus 5G,27990,83.0,True,False,False,snapdragon,Snapdragon  7 Gen1,8.0,2.36,8,128,4500,True,65.0,6.43,90,4,50.0,16.0,True,256.0,android
+551,551,poco,Poco F5 Pro,29999,84.0,True,True,True,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,8,128,5500,True,67.0,6.67,120,3,64.0,16.0,,,android
+552,552,oppo,OPPO A16e (4GB RAM + 64GB),8999,68.0,False,False,False,dimensity,Helio P22,8.0,2.0,4,64,4230,False,,6.52,60,1,13.0,5.0,True,1000.0,android
+553,553,poco,POCO M4 Pro 4G (8GB RAM + 128GB),13999,81.0,False,False,True,dimensity,Helio G96,8.0,2.05,8,128,5000,True,33.0,6.43,90,3,64.0,16.0,True,1000.0,android
+554,554,realme,Realme Narzo 50A,11499,71.0,False,False,False,dimensity,Helio  G85,8.0,2.0,4,64,6000,True,18.0,6.5,60,3,50.0,8.0,True,256.0,android
+555,555,asus,Asus ROG Phone 5s 5G,39999,87.0,True,True,False,snapdragon,Snapdragon  888+,8.0,2.9,8,128,6000,True,65.0,6.78,144,3,64.0,24.0,,,android
+556,556,realme,Realme GT Master Edition 5G,27999,84.0,True,True,False,snapdragon,Snapdragon  778G ,8.0,2.4,8,128,4300,True,65.0,6.43,120,3,64.0,32.0,,,android
+557,557,samsung,Samsung Galaxy A32 5G,24499,79.0,True,True,False,dimensity,Dimensity 720,8.0,2.0,6,128,5000,True,15.0,6.5,90,4,48.0,13.0,True,1000.0,android
+558,558,nubia,Nubia Red Magic 8 Pro Plus,60999,86.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,12,256,5000,True,165.0,6.8,120,3,50.0,16.0,,,android
+559,559,samsung,Samsung Galaxy Z Fold 3,110999,89.0,True,True,False,snapdragon,Snapdragon 888,8.0,2.84,12,256,4400,True,25.0,7.6,120,3,12.0,10.0,,,android
+560,560,lg,LG Wing 5G,54999,89.0,True,True,False,snapdragon,Snapdragon  765G ,8.0,2.4,8,128,4000,True,,6.8,60,3,64.0,32.0,True,1000.0,other
+561,561,xiaomi,Xiaomi Redmi Note 9 Pro Max,16490,80.0,False,False,True,snapdragon,Snapdragon 720G,8.0,2.3,6,64,5020,True,33.0,6.67,60,4,64.0,32.0,True,512.0,android
+562,562,samsung,Samsung Galaxy A52,24990,83.0,False,False,False,snapdragon,Snapdragon  720G,8.0,2.3,6,128,4500,True,25.0,6.5,90,4,64.0,32.0,True,1000.0,android
+563,563,vivo,Vivo Y71,25000,,False,False,False,snapdragon,Snapdragon 425,4.0,1.4,3,16,3360,False,,6.0,60,1,13.0,5.0,True,,android
+564,564,samsung,Samsung Galaxy A04e (3GB RAM + 64GB),9950,66.0,False,False,False,dimensity,Helio P35,8.0,2.3,3,64,5000,False,,6.5,60,2,13.0,5.0,True,1000.0,android
+565,565,oppo,Oppo A56s,12999,75.0,True,False,False,dimensity,Dimensity 810,8.0,2.4,8,128,5000,False,,6.56,60,2,13.0,8.0,True,,android
+566,566,oppo,Oppo Reno 8T 4G,19999,83.0,False,True,False,dimensity,Helio G99,8.0,2.2,8,256,5000,True,66.0,6.67,120,3,50.0,16.0,True,1000.0,android
+567,567,oppo,OPPO Reno 10,32999,84.0,True,True,False,snapdragon,Snapdragon 778G Plus,8.0,2.5,8,256,5000,True,120.0,6.73,120,3,50.0,32.0,,,android
+568,568,nokia,Nokia G60,28498,81.0,True,True,False,snapdragon,Snapdragon  695,8.0,2.2,6,128,4500,True,20.0,6.58,120,3,50.0,8.0,True,,android
+569,569,oppo,OPPO A77 (4GB RAM + 128 GB),15998,71.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,128,5000,True,33.0,6.56,60,2,50.0,8.0,True,,android
+570,570,motorola,Motorola Edge 40 Pro 5G,59990,89.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,128,4800,True,125.0,6.7,165,3,50.0,60.0,,,android
+571,571,oppo,Oppo K10x 5G,16990,78.0,True,False,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,67.0,6.59,120,3,64.0,16.0,,,android
+572,572,iqoo,iQOO Z6 Pro 5G (12GB RAM + 256GB),27999,82.0,True,False,False,snapdragon,Snapdragon  778G,8.0,2.4,12,256,4700,True,66.0,6.44,90,3,64.0,16.0,False,,android
+573,573,nokia,Nokia G21 (6GB RAM + 128GB),13499,75.0,False,False,False,unisoc,Unisoc  T606,8.0,1.6,6,128,5050,True,18.0,6.5,90,3,50.0,8.0,True,512.0,android
+574,574,samsung,Samsung Galaxy A13 (6GB RAM + 128GB),16499,78.0,False,False,False,,,8.0,2.0,6,128,5000,True,25.0,6.6,60,4,50.0,8.0,True,1000.0,android
+575,575,oppo,OPPO A16K (4GB RAM + 64GB),10999,66.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,4230,False,,6.52,60,1,13.0,5.0,True,256.0,android
+576,576,xiaomi,Xiaomi Redmi 10C,13990,71.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,4,64,6000,True,18.0,6.7,60,2,50.0,5.0,True,512.0,android
+577,577,tecno,Tecno Spark 9 Pro,9999,74.0,False,False,False,dimensity,Helio  G85,8.0,2.0,4,64,5000,True,18.0,6.6,90,3,48.0,32.0,True,,android
+578,578,realme,Realme GT Neo 3 5G,31994,83.0,True,True,False,dimensity,Dimensity  8100,8.0,2.85,8,128,5000,True,80.0,6.7,120,3,50.0,16.0,,,android
+579,579,xiaomi,Xiaomi 11i HyperCharge 5G,24820,83.0,True,False,True,dimensity,Dimensity  920 5G,8.0,2.5,6,128,4500,True,120.0,6.67,120,3,108.0,16.0,True,1000.0,android
+580,580,iqoo,iQOO Neo 6 SE 5G,22990,83.0,True,False,False,snapdragon,Snapdragon 870,8.0,3.2,8,128,4700,True,80.0,6.62,120,3,64.0,16.0,False,,android
+581,581,iqoo,iQOO 9 Pro 5G,59990,88.0,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,256,4700,True,120.0,6.78,120,3,50.0,16.0,,,android
+582,582,realme,Realme Narzo 50i (4GB RAM + 64GB),8999,62.0,False,False,False,unisoc,Unisoc  SC9863A,8.0,1.6,4,64,5000,False,,6.5,60,1,8.0,5.0,True,256.0,android
+583,583,xiaomi,Xiaomi Redmi 9 Activ (6GB RAM + 128GB),10499,72.0,False,False,False,dimensity,Helio G35,8.0,2.3,6,128,5000,False,,6.53,60,2,13.0,5.0,True,512.0,android
+584,584,jio,Jio JioPhone Next (3GB RAM + 32GB),7499,,False,False,False,snapdragon,Qualcomm 215,4.0,1.3,3,32,3000,False,,5.5,60,1,13.0,8.0,True,,android
+585,585,xiaomi,Xiaomi Redmi Note 8 2021,9990,75.0,False,False,True,dimensity,Helio G85,8.0,2.0,4,64,4000,True,18.0,6.3,60,4,48.0,13.0,True,,android
+586,586,xiaomi,Xiaomi Redmi Note 10 5G,12490,76.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,18.0,6.5,90,3,48.0,8.0,True,512.0,android
+587,587,vivo,Vivo Y20G,13990,69.0,False,False,False,dimensity,Helio G80,8.0,2.0,4,64,5000,True,18.0,6.51,60,3,13.0,8.0,True,256.0,android
+588,588,samsung,Samsung Galaxy A22 5G,17990,79.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,True,15.0,6.6,90,3,48.0,8.0,True,1000.0,android
+589,589,vivo,Vivo V21,24999,83.0,False,False,False,dimensity,Dimensity 800U,8.0,2.4,8,128,4000,True,33.0,6.44,90,3,64.0,44.0,True,,android
+590,590,realme,Realme 7 Pro (8GB RAM + 128GB),21999,85.0,False,False,False,snapdragon,Snapdragon 720G ,8.0,2.3,8,128,4500,True,65.0,6.4,60,4,64.0,32.0,True,256.0,android
+591,591,oneplus,OnePlus Nord Lite,19999,77.0,False,False,False,snapdragon,Snapdragon 690,8.0,2.0,8,128,4300,True,30.0,6.55,90,3,48.0,16.0,False,,android
+592,592,samsung,Samsung Galaxy S20 Ultra 5G,99999,,True,True,False,exynos,Exynos 990,8.0,2.73,12,128,5000,True,45.0,6.9,60,4,108.0,40.0,True,1000.0,android
+593,593,apple,Apple iPhone 11 Pro Max,109900,77.0,False,True,False,apple,A13 Bionic,6.0,2.65,4,64,3500,True,18.0,6.5,60,3,12.0,12.0,False,,ios
+594,594,apple,Apple iPhone 7s,52990,,False,False,False,fusion,Fusion APL1024,4.0,2.37,3,32,2230,False,,4.7,60,1,13.0,7.0,,,ios
+595,595,sony,Sony Xperia Ace IV,19990,80.0,False,True,False,snapdragon,Snapdragon 4 Gen 1,8.0,2.0,8,128,5000,True,33.0,6.5,120,2,50.0,16.0,True,1000.0,android
+596,596,samsung,Samsung Galaxy A04e (4GB RAM + 128GB),11499,69.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,128,5000,False,,6.5,60,2,13.0,5.0,True,1000.0,android
+597,597,xiaomi,Xiaomi Redmi Note 12 4G,13999,75.0,False,False,True,dimensity,Helio G99,8.0,2.2,4,64,5000,True,33.0,6.67,120,3,48.0,13.0,True,1000.0,android
+598,598,oukitel,Oukitel WP21,22990,82.0,False,False,False,dimensity,Helio G99,8.0,2.2,12,256,9800,True,66.0,6.78,120,3,64.0,,True,,other
+599,599,vivo,Vivo V28,28990,84.0,True,False,False,snapdragon,Snapdragon 6 Gen 1,8.0,2.2,8,256,5000,True,80.0,6.7,120,3,108.0,32.0,True,,android
+600,600,poco,Poco F4 5G (8GB RAM + 128GB),27999,85.0,True,True,False,snapdragon,Snapdragon  870,8.0,3.2,8,128,4500,True,67.0,6.67,120,3,64.0,20.0,,,android
+601,601,xiaomi,Xiaomi Redmi Note 11T Pro 5G,19990,82.0,True,True,True,dimensity,Dimensity  8100,8.0,2.85,6,128,5080,True,67.0,6.6,144,3,64.0,16.0,True,1000.0,android
+602,602,realme,Realme Narzo 50 Pro 5G (8GB RAM + 128GB),22999,83.0,True,False,False,dimensity,Dimensity 920 5G,8.0,2.5,8,128,5000,True,33.0,6.4,90,3,48.0,16.0,True,1000.0,android
+603,603,vivo,Vivo T1 44W (8GB RAM + 128GB),17999,82.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,8,128,5000,True,44.0,6.44,60,3,50.0,16.0,True,1000.0,android
+604,604,xiaomi,Xiaomi Redmi Note 11S (6GB RAM + 128GB),15499,81.0,False,False,True,dimensity,Helio  G96,8.0,2.05,6,128,5000,True,33.0,6.43,90,4,108.0,16.0,True,512.0,android
+605,605,lava,Lava Agni 5G,17990,84.0,True,False,False,dimensity,Dimensity  810 5G,8.0,2.4,8,128,5000,True,30.0,6.78,90,4,64.0,16.0,True,1000.0,android
+606,606,realme,Realme 8i (6GB RAM + 128GB),13999,77.0,False,False,False,dimensity,Helio G96,8.0,2.05,6,128,5000,True,18.0,6.6,120,3,50.0,16.0,True,256.0,android
+607,607,oppo,OPPO A55 4G,13499,73.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,True,18.0,6.51,60,3,50.0,16.0,True,256.0,android
+608,608,poco,POCO M3 Pro 5G (6GB RAM + 128GB),14799,79.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,True,18.0,6.5,90,3,48.0,8.0,True,1000.0,android
+609,609,realme,Realme C21Y,6999,62.0,False,False,False,unisoc,Unisoc T610,8.0,1.8,3,32,5000,False,,6.5,60,3,13.0,5.0,True,256.0,android
+610,610,oppo,OPPO A16,11999,69.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,False,,6.52,60,3,13.0,8.0,True,,android
+611,611,vivo,Vivo V21 5G,23994,85.0,True,False,False,dimensity,Dimensity 800U,8.0,2.4,8,128,4000,True,33.0,6.44,90,3,64.0,44.0,True,,android
+613,613,apple,Apple iPhone 12 Pro (512GB),139900,80.0,True,True,False,apple,Bionic A14,6.0,3.1,6,512,,False,,6.1,60,3,12.0,12.0,False,,ios
+614,614,sony,Sony Xperia 1 II,69999,89.0,True,True,False,snapdragon,Snapdragon  865 ,8.0,2.84,8,256,4000,True,21.0,6.5,60,4,12.0,8.0,True,,android
+615,615,motorola,Motorola Edge Plus,57999,89.0,True,True,False,snapdragon,Snapdragon  865 ,8.0,2.84,12,256,5000,True,18.0,6.7,90,3,108.0,25.0,,,android
+616,616,samsung,Samsung Galaxy Note 20,86000,87.0,False,True,False,exynos,Exynos  990,8.0,2.73,8,256,4300,True,25.0,6.7,60,3,64.0,10.0,,,android
+617,617,samsung,Samsung Galaxy A12,11999,71.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,64,5000,True,15.0,6.5,60,4,48.0,8.0,True,,android
+618,618,xiaomi,Xiaomi Redmi Note 12 Pro 4G,14999,77.0,False,True,True,snapdragon,Snapdragon 732G,8.0,2.3,6,128,5000,True,67.0,6.67,120,3,50.0,16.0,,,android
+619,619,realme,Realme GT Neo 3T (8GB RAM + 128GB),26499,81.0,True,False,False,snapdragon,Snapdragon 870,8.0,3.2,8,128,5000,True,80.0,6.62,120,3,64.0,16.0,,,android
+620,620,realme,Realme C30s (4GB RAM + 64GB),8990,62.0,False,False,False,unisoc,Unisoc SC9863A,8.0,1.6,4,64,5000,True,10.0,6.5,60,1,8.0,5.0,True,1000.0,android
+621,621,apple,Apple iPhone 14 (512GB),95999,82.0,True,True,False,apple,Bionic A15,6.0,3.22,6,512,3279,True,,6.1,60,2,12.0,12.0,False,,ios
+622,622,iqoo,iQOO 9T 5G,47990,85.0,True,True,True,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,8,128,4700,True,120.0,6.78,120,3,50.0,16.0,,,android
+623,623,tecno,Tecno Camon 19 Pro,17990,81.0,False,False,False,dimensity,Helio  G96,8.0,2.05,8,128,5000,True,33.0,6.8,120,3,64.0,32.0,,,android
+624,624,oneplus,OnePlus Nord 2 Lite 5G,22999,83.0,True,True,False,snapdragon,Snapdragon 695 ,8.0,2.2,8,128,5000,True,33.0,6.59,120,3,64.0,16.0,True,,android
+625,625,samsung,Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB),99990,,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,8,128,5000,True,45.0,6.8,120,4,108.0,40.0,,,android
+626,626,poco,POCO F4 GT 5G,39999,86.0,True,True,True,snapdragon,Snapdragon  8 Gen1,8.0,3.0,8,128,4700,True,120.0,6.67,120,3,64.0,20.0,False,,android
+627,627,xiaomi,Xiaomi 11T Pro 5G (12GB RAM + 256GB),38999,88.0,True,True,True,snapdragon,Snapdragon  888 ,8.0,2.84,12,256,5000,True,120.0,6.67,120,3,108.0,16.0,,,android
+628,628,vivo,Vivo Y10,12490,63.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,128,5000,False,,6.51,60,2,13.0,8.0,,,android
+629,629,samsung,Samsung Galaxy A83 5G,39990,86.0,True,True,False,snapdragon,Snapdragon 870,8.0,3.2,6,128,4500,True,25.0,6.71,120,3,64.0,10.0,True,1000.0,android
+630,630,vivo,Vivo Y33s,16685,80.0,False,False,False,dimensity,Helio G80,8.0,2.0,8,128,5000,True,18.0,6.58,60,3,50.0,16.0,True,1000.0,android
+631,631,huawei,Huawei Mate 40 Pro 4G,69990,,False,True,True,kirin,Kirin  9000,8.0,3.13,8,128,4400,True,66.0,6.76,90,3,50.0,13.0,True,256.0,other
+632,632,micromax,Micromax IN 2B,6999,66.0,False,False,False,unisoc,Unisoc  T610,8.0,1.8,4,64,5000,False,,6.52,60,2,13.0,5.0,True,256.0,android
+633,633,asus,Asus ROG Phone 6,71999,86.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,12,256,6000,True,65.0,6.78,165,3,50.0,12.0,False,,android
+634,634,realme,Realme X7 Max,26999,84.0,True,True,False,dimensity,Dimensity 1200,8.0,3.0,8,128,4500,True,50.0,6.43,120,3,64.0,16.0,,,android
+635,635,realme,Realme 8 5G,16499,75.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,18.0,6.5,90,3,48.0,16.0,True,1000.0,android
+636,636,oppo,OPPO A55 5G,17990,74.0,True,False,False,dimensity,Dimensity 700,8.0,2.2,6,128,5000,False,,6.5,60,3,13.0,8.0,True,,android
+637,637,xiaomi,Xiaomi Redmi 9,8999,68.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,False,,6.53,60,2,13.0,5.0,True,512.0,android
+638,638,apple,Apple iPhone SE 2020,39900,63.0,False,True,False,apple,A13 Bionic,6.0,2.65,3,64,1821,True,18.0,4.7,60,1,12.0,7.0,,,ios
+639,639,letv,Letv Y1 Pro Plus,5999,60.0,False,False,False,tiger,Tiger T610,4.0,1.8,6,64,4000,True,10.0,6.5,60,2,8.0,5.0,,,android
+640,640,oneplus,OnePlus Nord 5,34999,76.0,True,True,False,dimensity,Dimensity  9200,8.0,,8,128,5000,True,120.0,6.57,120,3,64.0,32.0,,,android
+641,641,vivo,Vivo Y73T,16990,77.0,True,False,False,dimensity,Dimensity 700,8.0,2.0,8,128,6000,True,44.0,6.58,60,2,50.0,8.0,False,,android
+642,642,oppo,OPPO Reno 9 Z,22990,84.0,True,True,False,snapdragon,Snapdragon  6 Gen 1,8.0,2.2,8,128,4800,True,33.0,6.58,120,3,50.0,32.0,True,,android
+643,643,vivo,Vivo V25e,19990,84.0,False,False,False,dimensity,Helio G99,8.0,2.2,8,256,4500,True,44.0,6.44,90,3,64.0,32.0,True,,android
+644,644,infinix,Infinix Hot 12 Pro,10850,74.0,False,False,False,tiger,Tiger T616,8.0,2.0,6,64,5000,True,18.0,6.6,90,2,50.0,8.0,True,256.0,android
+645,645,realme,Realme Narzo 50 5G (4GB RAM + 64GB),13499,75.0,True,False,False,dimensity,Dimensity 810 5G,8.0,2.4,4,64,5000,True,33.0,6.6,90,3,48.0,16.0,True,1000.0,android
+646,646,itel,itel Vision 3,6699,61.0,False,False,False,unisoc,Unisoc  SC9863a,8.0,1.6,3,64,5000,True,18.0,6.6,60,2,8.0,5.0,True,128.0,android
+647,647,oppo,OPPO A96 4G,17999,80.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,8,128,5000,True,33.0,6.59,90,2,50.0,16.0,True,,android
+648,648,xiaomi,Xiaomi Redmi Note 11E 5G,13990,69.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,18.0,6.58,90,2,50.0,5.0,False,,android
+649,649,honor,Honor Magic 4 Pro Plus 5G,94990,,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,12,512,4600,True,120.0,6.76,120,4,50.0,13.0,,,android
+650,650,tecno,Tecno Spark 9T,8968,72.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,True,18.0,6.6,60,3,50.0,8.0,True,,android
+651,651,infinix,Infinix Smart 6,7320,60.0,False,False,False,dimensity,Helio A22,4.0,2.0,2,64,5000,False,,6.6,60,2,8.0,5.0,True,512.0,android
+652,652,realme,Realme C25Y (4GB RAM + 64GB),8999,69.0,False,False,False,tiger,Tiger  T610,8.0,1.8,4,64,5000,True,18.0,6.5,60,3,50.0,8.0,True,256.0,android
+653,653,samsung,Samsung Galaxy A12 (6GB RAM + 128GB),13999,75.0,False,False,False,dimensity,Helio P35,8.0,2.3,6,128,5000,True,15.0,6.5,60,4,48.0,8.0,True,,android
+654,654,tecno,Tecno Camon 19,14746,79.0,False,True,False,dimensity,Helio  G85,8.0,2.0,6,128,5000,True,18.0,6.8,60,3,64.0,16.0,True,512.0,android
+655,655,xiaomi,Xiaomi Redmi Note 10 Pro 5G,16999,83.0,True,True,True,dimensity,Dimensity 1100 5G,8.0,2.6,6,128,5000,True,67.0,6.6,120,3,64.0,16.0,True,,android
+656,656,xiaomi,Xiaomi Mi 11X 5G (8GB RAM + 128GB),25990,83.0,True,False,True,snapdragon,Snapdragon 870,8.0,3.2,8,128,4520,True,33.0,6.67,120,3,48.0,20.0,,,android
+657,657,xiaomi,Xiaomi Redmi Note 10 (6GB RAM + 128GB),16499,78.0,False,False,True,snapdragon,Snapdragon 678,8.0,2.2,6,128,5000,True,33.0,6.43,60,4,48.0,13.0,True,512.0,android
+658,658,xiaomi,Xiaomi Redmi Note 10 Pro Max,19999,81.0,False,False,True,snapdragon,Snapdragon  732G,8.0,2.3,6,64,5020,True,33.0,6.67,120,4,108.0,16.0,True,512.0,android
+659,659,xiaomi,Xiaomi Mi 10T 5G,23500,80.0,True,True,False,snapdragon,Snapdragon 865,8.0,2.84,6,128,5000,True,33.0,6.67,144,3,64.0,20.0,,,android
+660,660,lg,LG Velvet 5G,54999,85.0,True,True,False,snapdragon,Snapdragon  765G,8.0,2.4,6,128,4300,True,25.0,6.8,60,3,48.0,16.0,True,,android
+661,661,motorola,Motorola One Fusion Plus,19499,80.0,False,False,False,snapdragon,Snapdragon 730G,8.0,2.2,6,128,5000,True,18.0,6.5,60,4,64.0,16.0,True,1000.0,android
+662,662,lg,LG V60 ThinQ,79990,,True,True,False,snapdragon,Snapdragon  865,8.0,2.84,8,128,5000,True,,6.8,60,3,64.0,10.0,True,1000.0,other
+663,663,samsung,Samsung Galaxy Note 10 Lite,39999,83.0,False,True,False,exynos,Exynos 9810,8.0,2.7,6,128,4500,True,25.0,6.7,60,3,12.0,32.0,True,1000.0,android
+664,664,samsung,Samsung Galaxy Note 10 Plus 5G,92999,89.0,True,True,True,exynos,Exynos 9825,8.0,2.7,12,256,4300,True,,6.8,60,4,12.0,10.0,True,512.0,android
+665,665,iqoo,iQOO Neo 7 Racing Edition,32990,84.0,True,True,True,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,256,5000,True,120.0,6.78,120,3,50.0,16.0,,,android
+666,666,samsung,Samsung Galaxy A04s (4GB RAM + 128GB),14499,72.0,False,False,False,exynos,Exynos 850,8.0,2.0,4,128,5000,True,15.0,6.5,90,3,50.0,5.0,True,1000.0,android
+667,667,vivo,Vivo Y35 5G,13999,70.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,15.0,6.51,60,2,13.0,5.0,True,1000.0,android
+668,668,vivo,Vivo Y02 (2GB RAM + 32GB),7999,,False,False,False,dimensity,Helio,8.0,,2,32,5000,True,10.0,6.51,60,1,8.0,5.0,True,1000.0,android
+669,669,itel,itel Vision 3 (2GB RAM + 32GB),5785,,False,False,False,unisoc,Unisoc  SC9863a,8.0,1.6,2,32,5000,True,18.0,6.6,60,2,8.0,5.0,True,128.0,android
+670,670,xiaomi,Xiaomi Redmi Note 11R,12990,73.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,18.0,6.58,90,2,13.0,5.0,True,512.0,android
+671,671,poco,Poco M6 Pro,19990,84.0,True,False,True,dimensity,Dimensity  920 5G,8.0,2.5,8,128,5100,True,120.0,6.73,120,3,108.0,32.0,True,1000.0,android
+672,672,oppo,OPPO A97 5G,23990,79.0,True,False,False,dimensity,Dimensity 810 5G,8.0,2.4,12,256,5000,True,33.0,6.56,90,2,48.0,8.0,True,1000.0,android
+673,673,samsung,Samsung Galaxy A24,17999,77.0,False,False,False,exynos,Exynos 7904,8.0,1.8,6,64,4000,True,15.0,6.4,60,3,48.0,16.0,True,1000.0,android
+674,674,infinix,Infinix Note 13 Pro,16999,80.0,False,False,False,dimensity,Helio  G99,8.0,2.2,6,128,5000,True,120.0,6.91,60,4,108.0,16.0,True,256.0,android
+675,675,honor,Honor Play 30,9999,68.0,True,False,False,snapdragon,Snapdragon 480+,8.0,2.2,4,128,5000,False,,6.5,60,1,13.0,5.0,True,,android
+676,676,infinix,Infinix Smart 6 Plus,8299,63.0,False,False,False,dimensity,Helio G25,8.0,2.0,3,64,5000,False,,6.82,60,2,8.0,5.0,True,512.0,android
+677,677,sony,Sony Xperia 5 IV 5G,82199,89.0,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,256,5000,True,30.0,6.1,120,3,12.0,12.0,True,,android
+678,678,nubia,Nubia Z40 Pro 5G,49990,84.0,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,8,128,5000,True,80.0,6.67,144,3,64.0,16.0,,,android
+679,679,nokia,Nokia G21,11999,71.0,False,False,False,unisoc,Unisoc  T606,8.0,1.6,4,64,5050,True,18.0,6.5,90,3,50.0,8.0,True,512.0,android
+680,680,xiaomi,Xiaomi 12 Lite 5G,29990,82.0,True,True,False,snapdragon,Snapdragon 778G,8.0,2.4,6,128,4300,True,67.0,6.55,120,3,108.0,32.0,False,,android
+681,681,oppo,Oppo Find N 5G,92249,,True,True,False,snapdragon,Snapdragon  888,8.0,2.84,8,256,4500,True,33.0,7.1,120,3,50.0,32.0,,,android
+682,682,apple,Apple iPhone 13 Pro Max (256GB),139900,84.0,True,True,False,apple,Bionic A15,6.0,3.22,6,256,4352,True,,6.7,120,3,12.0,12.0,False,,ios
+683,683,vivo,Vivo Y21s,14990,74.0,False,False,False,dimensity,Helio G80,8.0,2.0,4,128,5000,True,18.0,6.51,60,3,50.0,8.0,True,1000.0,android
+684,684,oppo,OPPO F19s,15988,79.0,False,False,False,snapdragon,Snapdragon 662 ,8.0,2.0,6,128,5000,True,33.0,6.43,60,3,48.0,16.0,True,256.0,android
+685,685,samsung,Samsung Galaxy M21 2021,11725,76.0,False,False,False,exynos,Exynos 9611,8.0,2.3,4,64,6000,True,15.0,6.4,60,3,48.0,20.0,True,512.0,android
+686,686,oppo,OPPO F19 Pro,17994,80.0,False,False,False,dimensity,Helio P95,8.0,2.2,8,128,4310,True,30.0,6.43,60,4,48.0,16.0,True,256.0,android
+687,687,oppo,OPPO X 2021,134999,86.0,False,False,False,snapdragon,Snapdragon 865,8.0,2.84,8,256,4000,True,45.0,7.4,60,3,64.0,16.0,,,android
+688,688,oneplus,OnePlus Nord N10,25595,81.0,True,True,False,snapdragon,Snapdragon 690,8.0,2.0,6,128,4300,True,30.0,6.49,90,4,64.0,16.0,True,512.0,android
+689,689,gionee,Gionee M12 Pro,7499,67.0,False,False,False,dimensity,Helio P60,8.0,1.99,6,128,4000,False,,6.2,60,1,16.0,13.0,True,256.0,android
+690,690,poco,Poco M2,10890,74.0,False,False,True,dimensity,Helio G80,8.0,2.0,6,64,5000,True,18.0,6.53,60,4,13.0,8.0,True,512.0,android
+691,691,oppo,OPPO F17 Pro,18990,83.0,False,False,False,dimensity,Helio P95,8.0,2.2,8,128,4015,True,30.0,6.43,60,4,48.0,16.0,True,256.0,android
+692,692,motorola,Motorola Moto G 5G,19990,82.0,True,True,False,snapdragon,Snapdragon  750G ,8.0,2.2,6,128,5000,True,20.0,6.67,60,3,48.0,16.0,True,1000.0,android
+693,693,samsung,Samsung Galaxy A50s,15990,80.0,False,True,False,exynos,Exynos  9611 ,8.0,2.3,4,128,4000,True,15.0,6.4,60,3,48.0,32.0,True,512.0,android
+694,694,samsung,Samsung Galaxy Note 10 Plus,58999,89.0,False,True,False,exynos,Exynos 9825,8.0,2.73,12,256,4300,True,45.0,6.8,60,4,12.0,10.0,True,1000.0,android
+695,695,vivo,Vivo Y15,12500,71.0,False,False,False,dimensity,Helio P22,8.0,2.0,4,64,5000,False,,6.35,60,3,13.0,16.0,True,256.0,android
+696,696,vivo,Vivo S1 Pro,29999,82.0,False,False,False,snapdragon,Snapdragon  665,8.0,2.0,8,128,4500,True,18.0,6.38,60,4,48.0,32.0,True,256.0,android
+697,697,vivo,Vivo T3 Pro,31990,86.0,True,False,False,snapdragon,Snapdragon  782G,8.0,2.7,8,256,4700,True,80.0,6.67,120,3,64.0,32.0,True,1000.0,android
+698,698,vivo,Vivo V21s,29999,86.0,True,True,False,dimensity,Dimensity 800U ,8.0,2.4,8,128,4000,True,33.0,6.44,90,3,64.0,44.0,True,,android
+699,699,asus,Asus ROG Phone 6D Ultimate,107990,,True,True,False,dimensity,Dimensity 9000 Plus,8.0,3.2,16,512,6000,True,65.0,6.78,165,3,50.0,12.0,False,,other
+700,700,motorola,Motorola Moto Edge 30 Neo,31990,84.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,8,128,4020,True,68.0,6.28,120,2,64.0,32.0,,,android
+701,701,xiaomi,Xiaomi 12T,48990,87.0,True,True,True,dimensity,Dimensity 8100 Ultra,8.0,2.85,8,128,5000,True,120.0,6.67,120,3,108.0,20.0,,,android
+702,702,huawei,Huawei Mate 50 Pro 5G,99990,85.0,True,True,False,kirin,Kirin 9000E,8.0,3.13,8,256,4500,True,66.0,6.76,120,3,64.0,13.0,False,,other
+703,703,realme,Realme C32,9499,65.0,False,False,False,tiger,Tiger T612,8.0,1.82,4,64,5000,False,,6.52,60,3,13.0,5.0,True,1000.0,android
+704,704,huawei,Huawei Mate Xs 2,162990,89.0,False,True,True,snapdragon,Snapdragon 888,8.0,2.84,8,512,4600,True,66.0,7.8,120,3,50.0,10.7,True,256.0,other
+705,705,iqoo,iQOO Z7 Pro 5G,24999,80.0,True,False,False,snapdragon,Snapdragon  7 Gen1,8.0,2.36,6,128,5000,True,67.0,6.62,144,3,50.0,16.0,True,1000.0,android
+706,706,apple,Apple iPhone 15,82990,72.0,False,True,False,apple,Bionic  A16,,,6,128,3285,True,,6.06,60,2,50.0,13.0,False,,ios
+707,707,infinix,Infinix Note 11S (8GB RAM + 128GB),15999,79.0,False,False,False,dimensity,Helio G96,8.0,2.05,8,128,5000,True,33.0,6.95,120,3,50.0,16.0,True,1000.0,android
+708,708,tecno,Tecno Spark 8 (4GB RAM + 64GB),8999,64.0,False,False,False,dimensity,Helio A25,8.0,1.8,4,64,5000,False,,6.52,60,2,16.0,8.0,True,256.0,android
+709,709,oppo,Oppo A56 5G,17990,73.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,False,,6.5,60,2,13.0,8.0,True,,android
+710,710,vivo,Vivo X80 Pro Plus 5G,82990,,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,12,256,4500,True,120.0,6.78,120,4,50.0,32.0,,,android
+711,711,xiaomi,Xiaomi Redmi 10 Prime (6GB RAM + 128GB),12999,77.0,False,False,True,dimensity,Helio G88,8.0,2.0,6,128,6000,True,18.0,6.5,90,4,50.0,8.0,True,512.0,android
+712,712,huawei,Huawei Nova 9,29990,83.0,False,True,False,snapdragon,Snapdragon  778G ,8.0,2.4,8,128,4300,True,66.0,6.57,120,4,50.0,32.0,,,other
+714,714,huawei,Huawei P50 Pro 4G,60999,,False,True,True,snapdragon,Snapdragon 888,8.0,2.84,8,256,4360,True,66.0,6.6,120,4,50.0,13.0,True,256.0,other
+715,715,xiaomi,Xiaomi Redmi K50 5G,27990,83.0,True,True,True,dimensity,Dimensity  8100,8.0,2.85,8,128,5500,True,67.0,6.67,120,3,48.0,20.0,,,android
+716,716,nokia,Nokia C01 Plus,5249,,False,False,False,unisoc,Unisoc  SC9863A,8.0,1.6,2,16,3000,False,,5.45,60,1,5.0,5.0,True,256.0,android
+717,717,realme,Realme Q3,14999,80.0,True,False,False,snapdragon,Snapdragon  750G ,8.0,2.2,6,128,5000,True,30.0,6.5,120,3,48.0,16.0,True,,android
+718,718,oppo,OPPO Reno 6 Pro Plus 5G,44990,87.0,True,True,False,snapdragon,Snapdragon 870,8.0,3.2,8,128,4500,True,65.0,6.55,90,4,50.0,32.0,,,android
+719,719,motorola,Motorola Edge S,22490,87.0,True,True,False,snapdragon,Snapdragon 870,8.0,3.2,6,128,5000,True,20.0,6.7,90,4,64.0,16.0,True,,android
+720,720,oppo,Oppo Find X3 Pro,50990,,True,True,False,snapdragon,Snapdragon  888 ,8.0,2.84,12,256,4500,True,65.0,6.7,120,4,50.0,32.0,,,android
+721,721,poco,Poco M3,11499,75.0,False,False,True,snapdragon,Snapdragon 662,8.0,2.0,6,64,6000,True,18.0,6.53,60,3,48.0,8.0,True,512.0,android
+722,722,itel,itel S16,5990,,False,False,False,unisoc,Unisoc SC7731E,4.0,1.3,1,16,4000,False,,6.5,60,3,8.0,8.0,True,32.0,android
+723,723,vivo,Vivo V20 Pro,27000,84.0,True,False,False,snapdragon,Snapdragon 765G ,8.0,2.4,8,128,4000,True,33.0,6.44,60,3,64.0,44.0,,,android
+724,724,xiaomi,Xiaomi Mi 10T Pro 5G,29999,86.0,True,True,True,snapdragon,Snapdragon 865 ,8.0,2.84,8,128,5000,True,33.0,6.67,144,3,108.0,20.0,,,android
+725,725,vivo,Vivo V19 (8GB RAM + 256GB),27990,84.0,False,False,False,snapdragon,Snapdragon  712 ,8.0,2.3,8,256,4500,True,33.0,6.44,60,4,48.0,32.0,True,512.0,android
+726,726,samsung,Samsung Galaxy S20 5G,74999,89.0,True,True,False,exynos,Exynos  990,8.0,2.73,8,128,4000,True,25.0,6.2,60,3,64.0,10.0,True,1000.0,android
+727,727,vivo,Vivo U3,9990,72.0,False,False,False,snapdragon,Snapdragon  675,8.0,2.0,4,64,5000,True,18.0,6.53,60,3,16.0,16.0,True,256.0,android
+728,728,oppo,Oppo K5 (8GB RAM + 128GB),19990,82.0,False,False,False,snapdragon,Snapdragon  730G,8.0,2.2,8,128,4000,True,30.0,6.4,60,4,64.0,32.0,True,256.0,android
+729,729,realme,Realme XT,13279,75.0,False,False,False,snapdragon,Snapdragon 712,8.0,2.3,4,64,4000,True,20.0,6.4,60,4,64.0,16.0,True,256.0,android
+730,730,vivo,Vivo Y12 (3GB RAM + 64GB),11000,68.0,False,False,False,dimensity,Helio  P22,8.0,2.0,3,64,5000,False,,6.35,60,3,13.0,8.0,True,256.0,android
+731,731,xiaomi,Xiaomi Poco F1 (6GB RAM + 128GB),12999,78.0,False,False,False,snapdragon,Snapdragon 845,8.0,2.8,6,128,4000,True,,6.18,60,2,12.0,20.0,True,256.0,android
+732,732,poco,Poco C50 (3GB RAM + 32GB),7299,61.0,False,False,False,dimensity,Helio A22,4.0,2.0,3,32,5000,True,10.0,6.52,60,2,8.0,5.0,True,512.0,android
+733,733,ikall,iKall Z19,7999,61.0,False,False,False,,,4.0,1.6,4,32,5000,False,,6.5,60,1,20.0,13.0,True,128.0,android
+734,734,xiaomi,Xiaomi Redmi K60 Gaming Edition,54990,86.0,True,True,True,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,128,5000,True,67.0,6.73,120,3,50.0,20.0,,,android
+735,735,vivo,Vivo S17 Pro,49990,77.0,True,True,False,dimensity,Dimensity 9200,8.0,,12,256,5000,True,120.0,6.67,120,3,50.0,32.0,,,android
+736,736,honor,Honor 80 Pro Plus,54990,,True,True,False,snapdragon,Snapdragon 8 Gen1 ,8.0,3.0,12,256,4500,True,100.0,6.78,120,3,200.0,50.0,,,android
+737,737,apple,Apple iPhone SE 4,49990,60.0,True,True,False,apple,Bionic  A15,6.0,3.22,4,0,,False,,6.1,60,1,12.0,10.8,False,,ios
+738,738,tecno,Tecno Pova Neo 5G,15499,71.0,False,False,False,dimensity,Dimensity 810 5G,8.0,2.4,4,128,6000,True,18.0,6.8,120,2,50.0,8.0,True,1000.0,android
+739,739,apple,Apple iPhone 14 Pro Max (512GB),169900,78.0,True,True,False,apple,Bionic  A16,6.0,,6,512,4323,True,,6.7,120,3,48.0,12.0,False,,ios
+740,740,google,Google Pixel 8,53990,75.0,True,True,False,google,Google Tensor 3,8.0,,8,128,4830,True,67.0,6.6,120,2,50.0,10.1,,,android
+741,741,vivo,Vivo T2x 5G,18990,80.0,True,False,False,dimensity,Dimensity 1300,8.0,3.0,8,128,6000,True,44.0,6.58,120,2,50.0,16.0,,,android
+742,742,motorola,Motorola Moto G52 5G,16999,76.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,4,64,5000,True,33.0,6.6,90,3,50.0,16.0,True,,android
+743,743,motorola,Motorola Edge 40 5G,34999,86.0,True,True,False,snapdragon,Snapdragon 7 Gen1,8.0,2.36,8,128,4200,True,67.0,6.5,144,3,50.0,32.0,,,android
+744,744,vivo,Vivo X Note 5G (12GB RAM + 512GB),82990,,True,True,True,snapdragon,Snapdragon 8 Gen1,8.0,3.0,12,512,5000,True,80.0,7.0,120,4,50.0,16.0,,,android
+745,745,realme,Realme GT 2 Pro 5G (12GB RAM + 256GB),46999,89.0,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,12,256,5000,True,65.0,6.7,120,3,50.0,32.0,,,android
+746,746,vivo,Vivo Y15C,8499,66.0,False,False,False,dimensity,Helio P35,8.0,2.3,3,32,5000,False,,6.51,60,2,13.0,8.0,True,1000.0,android
+747,747,honor,Honor X8,16999,76.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,6,128,4000,True,22.5,6.7,90,4,64.0,16.0,,,android
+748,748,samsung,Samsung Galaxy A03 (4GB RAM + 64GB),11499,69.0,False,False,False,unisoc,Unisoc  T606,8.0,1.6,4,64,5000,True,15.0,6.5,60,2,48.0,5.0,True,1000.0,android
+749,749,samsung,Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB),88999,88.0,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,8,256,4500,True,45.0,6.6,120,3,50.0,10.0,,,android
+750,750,vivo,Vivo Y33T,15990,81.0,False,False,False,snapdragon,Snapdragon 680,8.0,2.4,8,128,5000,True,18.0,6.58,90,3,50.0,16.0,True,1000.0,android
+751,751,xiaomi,Xiaomi 11i 5G (8GB RAM + 128GB),24990,83.0,True,False,True,dimensity,Dimensity  920 5G,8.0,2.5,8,128,5160,True,67.0,6.67,120,3,108.0,16.0,True,1000.0,android
+752,752,oppo,Oppo Find X5 Pro 5G,79990,,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,256,5000,True,80.0,6.7,120,3,50.0,32.0,,,android
+753,753,tecno,Tecno Spark Go 2022,6249,61.0,False,False,False,,,8.0,2.2,2,32,5000,False,,6.51,60,2,13.0,8.0,True,256.0,android
+754,754,vivo,Vivo Y21e,12499,69.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,3,64,5000,True,18.0,6.51,60,2,13.0,8.0,True,1000.0,android
+755,755,xiaomi,Xiaomi Redmi 9A Sport,6499,61.0,False,False,False,dimensity,Helio G25,8.0,2.0,2,32,5000,False,,6.53,60,1,13.0,5.0,True,512.0,android
+756,756,apple,Apple iPhone 13 Pro Max (1TB),179900,86.0,True,True,False,apple,Bionic A15,6.0,3.22,6,1024,4352,True,,6.7,120,3,12.0,12.0,False,,ios
+757,757,vivo,Vivo Y12G (3GB RAM + 64GB),11990,68.0,False,False,False,snapdragon,Snapdragon  439 ,8.0,2.0,3,64,5000,False,,6.51,60,3,13.0,8.0,True,,android
+758,758,vivo,Vivo V23e,26990,82.0,False,False,False,dimensity,Helio G96,8.0,2.05,8,128,4050,True,44.0,6.44,60,3,64.0,50.0,False,,android
+759,759,samsung,Samsung Galaxy F22 (6GB RAM + 128GB),13499,76.0,False,False,False,dimensity,Helio G80,8.0,2.0,6,128,6000,False,,6.4,90,4,48.0,13.0,True,1000.0,android
+760,760,xiaomi,Xiaomi 12 Ultra 5G,75999,,True,True,True,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,12,256,4800,True,67.0,6.73,120,3,50.0,20.0,,,android
+761,761,micromax,Micromax IN 2C,5999,60.0,False,False,False,tiger,Tiger T610,8.0,1.8,3,32,5000,False,,6.52,60,1,8.0,5.0,True,256.0,android
+762,762,samsung,Samsung Galaxy A03s,8499,67.0,False,False,False,dimensity,Helio P35,8.0,2.3,3,32,5000,True,15.0,6.5,60,3,13.0,5.0,True,1000.0,android
+763,763,oppo,OPPO A54 (4GB RAM + 128GB),11990,71.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,128,5000,True,,6.51,60,3,13.0,16.0,True,256.0,android
+764,764,xiaomi,Xiaomi Redmi 20X,10990,77.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,18.0,6.43,90,4,48.0,13.0,True,,android
+765,765,xiaomi,Xiaomi Mi Mix Fold,109990,,True,True,True,snapdragon,Snapdragon  888 ,8.0,2.84,12,256,5020,True,67.0,8.01,90,3,108.0,20.0,,,android
+766,766,realme,Realme Narzo 30 5G,16999,80.0,True,True,False,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,True,18.0,6.5,90,3,48.0,16.0,True,1000.0,android
+767,767,oppo,OPPO A54,12199,70.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,64,5000,True,,6.51,60,3,13.0,16.0,True,256.0,android
+768,768,oppo,Oppo A15s (4GB RAM + 128GB),11490,72.0,False,False,False,dimensity,Helio P35 ,8.0,2.3,4,128,4230,False,,6.52,60,3,13.0,8.0,True,256.0,android
+769,769,itel,itel A56,5490,,False,False,False,,,4.0,1.3,1,16,4000,False,,6.0,60,2,8.0,5.0,True,32.0,android
+770,770,xiaomi,Xiaomi Redmi 9 Power,11499,74.0,False,False,True,snapdragon,Snapdragon  662 ,8.0,2.0,4,64,6000,True,18.0,6.53,60,4,48.0,8.0,True,512.0,android
+771,771,samsung,Samsung Galaxy S21 Plus,59450,88.0,True,True,False,exynos,Exynos 2100,8.0,2.9,8,128,4800,True,25.0,6.7,120,3,64.0,10.0,,,android
+772,772,poco,POCO M2 Pro,12799,76.0,False,False,True,snapdragon,Snapdragon 720G,8.0,2.3,4,64,5000,True,33.0,6.67,60,4,48.0,16.0,True,512.0,android
+773,773,samsung,Samsung Galaxy S20 Plus,83000,88.0,False,True,False,exynos,Exynos 990,8.0,2.73,8,128,4500,True,25.0,6.7,120,4,64.0,10.0,True,1000.0,android
+774,774,realme,Realme 6 Pro,14490,80.0,False,False,False,snapdragon,Snapdragon 720G,8.0,2.3,6,64,4300,True,30.0,6.6,90,4,64.0,16.0,True,256.0,android
+775,775,huawei,Huawei P40 Pro,82990,,True,True,False,kirin,Kirin 990,8.0,2.86,8,256,4200,True,40.0,6.58,90,4,50.0,32.0,True,256.0,android
+776,776,vivo,Vivo Y11 (2019),9490,64.0,False,False,False,snapdragon,Snapdragon 439,8.0,2.0,3,32,5000,False,,6.35,60,2,13.0,8.0,True,256.0,android
+777,777,vivo,Vivo V15 Pro (8GB RAM +128GB),25000,78.0,False,False,False,snapdragon,Snapdragon 675,8.0,2.0,8,128,3700,True,,6.39,60,3,48.0,32.0,True,256.0,android
+778,778,vivo,Vivo Y95,15000,65.0,False,False,False,snapdragon,Snapdragon 439,8.0,1.95,4,64,4030,False,,6.22,60,2,13.0,20.0,True,256.0,android
+779,779,vivo,Vivo V11i,20990,70.0,False,False,False,dimensity,Helio P60,8.0,2.0,4,128,3315,False,,6.3,60,2,16.0,25.0,True,256.0,android
+780,780,samsung,Samsung Galaxy S9 Plus (128GB),34999,78.0,False,True,False,exynos,Exynos 9810,8.0,2.8,6,128,3500,True,,6.2,60,2,12.0,8.0,True,512.0,android
+781,781,realme,Realme GT Neo 4T,29999,80.0,True,False,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,128,5000,True,120.0,6.73,144,3,50.0,16.0,,,android
+782,782,vivo,Vivo Y53t,11999,67.0,True,False,False,dimensity,Dimensity 700,8.0,2.0,4,128,6000,True,15.0,6.51,60,2,13.0,5.0,False,,android
+783,783,samsung,Samsung Galaxy A04 (4GB RAM + 128GB),12999,72.0,False,False,False,dimensity,Helio P35,8.0,2.3,4,128,5000,True,,6.5,60,2,50.0,5.0,True,1000.0,android
+784,784,leitz,Leitz Phone 2,124990,89.0,True,True,False,snapdragon,Snapdragon  8 Gen1,8.0,3.0,12,256,5000,True,,6.6,240,2,47.2,12.6,True,1000.0,android
+785,785,xiaomi,Xiaomi Redmi K60i,28999,85.0,True,False,True,dimensity,Dimensity  8200,8.0,3.1,8,128,5080,True,120.0,6.67,120,3,50.0,32.0,,,android
+786,786,infinix,Infinix Hot 20S,12999,77.0,False,False,False,dimensity,Helio G96,8.0,2.05,8,128,5000,True,18.0,6.78,60,2,50.0,8.0,True,,android
+787,787,realme,Realme GT Neo 3T (8GB RAM + 256GB),28499,82.0,True,False,False,snapdragon,Snapdragon 870,8.0,3.2,8,256,5000,True,80.0,6.62,120,3,64.0,16.0,,,android
+788,788,apple,Apple iPhone 14 Plus (512GB),104999,83.0,True,True,False,apple,Bionic A15,6.0,3.22,6,512,4325,True,,6.7,60,2,12.0,12.0,False,,ios
+789,789,apple,Apple iPhone 14 Pro (1TB),172999,77.0,True,True,False,apple,Bionic  A16,6.0,,6,1024,3200,True,,6.1,120,3,48.0,12.0,False,,ios
+790,790,xiaomi,Xiaomi Redmi 13 Prime 5G,17990,79.0,True,False,True,snapdragon,Snapdragon 4 Gen 1,8.0,2.0,6,128,5100,True,18.0,6.73,120,2,64.0,16.0,True,1000.0,android
+791,791,xiaomi,Xiaomi Redmi 11 Prime (6GB RAM + 128GB),13774,76.0,False,False,True,dimensity,Helio G99,8.0,2.2,6,128,5000,True,18.0,6.58,90,3,50.0,8.0,True,512.0,android
+792,792,nokia,Nokia C21 Plus (4GB RAM + 64GB),8999,64.0,False,False,False,unisoc,Unisoc  SC9863A,8.0,1.6,4,64,5050,False,,6.52,60,2,13.0,5.0,True,,android
+793,793,oneplus,OnePlus Nord N300,18990,75.0,True,True,False,dimensity,Dimensity 810 5G,8.0,2.4,4,64,5000,True,33.0,6.56,90,2,48.0,16.0,True,,android
+794,794,tecno,Tecno Camon 19 Neo,14999,77.0,False,True,False,dimensity,Helio  G85,8.0,2.0,6,128,5000,True,18.0,6.8,90,3,48.0,32.0,,,android
+795,795,realme,Realme Narzo 50i Prime,7999,61.0,False,False,False,tiger,Tiger T612,8.0,1.82,3,32,5000,True,10.0,6.5,60,1,8.0,5.0,True,1000.0,android
+796,796,xiaomi,Xiaomi Redmi K50 Ultra 5G,39999,85.0,True,True,True,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,5000,True,120.0,6.67,144,3,108.0,20.0,,,android
+797,797,oppo,OPPO A57 4G,11990,67.0,False,False,False,dimensity,Helio G35,8.0,2.3,3,64,5000,True,33.0,6.56,60,2,13.0,8.0,True,,android
+798,798,infinix,Infinix Note 12 (6GB RAM + 128GB),12999,77.0,False,False,False,dimensity,Helio G88,8.0,2.0,6,128,5000,True,33.0,6.7,60,3,50.0,16.0,True,512.0,android
+799,799,samsung,Samsung Galaxy S23 FE 5G,54999,77.0,True,True,False,,,8.0,,8,128,4500,True,,6.5,60,4,64.0,32.0,False,,android
+800,800,samsung,Samsung Galaxy M51s 5G,24990,72.0,True,False,False,,,8.0,,6,128,6000,True,,6.7,60,3,64.0,32.0,True,1000.0,android
+801,801,vivo,Vivo X80 5G (12GB RAM + 256GB),59999,88.0,True,False,False,dimensity,Dimensity  9000,8.0,3.05,12,256,4500,True,80.0,6.78,120,3,50.0,32.0,False,,android
+802,802,poco,Poco X6 Pro 5G,19999,72.0,True,False,False,snapdragon,Snapdragon 778G+,8.0,,6,128,5000,True,,6.67,120,4,64.0,32.0,True,1000.0,android
+803,803,infinix,Infinix Note 12 (G96),16999,79.0,False,False,False,dimensity,Helio G96,8.0,2.05,8,128,5000,True,33.0,6.7,60,3,50.0,16.0,True,,android
+804,804,samsung,Samsung Galaxy M14,14999,60.0,False,False,False,exynos,Exynos 1330,8.0,,4,64,6000,False,,6.5,60,3,48.0,8.0,True,512.0,android
+805,805,vivo,Vivo T2 Pro 5G,29990,76.0,True,False,False,snapdragon,Snapdragon  778G+,8.0,,8,128,4500,True,67.0,6.44,90,3,50.0,16.0,True,1000.0,android
+806,806,xiaomi,Xiaomi Redmi 10 Prime Plus 5G,13990,69.0,True,False,True,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,18.0,6.58,90,2,50.0,5.0,False,,android
+807,807,xiaomi,Xiaomi Redmi Note 11 Pro 4G,17999,81.0,False,False,True,dimensity,Helio  G96,8.0,2.05,6,128,5000,True,67.0,6.67,120,4,108.0,16.0,True,1000.0,android
+808,808,realme,Realme Narzo 50A Prime,11399,73.0,False,False,False,tiger,Tiger T612,8.0,1.82,4,64,5000,True,18.0,6.6,60,3,50.0,8.0,True,1000.0,android
+809,809,vivo,Vivo Y55s 5G,19990,79.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,8,128,6000,True,18.0,6.58,60,2,50.0,8.0,,,android
+810,810,vivo,Vivo Y21T,15499,74.0,False,False,False,snapdragon,Snapdragon 680 ,8.0,2.4,4,128,5000,True,18.0,6.51,90,3,50.0,8.0,True,1000.0,android
+811,811,gionee,Gionee K10,6999,,False,False,False,tiger,Tiger  T310,4.0,2.0,3,32,4800,False,,6.8,60,1,13.0,5.0,True,,android
+812,812,xiaomi,Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB),12499,77.0,False,False,True,snapdragon,Snapdragon 720G,8.0,2.3,4,128,5020,True,18.0,6.67,60,4,48.0,16.0,True,512.0,android
+813,813,apple,Apple iPhone 13 (512GB),91999,80.0,True,True,False,apple,Bionic A15,6.0,3.22,4,512,3240,True,,6.1,60,2,12.0,12.0,False,,ios
+814,814,infinix,Infinix Hot 11S,9690,71.0,False,False,False,dimensity,Helio G88,8.0,2.0,4,64,5000,False,,6.78,90,3,50.0,8.0,True,256.0,android
+815,815,realme,Realme GT Explorer Master Edition,32990,85.0,True,True,False,snapdragon,Snapdragon  870,8.0,3.2,8,128,4500,True,65.0,6.55,120,3,50.0,32.0,,,android
+816,816,xiaomi,Xiaomi Mi 12 5G,42990,87.0,True,True,True,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,128,4500,True,67.0,6.28,120,3,50.0,32.0,,,android
+817,817,cat,CAT S22 Flip,14999,,False,False,False,snapdragon,Qualcomm 215,4.0,1.3,2,16,2000,False,,4.0,60,1,5.0,2.0,True,128.0,other
+818,818,xiaomi,Xiaomi Mi 11 Lite (8GB RAM + 128GB),18699,82.0,False,False,True,snapdragon,Snapdragon 732G ,8.0,2.3,8,128,4250,True,33.0,6.55,90,3,64.0,16.0,True,512.0,android
+819,819,realme,Realme Q3i 5G,10990,76.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,18.0,6.5,60,3,48.0,16.0,True,,android
+820,820,xiaomi,Xiaomi Mi 11X Pro,30990,85.0,True,False,True,snapdragon,Snapdragon 888,8.0,2.84,8,128,4520,True,33.0,6.67,120,3,108.0,20.0,,,android
+821,821,lenovo,Lenovo Legion Pro 2,59999,89.0,True,True,False,snapdragon,Snapdragon  888,8.0,2.84,16,512,5000,True,120.0,6.5,144,2,64.0,20.0,,,android
+822,822,samsung,Samsung Galaxy M62,23999,83.0,False,True,False,exynos,Exynos 9825,8.0,2.73,6,128,7000,True,,6.71,60,4,64.0,32.0,True,1000.0,android
+823,823,realme,Realme Q2i,9999,69.0,True,False,False,dimensity,Dimensity 720,8.0,2.0,4,128,5000,True,18.0,6.5,60,3,13.0,8.0,,,android
+825,825,apple,Apple iPhone 12 Pro (256GB),119900,80.0,True,True,False,apple,Bionic A14,6.0,3.1,6,256,,False,,6.1,60,3,12.0,12.0,False,,ios
+826,826,xiaomi,Xiaomi Redmi 9i (4GB RAM + 128GB),9299,67.0,False,False,False,dimensity,Helio G25,8.0,2.0,4,128,5000,True,10.0,6.53,60,1,13.0,5.0,True,512.0,android
+827,827,realme,Realme 6 (6GB RAM + 64GB),12989,77.0,False,False,False,dimensity,Helio   G90T ,8.0,2.05,6,64,4300,True,30.0,6.5,90,4,64.0,16.0,True,256.0,android
+828,828,samsung,Samsung Galaxy A01 Core,4999,,False,False,False,snapdragon,Snapdragon 439,4.0,1.5,1,16,3000,False,,5.3,60,1,8.0,5.0,True,,android
+829,829,oppo,Oppo Reno 5,29990,83.0,True,False,False,snapdragon,Snapdragon  765G ,8.0,2.4,8,128,4300,True,65.0,6.43,60,4,64.0,32.0,,,android
+830,830,oppo,Oppo A31 2020 (6GB RAM + 128GB),12490,72.0,False,False,False,dimensity,Helio P35,8.0,2.3,6,128,4230,False,,6.5,60,3,12.0,8.0,True,256.0,android
+831,831,sony,Sony Xperia 10 II,27999,75.0,False,True,False,snapdragon,Snapdragon  665,8.0,2.0,4,128,3600,True,18.0,6.0,90,3,12.0,8.0,True,,android
+832,832,vivo,Vivo Y91c,8199,,False,False,False,dimensity,Helio P22,8.0,2.0,2,32,4030,False,,6.22,60,1,13.0,5.0,True,256.0,android
+833,833,huawei,Huawei Nova 7i,21990,81.0,False,False,False,kirin,Kirin  810,8.0,2.2,8,128,4200,True,40.0,6.4,60,4,48.0,16.0,True,256.0,android
+834,834,vivo,Vivo Y19,20000,73.0,False,False,False,dimensity,Helio  P65 ,8.0,2.0,4,128,5000,True,18.0,6.53,60,3,16.0,16.0,True,256.0,android
+835,835,vivo,Vivo U3 (6GB RAM + 64GB),11990,74.0,False,False,False,snapdragon,Snapdragon  675,8.0,2.0,6,64,5000,True,18.0,6.53,60,3,16.0,16.0,True,256.0,android
+836,836,xiaomi,Xiaomi Redmi Note 9,11989,75.0,False,False,True,dimensity,Helio G85,8.0,2.0,4,64,5020,True,22.5,6.53,60,4,48.0,13.0,True,512.0,android
+837,837,xiaomi,Xiaomi Redmi 8 (4GB RAM + 64GB),11490,66.0,False,False,True,snapdragon,Snapdragon 439,8.0,2.0,4,64,5000,True,18.0,6.22,60,2,12.0,8.0,True,512.0,android
+838,838,motorola,Motorola One Macro,11490,68.0,False,False,False,dimensity,Helio P70,8.0,2.0,4,64,4000,True,10.0,6.2,60,3,13.0,8.0,True,512.0,android
+839,839,google,Google Pixel 3a XL,15999,67.0,False,True,False,snapdragon,Qualcomm Snapdragon 670,8.0,2.0,4,64,3700,True,18.0,6.0,60,1,12.2,8.0,,,android
+840,840,samsung,Samsung Galaxy A40,17990,69.0,False,False,False,exynos,Samsung Exynos 7885,8.0,2.2,4,64,3100,True,15.0,5.9,60,2,16.0,25.0,True,512.0,android
+841,841,samsung,Samsung Galaxy S10 5G,78990,86.0,True,True,False,exynos,Exynos 9820,8.0,2.7,8,256,4500,True,25.0,6.7,60,3,16.0,10.0,True,512.0,android
+842,842,huawei,Huawei Honor 9N,10949,66.0,False,False,False,kirin,Kirin 659,8.0,2.36,4,64,3000,False,,5.84,60,2,13.0,16.0,True,256.0,android
+843,843,xiaomi,Xiaomi Redmi Note 4,10300,65.0,False,False,False,snapdragon,Qualcomm Snapdragon 625,8.0,2.0,4,64,4100,False,,5.5,60,1,13.0,5.0,True,128.0,android
+844,844,doogee,Doogee V Max,45999,88.0,True,False,False,dimensity,Dimensity 1080,8.0,2.6,12,256,22000,True,33.0,6.58,120,3,108.0,32.0,True,1000.0,android
+845,845,huawei,Huawei Nova Y61,21990,63.0,False,False,False,,,8.0,,4,64,5000,True,22.5,6.52,60,3,50.0,5.0,True,,other
+846,846,iqoo,iQOO Z9,19990,76.0,True,False,False,snapdragon,Snapdragon  7 Gen2,8.0,,8,128,5000,True,45.0,6.67,120,3,64.0,16.0,True,1000.0,android
+847,847,vivo,Vivo V29,32990,84.0,True,False,False,snapdragon,Snapdragon  7 Gen1,8.0,2.4,8,256,5000,True,80.0,6.67,120,3,64.0,32.0,True,,android
+848,848,poco,Poco M5 (6GB RAM + 128GB),14499,77.0,False,False,True,dimensity,Helio G99,8.0,2.2,6,128,5000,True,18.0,6.58,90,3,50.0,8.0,True,512.0,android
+849,849,nokia,Nokia X30,41990,85.0,True,True,False,snapdragon,Snapdragon  695,8.0,2.2,6,128,4200,True,33.0,6.43,90,2,50.0,16.0,True,1000.0,android
+850,850,tecno,Tecno Pova Neo 2,13990,67.0,False,False,False,dimensity,Helio G85,8.0,2.0,6,128,7000,False,,6.82,90,2,16.0,8.0,True,512.0,android
+851,851,vivo,Vivo Y15C (3GB RAM + 64GB),10490,67.0,False,False,False,dimensity,Helio P35,8.0,2.3,3,64,5000,False,,6.51,60,2,13.0,8.0,True,1000.0,android
+852,852,huawei,Huawei Nova 10,29990,82.0,False,False,False,snapdragon,Snapdragon 778G,8.0,2.4,8,128,4000,True,66.0,6.67,120,3,50.0,60.0,,,other
+853,853,huawei,Huawei Nova Y90,22990,82.0,False,True,False,snapdragon,Snapdragon  680,8.0,2.4,8,128,5000,True,40.0,6.7,90,4,50.0,8.0,True,,other
+854,854,samsung,Samsung Galaxy A92 5G,47990,80.0,True,False,False,dimensity,Dimensity 1300,8.0,3.0,8,128,5000,True,,6.7,60,3,48.0,16.0,False,,android
+855,855,infinix,Infinix Note 12 VIP,19999,84.0,False,False,False,dimensity,Helio  G96,8.0,2.05,8,128,4500,True,120.0,6.7,120,3,108.0,16.0,True,256.0,android
+856,856,oneplus,OnePlus Nord 4 5G,29999,83.0,True,True,False,snapdragon,Snapdragon  7 Gen1,8.0,2.36,8,128,4500,True,80.0,6.43,120,3,50.0,32.0,,,android
+857,857,realme,Realme Narzo 50A Prime (4GB RAM + 128GB),11879,74.0,False,False,False,tiger,Tiger T612,8.0,1.82,4,128,5000,True,18.0,6.6,60,3,50.0,8.0,True,1000.0,android
+858,858,oneplus,OnePlus Ace 5G,28990,84.0,True,True,False,dimensity,Dimensity 8100 Max,8.0,2.85,8,128,4500,True,150.0,6.7,120,3,50.0,16.0,,,android
+859,859,iqoo,iQOO 9 5G (12GB RAM + 256GB),39990,85.0,True,False,False,snapdragon,Snapdragon  888+,8.0,2.9,12,256,4350,True,120.0,6.56,120,3,48.0,16.0,,,android
+860,860,xiaomi,Xiaomi Redmi Note 12T 5G,15999,78.0,True,False,True,dimensity,Dimensity 720,8.0,2.0,6,64,5000,True,33.0,6.52,90,3,64.0,16.0,True,512.0,android
+861,861,oppo,Oppo A96 5G,22990,82.0,True,False,False,snapdragon,Snapdragon 695 ,8.0,2.2,8,256,4500,True,33.0,6.43,60,2,48.0,16.0,True,,android
+862,862,royole,Royole FlexPai 3 5G,149999,87.0,True,False,False,snapdragon,Snapdragon 888,8.0,2.84,8,128,3360,False,,7.2,60,3,64.0,32.0,True,256.0,other
+863,863,tecno,Tecno Camon 18,11499,75.0,False,True,False,dimensity,Helio  G88,8.0,2.0,4,128,5000,True,18.0,6.8,90,3,48.0,16.0,,,android
+864,864,tecno,Tecno Phantom X Pro,22999,84.0,False,False,False,dimensity,Helio G95,8.0,2.05,8,256,5000,True,44.0,6.7,120,4,50.0,48.0,,,android
+865,865,tecno,Tecno Spark 8T,7999,70.0,False,False,False,dimensity,Helio G35,8.0,2.3,4,64,5000,False,,6.6,60,2,50.0,8.0,True,,android
+866,866,realme,Realme GT Neo2 5G,31999,82.0,True,True,False,snapdragon,Snapdragon 870,8.0,3.2,8,128,5000,True,65.0,6.62,120,3,64.0,16.0,,,android
+867,867,sony,Sony Xperia 10 III Lite 5G,30990,78.0,True,True,False,snapdragon,Snapdragon  690 ,8.0,2.0,6,64,4500,True,30.0,6.0,60,3,12.0,8.0,True,,android
+868,868,realme,Realme G1,7999,64.0,False,False,False,dimensity,Helio G35,8.0,2.3,3,32,6000,False,,6.52,60,3,13.0,5.0,True,256.0,android
+869,869,tecno,Tecno Pova 2,10999,74.0,False,False,False,dimensity,Helio G85,8.0,2.0,4,64,7000,True,18.0,6.95,60,4,48.0,8.0,True,256.0,android
+870,870,poco,Poco X4,14990,79.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,True,67.0,6.67,120,3,50.0,16.0,True,1000.0,android
+871,871,motorola,Motorola Moto G40 Fusion,14499,77.0,False,False,False,snapdragon,Snapdragon  732G,8.0,2.3,4,64,6000,True,20.0,6.78,120,3,64.0,16.0,True,256.0,android
+872,872,oneplus,OnePlus 9T,44999,86.0,True,True,False,snapdragon,Snapdragon 888,8.0,2.84,8,128,4500,True,65.0,6.55,120,4,108.0,16.0,False,,android
+873,873,realme,Realme 8 (8GB RAM + 128GB),17999,83.0,False,False,False,dimensity,Helio G95,8.0,2.0,8,128,5000,True,30.0,6.4,60,4,64.0,16.0,True,256.0,android
+874,874,realme,Realme Narzo 30 Pro 5G (8GB RAM +128GB),19999,83.0,True,False,False,dimensity,Dimensity 800U,8.0,2.4,8,128,5000,True,30.0,6.5,120,3,48.0,16.0,True,256.0,android
+875,875,itel,Itel A23 Pro,3999,,False,False,False,spreadtrum,Spreadtrum  SC9832E ,4.0,1.4,1,8,2400,False,,5.0,60,1,5.0,2.0,,,android
+876,876,samsung,Samsung Galaxy S21 Ultra 5G (12GB RAM + 128GB),101999,,True,True,False,exynos,Exynos  2100,8.0,2.9,12,128,5000,True,25.0,6.8,120,4,108.0,40.0,,,android
+877,877,oppo,Oppo Reno 5 Pro 5G,38700,84.0,True,False,False,dimensity,Dimensity 1000+,8.0,2.6,8,128,4350,True,65.0,6.53,90,4,64.0,32.0,,,android
+878,878,oneplus,OnePlus Nord SE,19999,73.0,False,False,False,snapdragon,Snapdragon 665,8.0,2.0,4,64,4500,True,65.0,6.3,60,4,48.0,13.0,True,256.0,android
+879,879,samsung,Samsung Galaxy M12,10999,72.0,False,False,False,exynos,Exynos  850,8.0,2.0,4,64,6000,True,15.0,6.5,90,4,48.0,8.0,True,1000.0,android
+880,880,oneplus,OnePlus Nord N100,16990,68.0,False,False,False,snapdragon,Snapdragon 460,8.0,1.8,4,64,5000,True,18.0,6.52,90,3,13.0,8.0,True,256.0,android
+881,881,apple,Apple iPhone 12 Mini (256GB),55999,75.0,True,True,False,apple,Bionic A14,6.0,3.1,4,256,,False,,5.4,60,2,12.0,12.0,False,,ios
+882,882,apple,Apple iPhone 12 (256GB),67999,76.0,True,True,False,apple,Bionic A14,6.0,3.1,4,256,,False,,6.1,60,2,12.0,12.0,False,,ios
+883,883,oppo,OPPO A15,9999,66.0,False,False,False,dimensity,Helio P35,8.0,2.3,3,32,4230,False,,6.52,60,3,13.0,5.0,True,256.0,android
+884,884,xiaomi,Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB),14439,77.0,False,False,True,snapdragon,Snapdragon 720G,8.0,2.3,4,128,5020,True,18.0,6.67,60,4,48.0,16.0,True,512.0,android
+885,885,oppo,Oppo A12,9990,64.0,False,False,False,dimensity,Helio P35,8.0,1.8,3,32,4230,False,,6.22,60,2,13.0,5.0,True,256.0,android
+886,886,realme,Realme X50 Pro 5G (8GB RAM + 128GB),24999,85.0,True,True,False,snapdragon,Snapdragon 865,8.0,2.84,8,128,4200,True,65.0,6.44,90,4,64.0,32.0,False,,android
+887,887,samsung,Samsung Galaxy S20 Plus 5G,85990,,True,True,False,exynos,Exynos 990,8.0,2.73,8,128,4500,True,25.0,6.7,60,4,64.0,10.0,True,1000.0,android
+888,888,xiaomi,Xiaomi Redmi K20 Pro Signature Edition,480000,88.0,False,True,False,snapdragon,Snapdragon  855,8.0,2.8,8,256,4000,True,27.0,6.39,60,3,48.0,20.0,False,,android
+889,889,xiaomi,Xiaomi Redmi Note 8 Pro,16999,78.0,False,False,True,dimensity,Helio  G90T,8.0,2.05,6,64,4500,True,18.0,6.53,60,4,64.0,20.0,True,512.0,android
+890,890,realme,Realme A1,8999,,False,False,False,dimensity,Helio P70,8.0,2.1,2,16,4000,False,,6.2,60,2,13.0,8.0,True,256.0,android
+891,891,oppo,OPPO A73,15990,62.0,False,False,False,dimensity,Helio P23,8.0,2.5,3,32,3200,False,,6.0,60,1,13.0,16.0,True,,android
+892,892,lyf,Lyf Earth 2,3890,,False,False,False,snapdragon,Snapdragon MSM8939,8.0,1.5,3,32,2500,False,,5.0,60,1,13.0,13.0,True,64.0,android
+893,893,apple,Apple iPhone 15 Plus,84990,75.0,True,True,False,apple,Bionic A16,6.0,,8,128,4532,True,,6.71,120,2,12.0,12.0,False,,ios
+894,894,vivo,Vivo Y55s 2023,21999,78.0,True,True,False,dimensity,Dimensity 700 5G,8.0,2.2,4,128,5000,True,18.0,6.58,60,3,50.0,8.0,True,,android
+895,895,lava,Lava Blaze NXT,8999,66.0,False,False,False,dimensity,Helio G37,8.0,2.3,4,64,5000,False,,6.5,60,3,13.0,8.0,True,256.0,android
+896,896,tecno,Tecno Camon 20 Premier,20999,79.0,True,True,False,dimensity,Dimensity  700 5G,8.0,2.2,6,128,5000,True,33.0,6.83,120,3,50.0,16.0,,,android
+897,897,oppo,OPPO Reno 8 House of Dragon Edition,32990,84.0,True,True,False,dimensity,Dimensity 1300,8.0,3.0,8,128,4500,True,80.0,6.43,90,3,50.0,32.0,,,android
+898,898,motorola,Motorola Moto E22s,9022,70.0,False,False,False,dimensity,Helio G37,8.0,2.3,4,64,5000,True,10.0,6.5,90,2,16.0,8.0,True,,android
+899,899,xiaomi,Xiaomi Redmi A1 Plus (3GB RAM + 32GB),8399,61.0,False,False,False,dimensity,Helio A22,4.0,2.0,3,32,5000,True,10.0,6.52,60,2,8.0,5.0,True,512.0,android
+900,900,infinix,Infinix Hot 20i,9999,64.0,False,False,False,dimensity,Helio G25,8.0,2.0,3,64,5000,False,,6.6,60,2,13.0,8.0,True,,android
+901,901,tecno,Tecno Spark 9 (3GB RAM + 64GB),8390,63.0,False,False,False,dimensity,Helio G37,8.0,2.3,3,64,5000,False,,6.6,90,2,13.0,8.0,True,256.0,android
+902,902,zte,ZTE Axon 30S,19999,82.0,True,True,False,snapdragon,Snapdragon 870 ,8.0,3.2,6,128,4200,True,55.0,6.9,120,4,50.0,16.0,True,,android
+903,903,honor,Honor X6,13999,71.0,False,False,False,dimensity,Helio G25,8.0,2.0,4,64,5000,True,10.0,6.5,60,3,50.0,5.0,True,,android
+904,904,xiaomi,Xiaomi Civi 2,29999,85.0,True,True,True,snapdragon,Snapdragon 7 Gen1,8.0,2.4,8,128,4500,True,67.0,6.55,120,3,50.0,32.0,,,android
+905,905,tcl,TCL Ion X,8990,60.0,False,False,False,dimensity,Helio G25,8.0,2.0,3,32,3000,True,10.0,6.0,60,1,13.0,5.0,True,,android
+906,906,samsung,Samsung Galaxy Z Fold 4 (12GB RAM + 1TB),163980,,True,True,False,snapdragon,Snapdragon  8+ Gen1,8.0,3.2,12,1024,4400,True,25.0,7.6,120,3,50.0,10.0,,,android
+907,907,nothing,Nothing Phone 1 Lite,24990,80.0,True,True,False,snapdragon,Snapdragon 778G Plus,8.0,2.5,6,128,5000,True,33.0,6.55,120,2,50.0,16.0,,,android
+908,908,motorola,Motorola Moto Edge X30 Pro,59990,,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,4450,True,125.0,6.67,144,3,200.0,60.0,,,android
+909,909,oneplus,OnePlus Ace Pro,47990,86.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,12,256,4800,True,150.0,6.7,120,3,50.0,16.0,,,android
+910,910,realme,Realme GT 2 Explorer Master Edition,40990,86.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,5000,True,100.0,6.7,120,3,50.0,16.0,,,android
+911,911,samsung,Samsung Galaxy M35,22999,74.0,False,True,False,,,8.0,,8,128,6000,True,,6.5,60,3,64.0,32.0,True,1000.0,android
+912,912,samsung,Samsung Galaxy A05,12990,63.0,False,False,False,,,8.0,,4,64,5000,True,18.0,6.5,60,2,48.0,5.0,True,1000.0,android
+913,913,infinix,Infinix Note 12 Turbo,14999,79.0,False,False,False,dimensity,Helio G96,8.0,2.0,8,128,5000,True,33.0,6.7,60,3,50.0,16.0,True,512.0,android
+914,914,poco,POCO F5 GT 5G,42999,86.0,True,True,True,dimensity,Dimensity 1300,8.0,3.0,8,128,4500,True,150.0,6.67,120,3,64.0,20.0,False,,android
+915,915,iqoo,iQOO Z8 5G,14999,78.0,True,False,False,snapdragon,Snapdragon  695 ,8.0,2.2,4,128,5000,True,18.0,6.58,120,3,50.0,16.0,True,1000.0,android
+916,916,vivo,Vivo Y55 4G,22990,83.0,False,False,False,snapdragon,Snapdragon  680,8.0,2.4,8,128,5000,True,44.0,6.44,120,3,50.0,16.0,True,1000.0,android
+917,917,vivo,Vivo X Fold 5G (12GB RAM + 512GB),118990,,True,True,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,12,512,4600,True,66.0,8.03,120,4,50.0,16.0,,,android
+918,918,oppo,Oppo K10 Pro 5G,29990,81.0,True,False,False,snapdragon,Snapdragon 888,8.0,2.84,8,128,5000,True,80.0,6.62,120,3,50.0,16.0,False,,android
+919,919,tecno,Tecno Spark 8C,7399,62.0,False,False,False,unisoc,Unisoc  T606,8.0,2.0,3,64,5000,False,,6.6,90,2,13.0,8.0,True,256.0,android
+920,920,iqoo,iQOO Z7 5G,17999,80.0,True,False,False,snapdragon,Snapdragon  695,8.0,2.2,8,128,4200,True,55.0,6.67,120,3,50.0,16.0,False,,android
+921,921,infinix,Infinix Note 11 (6GB RAM + 128GB),12799,77.0,False,False,False,dimensity,Helio G88,8.0,2.0,6,128,5000,True,33.0,6.7,60,3,50.0,16.0,True,,android
+922,922,xiaomi,Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),26999,86.0,True,False,True,dimensity,Dimensity  920 5G,8.0,2.5,8,128,4500,True,120.0,6.67,120,3,108.0,16.0,True,1000.0,android
+923,923,samsung,Samsung Galaxy F42 5G (8GB RAM + 128GB),22999,82.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,8,128,5000,True,15.0,6.6,90,3,64.0,8.0,True,1000.0,android
+924,924,apple,Apple iPhone 13 Pro (1TB),147900,84.0,True,True,False,apple,Bionic A15,6.0,3.22,6,1024,3095,True,,6.1,120,3,12.0,12.0,False,,ios
+925,925,nubia,Nubia Red Magic 6S 5G,44999,84.0,True,True,False,snapdragon,Snapdragon 888+,8.0,2.9,8,128,5050,True,30.0,6.8,165,3,64.0,8.0,,,android
+926,926,micromax,Micromax IN 2B (6GB RAM + 64GB),7790,68.0,False,False,False,unisoc,Unisoc  T610,8.0,1.8,6,64,5000,False,,6.52,60,2,13.0,5.0,True,256.0,android
+927,927,nokia,Nokia X60 5G,39990,87.0,True,False,False,snapdragon,Snapdragon  870,8.0,3.2,6,128,6000,True,33.0,6.51,144,4,200.0,16.0,True,,other
+928,928,vivo,Vivo Y12a,9999,65.0,False,False,False,snapdragon,Snapdragon  439 ,8.0,2.0,3,32,5000,False,,6.51,60,2,13.0,8.0,True,,android
+929,929,oppo,Oppo Reno 5A,22990,80.0,True,False,False,snapdragon,Snapdragon 765G,8.0,2.4,6,128,4000,True,18.0,6.5,90,4,64.0,16.0,True,1000.0,android
+930,930,poco,Poco F3 GT,32999,79.0,True,False,True,dimensity,Dimensity 1200,8.0,3.0,6,128,5065,True,67.0,6.67,120,3,64.0,16.0,,,android
+931,931,honor,Honor 50,32990,85.0,True,True,False,snapdragon,Snapdragon 778G,8.0,2.4,6,128,4300,True,66.0,6.57,120,4,108.0,32.0,False,,android
+932,932,oppo,OPPO A54 (6GB RAM + 128GB),14999,74.0,False,False,False,dimensity,Helio P35,8.0,2.3,6,128,5000,True,,6.51,60,3,13.0,16.0,True,256.0,android
+933,933,realme,Realme 8i,12499,74.0,False,False,False,dimensity,Helio G96,8.0,2.05,4,64,5000,True,18.0,6.6,120,3,50.0,16.0,True,256.0,android
+934,934,iqoo,iQOO 7 Legend,39990,84.0,True,True,False,snapdragon,Snapdragon  888 ,8.0,2.84,8,128,4000,True,66.0,6.62,120,3,48.0,16.0,,,android
+935,935,realme,Realme C11 2021,6499,61.0,False,False,False,sc9863a,SC9863A,8.0,1.6,2,32,5000,False,,6.52,60,1,8.0,5.0,True,,android
+936,936,samsung,Samsung Galaxy A22,18499,76.0,False,False,False,dimensity,Helio G80,8.0,2.0,6,128,5000,True,15.0,6.4,60,4,48.0,13.0,True,1000.0,android
+937,937,realme,Realme GT 5G,30994,85.0,True,True,False,snapdragon,Snapdragon  888 ,8.0,2.84,8,128,4500,True,65.0,6.43,120,3,64.0,16.0,,,android
+938,938,google,Google Pixel 5A,32999,78.0,True,True,False,snapdragon,Snapdragon 765G,8.0,2.4,6,128,4620,True,18.0,6.34,60,2,16.0,8.0,,,android
+939,939,samsung,Samsung Galaxy F12,10499,73.0,False,False,False,exynos,Exynos 850,8.0,2.0,4,64,6000,True,15.0,6.5,90,4,48.0,8.0,True,512.0,android
+940,940,samsung,Samsung Galaxy F41 (6GB RAM + 128GB),19999,82.0,False,False,False,exynos,Exynos 9611,8.0,2.3,6,128,6000,True,15.0,6.4,60,3,64.0,32.0,True,512.0,android
+941,941,samsung,Samsung Galaxy A21s (6GB RAM + 128GB),17499,75.0,False,False,False,exynos,Exynos 850,8.0,2.0,6,128,5000,False,,6.5,60,4,48.0,13.0,True,512.0,android
+942,942,xiaomi,Xiaomi Redmi 9A (6GB RAM + 128GB),10990,69.0,False,False,False,dimensity,Helio G25,8.0,2.0,6,128,5000,False,,6.53,60,1,13.0,5.0,True,512.0,android
+943,943,vivo,Vivo V20 SE,19000,82.0,False,False,False,snapdragon,Snapdragon  665,8.0,2.0,8,128,4100,True,33.0,6.44,60,3,48.0,32.0,True,,android
+944,944,oppo,OPPO A53 2020 (6GB RAM + 128GB),13990,70.0,False,False,False,snapdragon,Snapdragon 460,8.0,1.8,6,128,5000,True,18.0,6.5,90,3,13.0,16.0,True,256.0,android
+945,945,realme,Realme Narzo 20,10499,72.0,False,False,False,dimensity,Helio G85 ,8.0,2.0,4,64,6000,True,18.0,6.5,60,3,48.0,8.0,True,256.0,android
+946,946,itel,itel Vision 1 (3GB RAM + 32GB),5890,,False,False,False,unisoc,Unisoc  A55,8.0,1.6,3,32,4000,False,,6.09,60,2,8.0,5.0,True,128.0,android
+947,947,realme,Realme C11,6490,61.0,False,False,False,dimensity,Helio G35,8.0,2.3,2,32,5000,False,,6.5,60,2,13.0,5.0,True,256.0,android
+948,948,xiaomi,Xiaomi Mi 10 5G (8GB RAM + 256GB),54999,88.0,True,True,True,snapdragon,Snapdragon  865 ,8.0,2.84,8,256,4780,True,30.0,6.67,90,4,108.0,20.0,False,,android
+949,949,vivo,Vivo Y21 (2020),9990,65.0,False,False,False,snapdragon,Snapdragon 450,8.0,1.8,4,64,5000,False,,6.5,60,2,13.0,13.0,True,256.0,android
+950,950,oneplus,OnePlus Z,24999,79.0,False,False,False,snapdragon,Snapdragon 765G,8.0,2.4,8,128,4300,True,30.0,6.55,90,3,64.0,16.0,False,,android
+951,951,sharp,Sharp Aquos R5G,59990,88.0,False,True,False,snapdragon,Snapdragon 865,8.0,2.84,12,256,3730,True,,6.5,60,3,48.0,16.0,True,1000.0,android
+952,952,huawei,Huawei Mate 30 RS Porsche Design,214990,,True,True,True,kirin,Kirin  990,8.0,2.86,12,512,4500,True,,6.53,60,4,40.0,32.0,True,256.0,android
+953,953,samsung,Samsung Galaxy A11,9990,63.0,False,False,False,,,8.0,1.8,2,32,4000,True,15.0,6.4,60,3,13.0,8.0,True,512.0,android
+954,954,realme,Realme C2,6999,,False,False,False,dimensity,Helio P22,8.0,2.0,2,16,4000,False,,6.1,60,2,13.0,5.0,True,256.0,android
+955,955,huawei,Huawei Mate X,169000,,True,True,True,kirin,Kirin  990,8.0,2.86,8,512,4500,True,55.0,8.0,60,4,48.0,,True,256.0,other
+956,956,samsung,Samsung Galaxy A9 Pro (2019),39990,78.0,False,True,False,snapdragon,Snapdragon 710,8.0,2.2,6,128,3400,True,,6.4,60,3,24.0,24.0,True,512.0,android
+957,957,samsung,Samsung Galaxy A7 (2018),21490,70.0,False,False,False,exynos,Exynos 7885,8.0,2.2,4,64,3300,False,,6.0,60,3,24.0,24.0,True,512.0,android
+958,958,vivo,Vivo Y55S,13490,,False,False,False,snapdragon,Snapdragon 425,4.0,1.2,3,16,2730,False,,5.2,60,1,13.0,5.0,True,,android
+959,959,poco,Poco C55,7999,70.0,False,False,False,dimensity,Helio  G85,8.0,2.0,4,64,5000,False,,6.71,60,2,50.0,5.0,True,512.0,android
+960,960,blackview,Blackview BV5200 Pro,8990,67.0,True,True,False,dimensity,Helio G35,8.0,2.3,4,64,5180,True,10.0,6.1,60,2,13.0,8.0,True,,android
+961,961,honor,Honor X7a,13999,75.0,False,False,False,dimensity,Helio G37,8.0,2.3,6,128,5000,True,22.5,6.75,90,4,50.0,8.0,True,,android
+962,962,oppo,OPPO A58x,13990,72.0,True,False,False,dimensity,Dimensity 700 5G,8.0,2.2,6,128,5000,True,10.0,6.56,90,2,13.0,8.0,True,1000.0,android
+963,963,doogee,Doogee S99,14999,84.0,False,True,False,dimensity,Helio G96,8.0,2.05,8,128,6000,True,33.0,6.3,60,3,108.0,32.0,True,1000.0,android
+964,964,lava,Lava X3,6999,,False,False,False,dimensity,Helio A22,4.0,2.0,3,32,4000,False,,6.5,60,2,8.0,5.0,True,512.0,android
+965,965,motorola,Motorola Edge 40 Fusion,42990,87.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,4500,True,68.0,6.67,144,3,50.0,32.0,False,,android
+966,966,ikall,iKall Z18,6799,61.0,False,False,False,,,4.0,1.3,4,64,5000,False,,6.82,60,1,20.0,13.0,True,64.0,android
+967,967,oukitel,Oukitel WP9,25899,72.0,False,True,False,dimensity,Helio P60,8.0,2.0,6,128,8000,False,,5.86,60,3,16.0,8.0,True,,android
+968,968,xiaomi,Xiaomi 14,54999,89.0,True,True,True,snapdragon,Snapdragon 8 Gen2,8.0,3.2,12,256,5000,True,67.0,6.43,120,3,50.0,32.0,,,android
+969,969,motorola,Motorola ThinkPhone,49990,89.0,True,True,False,snapdragon,Snapdragon 8+ Gen1,8.0,3.2,8,128,5000,True,68.0,6.6,144,3,50.0,32.0,,,android
+970,970,xiaomi,Xiaomi Civi 3,32990,86.0,True,True,True,dimensity,Dimensity 8200,8.0,3.1,8,256,5000,True,80.0,6.7,120,3,64.0,32.0,,,android
+971,971,realme,Realme Narzo 50i Prime (4GB RAM + 64GB),8720,64.0,False,False,False,tiger,Tiger T612,8.0,1.82,4,64,5000,True,10.0,6.5,60,1,8.0,5.0,True,1000.0,android
+972,972,oppo,Oppo Find X6,69990,89.0,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,8,256,4700,True,120.0,6.73,120,3,50.0,32.0,,,android
+973,973,itel,itel A23s,4787,,False,False,False,spreadtrum,Spreadtrum  SC9832E,4.0,1.4,2,32,3020,False,,5.0,60,1,2.0,,,,android
+974,974,google,Google Pixel 8 Pro,70990,80.0,True,True,False,google,Google  Tensor 3,8.0,,12,256,5000,True,67.0,6.73,120,3,50.0,12.0,,,android
+975,975,vivo,Vivo X Fold 2,119990,,True,True,False,snapdragon,Snapdragon 8 Gen2,8.0,3.2,12,256,4800,True,66.0,8.03,120,3,50.0,32.0,,,android
+976,976,motorola,Motorola Moto Edge S30 Pro,34990,83.0,True,False,False,snapdragon,Snapdragon 8 Gen1,8.0,3.0,8,128,5000,True,68.2,6.67,120,3,64.0,16.0,,,android
+977,977,honor,Honor X8 5G,14990,75.0,True,False,False,snapdragon,Snapdragon  480+,8.0,2.2,6,128,5000,True,22.5,6.5,60,3,48.0,8.0,True,1000.0,android
+978,978,poco,POCO X4 GT 5G (8GB RAM + 256GB),28990,85.0,True,True,True,dimensity,Dimensity 8100,8.0,2.85,8,256,5080,True,67.0,6.6,144,3,64.0,16.0,False,,android
+979,979,motorola,Motorola Moto G91 5G,19990,80.0,True,True,False,snapdragon,Snapdragon 695,8.0,2.2,6,128,5000,True,,6.8,60,3,108.0,32.0,True,1000.0,android
+980,980,samsung,Samsung Galaxy M52s 5G,24990,74.0,True,False,False,,,8.0,,8,128,5000,True,,6.5,60,3,64.0,32.0,True,1000.0,android
